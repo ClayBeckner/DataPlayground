@@ -1,0 +1,823 @@
+"PARTICIPANT","GENDER","PAIR.INDEX","STIMULUS","FREQUENCY","COCAMD","ERRTYPE","CORRECT","NUM.WORDS","INTERRUPTED"
+"s1","Male",2,"all of a sudden","HI",55.29,"P",FALSE,"4",TRUE
+"s1","Male",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s1","Male",3,"as a result of","HI",56.25,"C",TRUE,"4",FALSE
+"s1","Male",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s1","Male",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s1","Male",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s1","Male",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s1","Male",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s1","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s1","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s1","Male",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s1","Male",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s1","Male",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s1","Male",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s1","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s1","Male",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s1","Male",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s1","Male",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s1","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s1","Male",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s1","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s1","Male",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s10","Female",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s10","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s10","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s10","Female",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s10","Female",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s10","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s10","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s10","Female",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s10","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s10","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s10","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s10","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s10","Female",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s10","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s10","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s10","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s10","Female",12,"through to","LO",9.65,"C",TRUE,"2",FALSE
+"s10","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s11","Male",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s11","Male",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s11","Male",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s11","Male",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s11","Male",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s11","Male",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s11","Male",5,"in the middle of","HI",55.79,"R",FALSE,"4",FALSE
+"s11","Male",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s11","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s11","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s11","Male",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s11","Male",8,"in fear of","LO",21.06,"RECAST",FALSE,"3",FALSE
+"s11","Male",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s11","Male",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s11","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s11","Male",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s11","Male",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s11","Male",12,"back to","HI",19.76,"P",FALSE,"2",TRUE
+"s11","Male",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s11","Male",13,"out of","HI",21.35,"P",FALSE,"2",TRUE
+"s11","Male",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s12","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s12","Female",2,"all of a sudden","HI",55.29,"R",FALSE,"4",FALSE
+"s12","Female",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s12","Female",4,"for the child of","LO",12.05,"C",TRUE,"4",FALSE
+"s12","Female",4,"for the sake of","HI",50.25,"P",FALSE,"4",TRUE
+"s12","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s12","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s12","Female",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s12","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s12","Female",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s12","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s12","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s12","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s12","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s12","Female",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s12","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s12","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s12","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s12","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s12","Female",13,"out to","LO",16.6,"R",FALSE,"2",FALSE
+"s14","Female",2,"all of a sudden","HI",55.29,"OMIT",FALSE,"4",FALSE
+"s14","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s14","Female",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s14","Female",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s14","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s14","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s14","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s14","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s14","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s14","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s14","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s14","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s14","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s14","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s14","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s14","Female",10,"on half of","LO",14.13,"C",TRUE,"3",FALSE
+"s14","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s14","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s14","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s14","Female",12,"through to","LO",9.65,"C",TRUE,"2",FALSE
+"s14","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s14","Female",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s15","Female",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s15","Female",2,"all of a sudden","HI",55.29,"OMIT",FALSE,"4",FALSE
+"s15","Female",3,"as a result of","HI",56.25,"C",TRUE,"4",FALSE
+"s15","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s15","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s15","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s15","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s15","Female",6,"on the part of","HI",49.15,"C",TRUE,"4",FALSE
+"s15","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s15","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s15","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s15","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s15","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s15","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s15","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s15","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s15","Female",10,"on half of","LO",14.13,"C",TRUE,"3",FALSE
+"s15","Female",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s15","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s15","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s15","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s15","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s15","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s16","Female",2,"all of a sudden","HI",55.29,"P",FALSE,"4",TRUE
+"s16","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s16","Female",3,"as a result of","HI",56.25,"C",TRUE,"4",FALSE
+"s16","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s16","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s16","Female",4,"for the child of","LO",12.05,"C",TRUE,"4",FALSE
+"s16","Female",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s16","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s16","Female",6,"on the part of","HI",49.15,"C",TRUE,"4",FALSE
+"s16","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s16","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s16","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s16","Female",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s16","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s16","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s16","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s16","Female",10,"on half of","LO",14.13,"C",TRUE,"3",FALSE
+"s16","Female",10,"on top of","HI",36.6,"P",FALSE,"3",TRUE
+"s16","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s16","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s16","Female",12,"back to","HI",19.76,"P",FALSE,"2",TRUE
+"s16","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s16","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s16","Female",13,"out of","HI",21.35,"R",FALSE,"2",FALSE
+"s17","Female",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s17","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s17","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s17","Female",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s17","Female",4,"for the child of","LO",12.05,"C",TRUE,"4",FALSE
+"s17","Female",4,"for the sake of","HI",50.25,"R",FALSE,"4",FALSE
+"s17","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s17","Female",5,"in the middle of","HI",55.79,"R",FALSE,"4",FALSE
+"s17","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s17","Female",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s17","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s17","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s17","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s17","Female",9,"in terms of","HI",40.39,"P",FALSE,"3",TRUE
+"s17","Female",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s17","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s17","Female",10,"on half of","LO",14.13,"C",TRUE,"3",FALSE
+"s17","Female",11,"looking to","LO",13.1,"P",FALSE,"2",TRUE
+"s17","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s17","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s17","Female",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s17","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s17","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s18","Female",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s18","Female",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s18","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s18","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s18","Female",4,"for the child of","LO",12.05,"R",FALSE,"4",FALSE
+"s18","Female",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s18","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s18","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s18","Female",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s18","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s18","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s18","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s18","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s18","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s18","Female",11,"looking to","LO",13.1,"P",FALSE,"2",TRUE
+"s18","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s18","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s18","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s18","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s18","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s2","Female",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s2","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s2","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s2","Female",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s2","Female",4,"for the sake of","HI",50.25,"P",FALSE,"4",TRUE
+"s2","Female",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s2","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s2","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s2","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s2","Female",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s2","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s2","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s2","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s2","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s2","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s2","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s2","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s2","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s2","Female",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s2","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s2","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s2","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s2","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s2","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s20","Male",2,"all of a sudden","HI",55.29,"OMIT",FALSE,"4",FALSE
+"s20","Male",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s20","Male",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s20","Male",3,"as a result of","HI",56.25,"RECAST",FALSE,"4",FALSE
+"s20","Male",4,"for the sake of","HI",50.25,"R",FALSE,"4",FALSE
+"s20","Male",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s20","Male",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s20","Male",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s20","Male",6,"on the life of","LO",30.22,"R",FALSE,"4",FALSE
+"s20","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s20","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s20","Male",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s20","Male",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s20","Male",9,"in terms of","HI",40.39,"P",FALSE,"3",TRUE
+"s20","Male",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s20","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s20","Male",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s20","Male",11,"according to","HI",21.86,"P",FALSE,"2",TRUE
+"s20","Male",11,"looking to","LO",13.1,"P",FALSE,"2",TRUE
+"s20","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s20","Male",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s20","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s20","Male",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s21","Female",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s21","Female",2,"all of a sudden","HI",55.29,"P",FALSE,"4",TRUE
+"s21","Female",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s21","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s21","Female",6,"on the part of","HI",49.15,"C",TRUE,"4",FALSE
+"s21","Female",6,"on the life of","LO",30.22,"R",FALSE,"4",FALSE
+"s21","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s21","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s21","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s21","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s21","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s21","Female",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s21","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s21","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s21","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s21","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s21","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s21","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s21","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s22","Female",2,"all of a sudden","HI",55.29,"P",FALSE,"4",TRUE
+"s22","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s22","Female",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s22","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s22","Female",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s22","Female",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s22","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s22","Female",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s22","Female",6,"on the life of","LO",30.22,"R",FALSE,"4",FALSE
+"s22","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s22","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s22","Female",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s22","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s22","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s22","Female",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s22","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s22","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s22","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s22","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s22","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s22","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s22","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s22","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s23","Male",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s23","Male",2,"all of a sudden","HI",55.29,"OMIT",FALSE,"4",FALSE
+"s23","Male",3,"as a result of","HI",56.25,"C",TRUE,"4",FALSE
+"s23","Male",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s23","Male",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s23","Male",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s23","Male",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s23","Male",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s23","Male",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s23","Male",6,"on the life of","LO",30.22,"R",FALSE,"4",FALSE
+"s23","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s23","Male",7,"as big as","LO",30.24,"P",FALSE,"3",TRUE
+"s23","Male",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s23","Male",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s23","Male",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s23","Male",9,"in terms of","HI",40.39,"R",FALSE,"3",FALSE
+"s23","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s23","Male",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s23","Male",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s23","Male",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s23","Male",12,"back to","HI",19.76,"R",FALSE,"2",FALSE
+"s23","Male",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s23","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s24","Male",2,"all of a sudden","HI",55.29,"P",FALSE,"4",TRUE
+"s24","Male",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s24","Male",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s24","Male",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s24","Male",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s24","Male",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s24","Male",6,"on the life of","LO",30.22,"R",FALSE,"4",FALSE
+"s24","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s24","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s24","Male",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s24","Male",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s24","Male",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s24","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s24","Male",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s24","Male",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s24","Male",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s24","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s24","Male",12,"through to","LO",9.65,"C",TRUE,"2",FALSE
+"s24","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s24","Male",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s25","Male",2,"all of a sudden","HI",55.29,"OMIT",FALSE,"4",FALSE
+"s25","Male",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s25","Male",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s25","Male",3,"as a result of","HI",56.25,"P",FALSE,"4",TRUE
+"s25","Male",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s25","Male",4,"for the sake of","HI",50.25,"R",FALSE,"4",FALSE
+"s25","Male",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s25","Male",5,"in the middle of","HI",55.79,"R",FALSE,"4",FALSE
+"s25","Male",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s25","Male",6,"on the life of","LO",30.22,"R",FALSE,"4",FALSE
+"s25","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s25","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s25","Male",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s25","Male",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s25","Male",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s25","Male",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s25","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s25","Male",10,"on half of","LO",14.13,"R",FALSE,"3",FALSE
+"s25","Male",11,"looking to","LO",13.1,"P",FALSE,"2",TRUE
+"s25","Male",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s25","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s25","Male",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s25","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s25","Male",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s26","Female",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s26","Female",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s26","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s26","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s26","Female",4,"for the child of","LO",12.05,"C",TRUE,"4",FALSE
+"s26","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s26","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s26","Female",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s26","Female",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s26","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s26","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s26","Female",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s26","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s26","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s26","Female",9,"in terms of","HI",40.39,"P",FALSE,"3",TRUE
+"s26","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s26","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s26","Female",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s26","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s26","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s26","Female",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s26","Female",13,"out of","HI",21.35,"P",FALSE,"2",TRUE
+"s26","Female",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s27","Female",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s27","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s27","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s27","Female",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s27","Female",4,"for the sake of","HI",50.25,"RECAST",FALSE,"4",FALSE
+"s27","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s27","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s27","Female",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s27","Female",6,"on the part of","HI",49.15,"RECAST",FALSE,"4",FALSE
+"s27","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s27","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s27","Female",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s27","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s27","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s27","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s27","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s27","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s27","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s27","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s27","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s27","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s27","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s27","Female",13,"out to","LO",16.6,"R",FALSE,"2",FALSE
+"s28","Male",2,"all of a sudden","HI",55.29,"R",FALSE,"4",FALSE
+"s28","Male",3,"as a result of","HI",56.25,"P",FALSE,"4",TRUE
+"s28","Male",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s28","Male",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s28","Male",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s28","Male",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s28","Male",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s28","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s28","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s28","Male",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s28","Male",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s28","Male",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s28","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s28","Male",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s28","Male",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s28","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s28","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s28","Male",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s29","Female",2,"all of a sudden","HI",55.29,"OMIT",FALSE,"4",FALSE
+"s29","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s29","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s29","Female",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s29","Female",4,"for the child of","LO",12.05,"C",TRUE,"4",FALSE
+"s29","Female",4,"for the sake of","HI",50.25,"P",FALSE,"4",TRUE
+"s29","Female",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s29","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s29","Female",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s29","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s29","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s29","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s29","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s29","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s29","Female",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s29","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s29","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s29","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s29","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s29","Female",12,"back to","HI",19.76,"P",FALSE,"2",TRUE
+"s29","Female",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s29","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s3","Female",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s3","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s3","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s3","Female",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s3","Female",4,"for the sake of","HI",50.25,"P",FALSE,"4",TRUE
+"s3","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s3","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s3","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s3","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s3","Female",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s3","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s3","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s3","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s3","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s3","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s3","Female",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s3","Female",11,"looking to","LO",13.1,"P",FALSE,"2",TRUE
+"s3","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s3","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s3","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s3","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s30","Male",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s30","Male",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s30","Male",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s30","Male",3,"as a result of","HI",56.25,"P",FALSE,"4",TRUE
+"s30","Male",4,"for the sake of","HI",50.25,"R",FALSE,"4",FALSE
+"s30","Male",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s30","Male",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s30","Male",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s30","Male",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s30","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s30","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s30","Male",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s30","Male",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s30","Male",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s30","Male",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s30","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s30","Male",10,"on half of","LO",14.13,"RECAST",FALSE,"3",FALSE
+"s30","Male",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s30","Male",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s30","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s30","Male",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s30","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s30","Male",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s31","Male",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s31","Male",2,"all of a sudden","HI",55.29,"P",FALSE,"4",TRUE
+"s31","Male",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s31","Male",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s31","Male",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s31","Male",5,"in the style of","LO",34.84,"C",TRUE,"4",FALSE
+"s31","Male",5,"in the middle of","HI",55.79,"R",FALSE,"4",FALSE
+"s31","Male",6,"on the part of","HI",49.15,"C",TRUE,"4",FALSE
+"s31","Male",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s31","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s31","Male",7,"as big as","LO",30.24,"P",FALSE,"3",TRUE
+"s31","Male",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s31","Male",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s31","Male",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s31","Male",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s31","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s31","Male",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s31","Male",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s31","Male",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s31","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s31","Male",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s31","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s31","Male",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s32","Female",2,"all of a sudden","HI",55.29,"P",FALSE,"4",TRUE
+"s32","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s32","Female",3,"as a result of","HI",56.25,"C",TRUE,"4",FALSE
+"s32","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s32","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s32","Female",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s32","Female",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s32","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s32","Female",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s32","Female",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s32","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s32","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s32","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s32","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s32","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s32","Female",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s32","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s32","Female",10,"on half of","LO",14.13,"C",TRUE,"3",FALSE
+"s32","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s32","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s32","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s32","Female",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s32","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s32","Female",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s33","Female",2,"all of a sudden","HI",55.29,"P",FALSE,"4",TRUE
+"s33","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s33","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s33","Female",3,"as a result of","HI",56.25,"RECAST",FALSE,"4",FALSE
+"s33","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s33","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s33","Female",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s33","Female",6,"on the life of","LO",30.22,"R",FALSE,"4",FALSE
+"s33","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s33","Female",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s33","Female",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s33","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s33","Female",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s33","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s33","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s33","Female",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s33","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s33","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s33","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s33","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s34","Female",2,"all of a sudden","HI",55.29,"R",FALSE,"4",FALSE
+"s34","Female",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s34","Female",3,"as a result of","HI",56.25,"RECAST",FALSE,"4",FALSE
+"s34","Female",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s34","Female",4,"for the sake of","HI",50.25,"R",FALSE,"4",FALSE
+"s34","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s34","Female",6,"on the life of","LO",30.22,"R",FALSE,"4",FALSE
+"s34","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s34","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s34","Female",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s34","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s34","Female",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s34","Female",9,"in terms of","HI",40.39,"R",FALSE,"3",FALSE
+"s34","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s34","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s34","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s34","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s34","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s34","Female",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s35","Female",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s35","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s35","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s35","Female",4,"for the sake of","HI",50.25,"R",FALSE,"4",FALSE
+"s35","Female",4,"for the child of","LO",12.05,"R",FALSE,"4",FALSE
+"s35","Female",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s35","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s35","Female",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s35","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s35","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s35","Female",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s35","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s35","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s35","Female",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s35","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s35","Female",10,"on half of","LO",14.13,"RECAST",FALSE,"3",FALSE
+"s35","Female",11,"looking to","LO",13.1,"P",FALSE,"2",TRUE
+"s35","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s35","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s35","Female",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s35","Female",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s36","Male",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s36","Male",2,"all of a sudden","HI",55.29,"P",FALSE,"4",TRUE
+"s36","Male",3,"as a result of","HI",56.25,"C",TRUE,"4",FALSE
+"s36","Male",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s36","Male",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s36","Male",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s36","Male",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s36","Male",5,"in the style of","LO",34.84,"C",TRUE,"4",FALSE
+"s36","Male",6,"on the part of","HI",49.15,"C",TRUE,"4",FALSE
+"s36","Male",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s36","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s36","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s36","Male",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s36","Male",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s36","Male",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s36","Male",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s36","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s36","Male",10,"on half of","LO",14.13,"C",TRUE,"3",FALSE
+"s36","Male",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s36","Male",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s36","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s36","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s36","Male",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s37","Male",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s37","Male",3,"as a result of","HI",56.25,"P",FALSE,"4",TRUE
+"s37","Male",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s37","Male",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s37","Male",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s37","Male",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s37","Male",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s37","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s37","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s37","Male",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s37","Male",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s37","Male",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s37","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s37","Male",11,"looking to","LO",13.1,"P",FALSE,"2",TRUE
+"s37","Male",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s37","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s37","Male",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s37","Male",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s38","Male",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s38","Male",2,"all of a sudden","HI",55.29,"OMIT",FALSE,"4",FALSE
+"s38","Male",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s38","Male",4,"for the sake of","HI",50.25,"R",FALSE,"4",FALSE
+"s38","Male",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s38","Male",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s38","Male",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s38","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s38","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s38","Male",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s38","Male",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s38","Male",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s38","Male",10,"on top of","HI",36.6,"P",FALSE,"3",TRUE
+"s38","Male",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s38","Male",11,"looking to","LO",13.1,"P",FALSE,"2",TRUE
+"s38","Male",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s38","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s38","Male",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s4","Female",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s4","Female",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s4","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s4","Female",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s4","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s4","Female",4,"for the child of","LO",12.05,"C",TRUE,"4",FALSE
+"s4","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s4","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s4","Female",6,"on the part of","HI",49.15,"C",TRUE,"4",FALSE
+"s4","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s4","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s4","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s4","Female",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s4","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s4","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s4","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s4","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s4","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s4","Female",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s4","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s4","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s4","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s4","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s4","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s41","Male",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s41","Male",2,"all of a sudden","HI",55.29,"P",FALSE,"4",TRUE
+"s41","Male",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s41","Male",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s41","Male",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s41","Male",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s41","Male",5,"in the style of","LO",34.84,"C",TRUE,"4",FALSE
+"s41","Male",6,"on the part of","HI",49.15,"C",TRUE,"4",FALSE
+"s41","Male",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s41","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s41","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s41","Male",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s41","Male",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s41","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s41","Male",10,"on half of","LO",14.13,"C",TRUE,"3",FALSE
+"s41","Male",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s41","Male",11,"looking to","LO",13.1,"P",FALSE,"2",TRUE
+"s41","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s41","Male",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s41","Male",13,"out of","HI",21.35,"P",FALSE,"2",TRUE
+"s41","Male",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s42","Female",2,"all of a sudden","HI",55.29,"OMIT",FALSE,"4",FALSE
+"s42","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s42","Female",3,"as the name of","LO",23.1,"P",FALSE,"4",TRUE
+"s42","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s42","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s42","Female",5,"in the style of","LO",34.84,"C",TRUE,"4",FALSE
+"s42","Female",6,"on the life of","LO",30.22,"P",FALSE,"4",TRUE
+"s42","Female",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s42","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s42","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s42","Female",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s42","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s42","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s42","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s42","Female",10,"on half of","LO",14.13,"C",TRUE,"3",FALSE
+"s42","Female",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s42","Female",11,"looking to","LO",13.1,"P",FALSE,"2",TRUE
+"s42","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s42","Female",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s42","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s42","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s5","Female",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s5","Female",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s5","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s5","Female",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s5","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s5","Female",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s5","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s5","Female",5,"in the style of","LO",34.84,"C",TRUE,"4",FALSE
+"s5","Female",6,"on the part of","HI",49.15,"C",TRUE,"4",FALSE
+"s5","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s5","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s5","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s5","Female",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s5","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s5","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s5","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s5","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s5","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s5","Female",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s5","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s5","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s5","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s5","Female",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s6","Female",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s6","Female",2,"all of a boy","LO",3.15,"C",TRUE,"4",FALSE
+"s6","Female",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s6","Female",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s6","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s6","Female",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s6","Female",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s6","Female",5,"in the style of","LO",34.84,"C",TRUE,"4",FALSE
+"s6","Female",6,"on the part of","HI",49.15,"C",TRUE,"4",FALSE
+"s6","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s6","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s6","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s6","Female",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s6","Female",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s6","Female",9,"in terms of","HI",40.39,"C",TRUE,"3",FALSE
+"s6","Female",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s6","Female",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s6","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s6","Female",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s6","Female",12,"back to","HI",19.76,"P",FALSE,"2",TRUE
+"s6","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s6","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s6","Female",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s7","Male",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s7","Male",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s7","Male",3,"as a result of","HI",56.25,"C",TRUE,"4",FALSE
+"s7","Male",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s7","Male",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s7","Male",4,"for the child of","LO",12.05,"C",TRUE,"4",FALSE
+"s7","Male",5,"in the middle of","HI",55.79,"P",FALSE,"4",TRUE
+"s7","Male",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s7","Male",6,"on the part of","HI",49.15,"C",TRUE,"4",FALSE
+"s7","Male",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s7","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s7","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s7","Male",8,"in spite of","HI",36.52,"C",TRUE,"3",FALSE
+"s7","Male",8,"in fear of","LO",21.06,"C",TRUE,"3",FALSE
+"s7","Male",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s7","Male",9,"in terms of","HI",40.39,"R",FALSE,"3",FALSE
+"s7","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s7","Male",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s7","Male",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s7","Male",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s7","Male",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s7","Male",12,"through to","LO",9.65,"P",FALSE,"2",TRUE
+"s7","Male",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s7","Male",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s8","Female",2,"all of a sudden","HI",55.29,"OMIT",FALSE,"4",FALSE
+"s8","Female",2,"all of a boy","LO",3.15,"P",FALSE,"4",TRUE
+"s8","Female",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s8","Female",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s8","Female",5,"in the middle of","HI",55.79,"RECAST",FALSE,"4",FALSE
+"s8","Female",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s8","Female",6,"on the part of","HI",49.15,"R",FALSE,"4",FALSE
+"s8","Female",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s8","Female",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s8","Female",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s8","Female",9,"in things of","LO",3.48,"P",FALSE,"3",TRUE
+"s8","Female",9,"in terms of","HI",40.39,"R",FALSE,"3",FALSE
+"s8","Female",10,"on top of","HI",36.6,"P",FALSE,"3",TRUE
+"s8","Female",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s8","Female",11,"looking to","LO",13.1,"C",TRUE,"2",FALSE
+"s8","Female",11,"according to","HI",21.86,"RECAST",FALSE,"2",FALSE
+"s8","Female",12,"back to","HI",19.76,"C",TRUE,"2",FALSE
+"s8","Female",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s8","Female",13,"out of","HI",21.35,"C",TRUE,"2",FALSE
+"s8","Female",13,"out to","LO",16.6,"P",FALSE,"2",TRUE
+"s9","Male",2,"all of a sudden","HI",55.29,"C",TRUE,"4",FALSE
+"s9","Male",3,"as the name of","LO",23.1,"C",TRUE,"4",FALSE
+"s9","Male",3,"as a result of","HI",56.25,"R",FALSE,"4",FALSE
+"s9","Male",4,"for the sake of","HI",50.25,"C",TRUE,"4",FALSE
+"s9","Male",4,"for the child of","LO",12.05,"P",FALSE,"4",TRUE
+"s9","Male",5,"in the middle of","HI",55.79,"C",TRUE,"4",FALSE
+"s9","Male",5,"in the style of","LO",34.84,"P",FALSE,"4",TRUE
+"s9","Male",6,"on the life of","LO",30.22,"C",TRUE,"4",FALSE
+"s9","Male",7,"as soon as","HI",40.81,"C",TRUE,"3",FALSE
+"s9","Male",7,"as big as","LO",30.24,"C",TRUE,"3",FALSE
+"s9","Male",8,"in fear of","LO",21.06,"P",FALSE,"3",TRUE
+"s9","Male",8,"in spite of","HI",36.52,"R",FALSE,"3",FALSE
+"s9","Male",9,"in things of","LO",3.48,"C",TRUE,"3",FALSE
+"s9","Male",9,"in terms of","HI",40.39,"R",FALSE,"3",FALSE
+"s9","Male",10,"on top of","HI",36.6,"C",TRUE,"3",FALSE
+"s9","Male",10,"on half of","LO",14.13,"P",FALSE,"3",TRUE
+"s9","Male",11,"according to","HI",21.86,"C",TRUE,"2",FALSE
+"s9","Male",12,"back to","HI",19.76,"P",FALSE,"2",TRUE
+"s9","Male",12,"through to","LO",9.65,"R",FALSE,"2",FALSE
+"s9","Male",13,"out to","LO",16.6,"C",TRUE,"2",FALSE
+"s9","Male",13,"out of","HI",21.35,"R",FALSE,"2",FALSE
