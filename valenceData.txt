@@ -1,0 +1,241 @@
+"participant" "peerCondition" "item" "preValenceRating" "postValenceRating" "preWord" "postWord" "peerWord" "alignedVocab" "peerWordValence" "valRatingChange" "gender" "age" "agreeableness" "openness" "conscientiousness" "extraversion" "emotionStabil"
+"p149771" "robot.trust" "baby" 0 0 "baby" "OTHER" "sprog" FALSE 0.107142857 0 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "king" 0 3 "OTHER" "king" "king" TRUE 0.464285714 3 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "people" 3 3 "group of people" "people" "people" TRUE 1.178571429 0 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "soldier" -1 -1 "Terrorist" "soldier" "soldier" TRUE -0.642857143 0 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "drugs" 0 3 "pills" "pills" "medicine" FALSE 0.464285714 3 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "dirt" 0 0 "OTHER" "dirt" "gravel" FALSE -0.25 0 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "mouse" -1 -4 "rat" "OTHER" "mouse" FALSE 0.464285714 -3 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "wedge" 0 3 "OTHER" "pizza slice" "pizza slice" TRUE 1.571428571 3 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "road" 0 4 "road" "road" "avenue" FALSE 1.178571429 4 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "socket" 0 0 "plug" "OTHER" "socket" FALSE 0.142857143 0 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "microbes" 0 -1 "OTHER" "germs" "germs" TRUE -0.75 -1 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "factory" -1 -4 "OTHER" "OTHER" "pollution" FALSE -1.821428571 -3 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "boot" 3 3 "boot" "boot" "work boot" FALSE -0.321428571 0 "male" 23 4 6 2.5 4.5 7
+"p149771" "robot.trust" "city" 3 3 "city" "city" "buildings" FALSE 0.214285714 0 "male" 23 4 6 2.5 4.5 7
+"p216808" "robot.trust" "dog" 2 2 "dog" "wolf" "wolf" TRUE 0.535714286 0 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "king" 0 0 "OTHER" "electric chair" "electric chair" TRUE -1.892857143 0 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "wedge" -1 0 "OTHER" "OTHER" "concrete" FALSE -0.107142857 1 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "road" 0 0 "ladder" "avenue" "avenue" TRUE 1.178571429 0 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "drugs" 0 0 "OTHER" "drugs" "drugs" TRUE -0.714285714 0 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "marijuana" 1 1 "OTHER" "marijuana" "weed" FALSE -0.285714286 0 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "city" 1 0 "city" "buildings" "buildings" TRUE 0.214285714 -1 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "microbes" 2 0 "bugs" "germs" "germs" TRUE -0.75 -2 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "socket" 0 0 "OTHER" "face" "face" TRUE 1.035714286 0 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "boot" 2 1 "OTHER" "OTHER" "shoe" FALSE 0.607142857 -1 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "recycling" -1 0 "bin" "wheely bin" "rubbish bin" FALSE -0.142857143 1 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "baby" 2 2 "baby" "baby" "sprog" FALSE 0.107142857 0 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "dirt" 0 0 "dirt" "OTHER" "sand" FALSE 1.035714286 0 "female" 30 5 5.5 5.5 6 5.5
+"p216808" "robot.trust" "moth" 2 2 "butterfly" "butterfly" "insect" FALSE 0.107142857 0 "female" 30 5 5.5 5.5 6 5.5
+"p25781" "robot.trust" "road" 0 2 "road" "road" "avenue" FALSE 1.178571429 2 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "mouse" 0 0 "rodent" "rodent" "rat" FALSE -0.666666667 0 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "king" -4 1 "OTHER" "king" "king" TRUE 0.464285714 5 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "soldier" -4 -4 "shooter" "shooter" "gunman" FALSE -1.857142857 0 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "recycling" 0 2 "recycling bin" "rubbish bin" "rubbish bin" TRUE -0.142857143 2 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "drugs" -1 1 "medication" "drugs" "drugs" TRUE -0.714285714 2 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "baby" 2 3 "child" "child" "kid" FALSE 1.071428571 1 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "socket" 0 2 "OTHER" "OTHER" "socket" FALSE 0.142857143 2 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "factory" -4 -2 "OTHER" "factory" "pollution" FALSE -1.821428571 2 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "wedge" 0 2 "mortar" "mortar" "concrete" FALSE -0.107142857 2 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "dirt" 0 1 "dirt" "sand" "sand" TRUE 1.035714286 1 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "marijuana" 0 1 "leaf" "leaf" "weed" FALSE -0.285714286 1 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "house" 3 3 "house" "house" "home" FALSE 1.928571429 0 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "city" 0 3 "OTHER" "city" "town" FALSE 1.178571429 3 "female" 21 7 6 6 4.5 3.5
+"p25781" "robot.trust" "moth" 3 3 "butterfly" "insect" "insect" TRUE 0.107142857 0 "female" 21 7 6 6 4.5 3.5
+"p310553" "robot.trust" "mouse" 3 2 "mouse" "mouse" "rat" FALSE -0.666666667 -1 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "factory" -4 -4 "factory" "factory" "pollution" FALSE -1.821428571 0 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "house" 3 2 "house" "house" "home" FALSE 1.928571429 -1 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "church" -2 -1 "church" "church" "cathedral" FALSE 0.857142857 1 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "boot" -1 1 "boot" "boot" "shoe" FALSE 0.607142857 2 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "soldier" -4 -1 "OTHER" "soldier" "soldier" TRUE -0.642857143 3 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "dirt" -2 1 "dirt" "gravel" "gravel" TRUE -0.25 3 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "people" -1 -1 "group" "crowd" "crowd" TRUE -0.142857143 0 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "road" -1 1 "road" "road" "highway" FALSE 0.0714285710000002 2 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "city" 1 1 "city" "city" "buildings" FALSE 0.214285714 0 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "wedge" 1 1 "cement" "pizza slice" "pizza slice" TRUE 1.571428571 0 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "baby" 3 3 "baby" "baby" "sprog" FALSE 0.107142857 0 "female" 20 5 6 6 2.5 4.5
+"p310553" "robot.trust" "socket" 0 1 "plug" "OTHER" "socket" FALSE 0.142857143 1 "female" 20 5 6 6 2.5 4.5
+"p409561" "robot.trust" "house" 2 3 "house" "house" "home" FALSE 1.928571429 1 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "factory" -2 -4 "factory" "factory" "pollution" FALSE -1.821428571 -2 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "boot" -1 -1 "boot" "boot" "shoe" FALSE 0.607142857 0 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "mouse" -2 1 "mouse" "mouse" "rat" FALSE -0.666666667 3 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "dirt" -2 2 "dirt" "sand" "sand" TRUE 1.035714286 4 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "drugs" 1 1 "medicine" "medicine" "drugs" FALSE -0.714285714 0 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "baby" 2 3 "baby" "baby" "kid" FALSE 1.071428571 1 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "people" 3 1 "people" "crowd" "crowd" TRUE -0.142857143 -2 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "city" -1 4 "city" "city" "town" FALSE 1.178571429 5 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "soldier" -4 -1 "shooter" "soldier" "soldier" TRUE -0.642857143 3 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "socket" 2 2 "OTHER" "face" "face" TRUE 1.035714286 0 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "wedge" -1 3 "OTHER" "OTHER" "pizza slice" FALSE 1.571428571 4 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "road" 1 -1 "road" "road" "highway" FALSE 0.0714285710000002 -2 "male" 19 6.5 6 5.5 4 4.5
+"p409561" "robot.trust" "king" -4 -4 "OTHER" "electric chair" "electric chair" TRUE -1.892857143 0 "male" 19 6.5 6 5.5 4 4.5
+"p429131" "robot.trust" "soldier" -4 0 "OTHER" "OTHER" "soldier" FALSE -0.642857143 4 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "dog" 3 2 "dog" "dog" "wolf" FALSE 0.535714286 -1 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "factory" -1 1 "factory" "OTHER" "pollution" FALSE -1.821428571 2 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "house" 2 3 "home" "house" "house" TRUE 1.107142857 1 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "boot" 1 2 "boot" "boot" "shoe" FALSE 0.607142857 1 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "king" 2 -4 "OTHER" "electric chair" "electric chair" TRUE -1.892857143 -6 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "marijuana" 3 2 "cannibis" "cannibis" "leaf" FALSE 1.071428571 -1 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "dirt" -4 0 "OTHER" "gravel" "gravel" TRUE -0.25 4 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "drugs" 3 3 "pills" "pills" "medicine" FALSE 0.464285714 0 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "city" 2 3 "city" "city" "buildings" FALSE 0.214285714 1 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "socket" 3 3 "OTHER" "socket" "socket" TRUE 0.142857143 0 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "baby" 0 -1 "baby" "baby" "sprog" FALSE 0.107142857 -1 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "people" 0 0 "crowd" "crowd" "people" FALSE 1.178571429 0 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "road" 2 0 "road" "road" "avenue" FALSE 1.178571429 -2 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "recycling" 1 0 "rubbish bin" "recycling bin" "recycling bin" TRUE 0.785714286 -1 "male" 35 6.5 6.5 3 3.5 3
+"p429131" "robot.trust" "wedge" 0 2 "OTHER" "pizza slice" "pizza slice" TRUE 1.571428571 2 "male" 35 6.5 6.5 3 3.5 3
+"p519903" "robot.trust" "church" -1 -1 "church" "church" "cathedral" FALSE 0.857142857 0 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "factory" -1 -1 "factory" "factory" "pollution" FALSE -1.821428571 0 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "boot" 0 0 "boot" "boot" "work boot" FALSE -0.321428571 0 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "city" 0 1 "city" "city" "town" FALSE 1.178571429 1 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "dirt" 0 0 "OTHER" "OTHER" "sand" FALSE 1.035714286 0 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "dog" 3 1 "dog" "dog" "wolf" FALSE 0.535714286 -2 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "socket" 0 -1 "OTHER" "OTHER" "face" FALSE 1.035714286 -1 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "road" 0 0 "road" "road" "highway" FALSE 0.0714285710000002 0 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "people" 0 1 "crowd" "crowd" "people" FALSE 1.178571429 1 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "king" -4 -4 "OTHER" "electric chair" "electric chair" TRUE -1.892857143 0 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "baby" 2 2 "toddler" "child" "kid" FALSE 1.071428571 0 "female" 20 6.5 5.5 6.5 3.5 4
+"p519903" "robot.trust" "wedge" -1 0 "OTHER" "cement" "concrete" FALSE -0.107142857 1 "female" 20 6.5 5.5 6.5 3.5 4
+"p652815" "robot.trust" "king" -1 1 "OTHER" "king" "king" TRUE 0.464285714 2 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "dirt" 1 2 "OTHER" "gravel" "gravel" TRUE -0.25 1 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "soldier" -1 1 "OTHER" "soldier" "soldier" TRUE -0.642857143 2 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "city" 1 2 "OTHER" "buildings" "buildings" TRUE 0.214285714 1 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "socket" 1 3 "powerpoint" "face" "face" TRUE 1.035714286 2 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "factory" -1 1 "factory" "factory" "pollution" FALSE -1.821428571 2 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "road" 1 3 "OTHER" "highway" "highway" TRUE 0.0714285710000002 2 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "people" 1 2 "group of people" "people" "people" TRUE 1.178571429 1 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "boot" 1 2 "boot" "boot" "work boot" FALSE -0.321428571 1 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "baby" 2 3 "baby" "kid" "kid" TRUE 1.071428571 1 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "recycling" 1 2 "wheely bin" "recycling bin" "recycling bin" TRUE 0.785714286 1 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "moth" 2 3 "butterfly" "butterfly" "insect" FALSE 0.107142857 1 "male" 27 4.5 4 5 2.5 3.5
+"p652815" "robot.trust" "wedge" 1 2 "concrete" "pizza slice" "pizza slice" TRUE 1.571428571 1 "male" 27 4.5 4 5 2.5 3.5
+"p655590" "robot.trust" "dirt" -1 0 "OTHER" "gravel" "gravel" TRUE -0.25 1 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "mouse" 0 0 "mouse" "mouse" "rat" FALSE -0.666666667 0 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "boot" 1 0 "OTHER" "boot" "work boot" FALSE -0.321428571 -1 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "wedge" 0 0 "mortar" "mortar" "concrete" FALSE -0.107142857 0 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "factory" -4 -4 "pollution" "factory" "factory" TRUE -0.571428571 0 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "people" 1 2 "people" "crowd" "crowd" TRUE -0.142857143 1 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "drugs" -2 -1 "pills" "medicine" "medicine" TRUE 0.464285714 1 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "dog" 2 3 "dog" "dog" "wolf" FALSE 0.535714286 1 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "socket" 2 2 "plug" "socket" "socket" TRUE 0.142857143 0 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "king" -4 -4 "OTHER" "OTHER" "electric chair" FALSE -1.892857143 0 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "city" 2 2 "skyscrapers" "buildings" "buildings" TRUE 0.214285714 0 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "road" 2 -1 "road" "avenue" "avenue" TRUE 1.178571429 -3 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "marijuana" 3 3 "weed" "marijuana" "leaf" FALSE 1.071428571 0 "male" 32 4.5 6 3.5 6 2.5
+"p655590" "robot.trust" "baby" 2 2 "baby" "baby" "kid" FALSE 1.071428571 0 "male" 32 4.5 6 3.5 6 2.5
+"p67154" "robot.trust" "soldier" -1 -1 "OTHER" "OTHER" "gunman" FALSE -1.857142857 0 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "dirt" 1 -1 "dirt" "dirt" "gravel" FALSE -0.25 -2 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "house" 1 1 "house" "house" "home" FALSE 1.928571429 0 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "church" -2 -1 "church" "church" "cathedral" FALSE 0.857142857 1 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "city" 1 1 "city" "city" "town" FALSE 1.178571429 0 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "marijuana" -1 1 "OTHER" "leaf" "leaf" TRUE 1.071428571 2 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "factory" -1 1 "OTHER" "factory" "factory" TRUE -0.571428571 2 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "moth" 1 1 "butterfly" "butterfly" "insect" FALSE 0.107142857 0 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "boot" -1 -1 "boot" "boot" "shoe" FALSE 0.607142857 0 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "dog" -2 -1 "dog" "dog" "wolf" FALSE 0.535714286 1 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "baby" 3 1 "baby" "baby" "kid" FALSE 1.071428571 -2 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "wedge" 1 1 "OTHER" "concrete" "concrete" TRUE -0.107142857 0 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "socket" 1 1 "plug" "socket" "socket" TRUE 0.142857143 0 "female" 24 6 6 6 5.5 4.5
+"p67154" "robot.trust" "drugs" -1 1 "pills" "pills" "drugs" FALSE -0.714285714 2 "female" 24 6 6 6 5.5 4.5
+"p702270" "robot.trust" "socket" 1 1 "OTHER" "socket" "socket" TRUE 0.142857143 0 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "mouse" -1 -1 "rat" "rat" "mouse" FALSE 0.464285714 0 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "dirt" -1 0 "OTHER" "sand" "sand" TRUE 1.035714286 1 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "drugs" -1 -1 "pills" "medicine" "medicine" TRUE 0.464285714 0 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "city" 1 1 "city" "buildings" "buildings" TRUE 0.214285714 0 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "boot" 1 1 "boot" "boot" "shoe" FALSE 0.607142857 0 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "road" -1 1 "road" "highway" "highway" TRUE 0.0714285710000002 2 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "marijuana" 0 1 "marijuana" "leaf" "leaf" TRUE 1.071428571 1 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "church" -1 -1 "church" "cathedral" "cathedral" TRUE 0.857142857 0 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "wedge" 0 0 "OTHER" "concrete" "concrete" TRUE -0.107142857 0 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "baby" 1 1 "baby" "baby" "sprog" FALSE 0.107142857 0 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "people" 1 0 "crowd" "people" "people" TRUE 1.178571429 -1 "female" 18 3 4.5 6 3.5 2.5
+"p702270" "robot.trust" "recycling" -1 -1 "wheely bin" "rubbish bin" "rubbish bin" TRUE -0.142857143 0 "female" 18 3 4.5 6 3.5 2.5
+"p78253" "robot.trust" "socket" 0 0 "OTHER" "socket" "socket" TRUE 0.142857143 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "dog" 0 0 "OTHER" "dog" "wolf" FALSE 0.535714286 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "dirt" 0 0 "dirt" "gravel" "gravel" TRUE -0.25 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "baby" 1 1 "baby" "baby" "sprog" FALSE 0.107142857 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "mouse" 0 0 "mouse" "mouse" "rat" FALSE -0.666666667 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "church" 0 0 "church" "church" "cathedral" FALSE 0.857142857 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "soldier" 1 0 "soldier" "soldier" "gunman" FALSE -1.857142857 -1 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "house" 0 0 "house" "house" "home" FALSE 1.928571429 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "boot" 0 0 "boot" "boot" "shoe" FALSE 0.607142857 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "moth" 1 1 "butterfly" "butterfly" "insect" FALSE 0.107142857 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "recycling" 0 0 "rubbish bin" "rubbish bin" "recycling bin" FALSE 0.785714286 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "city" 0 0 "city" "city" "buildings" FALSE 0.214285714 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "road" 0 0 "road" "road" "avenue" FALSE 1.178571429 0 "male" 19 6.5 4.5 2.5 5 7
+"p78253" "robot.trust" "wedge" 0 0 "cement" "cement" "concrete" FALSE -0.107142857 0 "male" 19 6.5 4.5 2.5 5 7
+"p806611" "robot.trust" "factory" -4 -4 "factory" "factory" "pollution" FALSE -1.821428571 0 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "dog" 2 2 "OTHER" "dog" "dog" TRUE 1.296296296 0 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "drugs" 0 0 "pills" "drugs" "drugs" TRUE -0.714285714 0 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "wedge" -1 3 "cement" "pizza slice" "pizza slice" TRUE 1.571428571 4 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "road" 2 2 "road" "highway" "avenue" FALSE 1.178571429 0 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "city" -1 -1 "city" "city" "town" FALSE 1.178571429 0 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "house" 1 1 "house" "house" "home" FALSE 1.928571429 0 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "dirt" 0 0 "OTHER" "sand" "sand" TRUE 1.035714286 0 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "king" -2 -4 "OTHER" "king" "king" TRUE 0.464285714 -2 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "recycling" -1 -1 "wheely bin" "wheely bin" "rubbish bin" FALSE -0.142857143 0 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "boot" 2 0 "boot" "boot" "shoe" FALSE 0.607142857 -2 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "baby" -1 -1 "baby" "sprog" "sprog" TRUE 0.107142857 0 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "people" -1 -1 "group of people" "crowd" "crowd" TRUE -0.142857143 0 "male" 36 5 5.5 4 3 6
+"p806611" "robot.trust" "marijuana" 2 2 "marijuana" "pot" "leaf" FALSE 1.071428571 0 "male" 36 5 5.5 4 3 6
+"p819229" "robot.trust" "socket" 0 1 "OTHER" "face" "face" TRUE 1.035714286 1 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "city" 2 0 "buildings" "buildings" "town" FALSE 1.178571429 -2 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "baby" 0 0 "baby" "baby" "sprog" FALSE 0.107142857 0 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "factory" 0 0 "factory" "pollution" "pollution" TRUE -1.821428571 0 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "drugs" -2 0 "medication" "medication" "medicine" FALSE 0.464285714 2 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "road" 0 0 "OTHER" "avenue" "avenue" TRUE 1.178571429 0 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "dog" 0 1 "dog" "wolf" "wolf" TRUE 0.535714286 1 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "house" 1 1 "house" "house" "home" FALSE 1.928571429 0 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "wedge" 0 0 "OTHER" "concrete" "concrete" TRUE -0.107142857 0 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "marijuana" 1 0 "plant" "weed" "weed" TRUE -0.285714286 -1 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "dirt" 0 0 "OTHER" "sand" "sand" TRUE 1.035714286 0 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "boot" 0 0 "boot" "boot" "shoe" FALSE 0.607142857 0 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "microbes" 2 -1 "cells" "germs" "germs" TRUE -0.75 -3 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "church" 0 0 "church" "church" "cathedral" FALSE 0.857142857 0 "female" 19 4.5 5 4.5 4 4.5
+"p819229" "robot.trust" "king" 0 -1 "king" "electric chair" "electric chair" TRUE -1.892857143 -1 "female" 19 4.5 5 4.5 4 4.5
+"p887007" "robot.trust" "city" 1 2 "city" "town" "town" TRUE 1.178571429 1 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "baby" 2 2 "baby" "baby" "kid" FALSE 1.071428571 0 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "socket" 1 -1 "OTHER" "face" "face" TRUE 1.035714286 -2 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "microbes" 1 1 "bacteria" "bacteria" "germs" FALSE -0.75 0 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "boot" 1 1 "boot" "boot" "shoe" FALSE 0.607142857 0 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "factory" -1 1 "factory" "factory" "pollution" FALSE -1.821428571 2 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "dog" 2 1 "dog" "dog" "wolf" FALSE 0.535714286 -1 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "mouse" 1 1 "rat" "mouse" "mouse" TRUE 0.464285714 0 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "wedge" 1 0 "OTHER" "OTHER" "concrete" FALSE -0.107142857 -1 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "drugs" 0 1 "pills" "pills" "drugs" FALSE -0.714285714 1 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "house" 2 1 "house" "house" "home" FALSE 1.928571429 -1 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "king" -1 -1 "OTHER" "electric chair" "electric chair" TRUE -1.892857143 0 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "soldier" -1 -1 "OTHER" "soldier" "soldier" TRUE -0.642857143 0 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "road" 0 -1 "ladder" "ladder" "avenue" FALSE 1.178571429 -1 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "recycling" 1 1 "rubbish bin" "rubbish bin" "recycling bin" FALSE 0.785714286 0 "female" 18 4.5 5.5 5 5 4.5
+"p887007" "robot.trust" "dirt" 0 0 "dirt" "dirt" "gravel" FALSE -0.25 0 "female" 18 4.5 5.5 5 5 4.5
+"p907596" "robot.trust" "baby" 1 1 "baby" "child" "kid" FALSE 1.071428571 0 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "socket" 1 1 "OTHER" "socket" "socket" TRUE 0.142857143 0 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "house" 2 3 "house" "house" "home" FALSE 1.928571429 1 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "drugs" 1 1 "pills" "drugs" "drugs" TRUE -0.714285714 0 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "factory" -2 -4 "factory" "pollution" "pollution" TRUE -1.821428571 -2 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "church" 1 1 "church" "church" "cathedral" FALSE 0.857142857 0 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "city" 1 2 "buildings" "town" "town" TRUE 1.178571429 1 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "dirt" -2 1 "OTHER" "sand" "sand" TRUE 1.035714286 3 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "boot" 1 2 "boot" "boot" "shoe" FALSE 0.607142857 1 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "king" 1 1 "OTHER" "king" "king" TRUE 0.464285714 0 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "wedge" 2 1 "OTHER" "cement" "concrete" FALSE -0.107142857 -1 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "people" 1 1 "OTHER" "people" "people" TRUE 1.178571429 0 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "soldier" -4 -4 "OTHER" "gunman" "gunman" TRUE -1.857142857 0 "female" 19 4.5 5.5 6 4 5.5
+"p907596" "robot.trust" "road" 1 1 "road" "avenue" "avenue" TRUE 1.178571429 0 "female" 19 4.5 5.5 6 4 5.5
+"p980973" "robot.trust" "city" -4 -2 "city" "city" "buildings" FALSE 0.214285714 2 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "dog" 3 2 "dog" "dog" "wolf" FALSE 0.535714286 -1 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "baby" 0 1 "OTHER" "baby" "sprog" FALSE 0.107142857 1 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "people" 0 -1 "OTHER" "crowd" "crowd" TRUE -0.142857143 -1 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "socket" -1 0 "OTHER" "OTHER" "socket" FALSE 0.142857143 1 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "king" -1 -1 "OTHER" "king" "king" TRUE 0.464285714 0 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "wedge" 0 1 "OTHER" "pizza" "pizza slice" FALSE 1.571428571 1 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "boot" 0 0 "boot" "boot" "shoe" FALSE 0.607142857 0 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "drugs" 0 0 "medicine" "medicine" "drugs" FALSE -0.714285714 0 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "factory" -4 -4 "factory" "factory" "pollution" FALSE -1.821428571 0 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "marijuana" -4 -4 "OTHER" "leaf" "leaf" TRUE 1.071428571 0 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "recycling" -1 2 "wheely bin" "recycling bin" "recycling bin" TRUE 0.785714286 3 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "dirt" 0 -1 "OTHER" "sand" "sand" TRUE 1.035714286 -1 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "road" 0 -2 "train tracks" "road" "highway" FALSE 0.0714285710000002 -2 "female" 21 5 4 6 2.5 4
+"p980973" "robot.trust" "soldier" -4 -4 "OTHER" "soldier" "soldier" TRUE -0.642857143 0 "female" 21 5 4 6 2.5 4
