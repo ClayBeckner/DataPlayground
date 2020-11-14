@@ -1,1878 +1,1878 @@
-"subject"	"gender"	"age"	"avatar"	"avatarIsCat"
-"D1451"	"Male"	18	"cat"	TRUE
-"E1845"	"Female"	19	"cat"	TRUE
-"D1249"	"Male"	19	"cat"	TRUE
-"C1024"	"Female"	20	"cat"	TRUE
-"D1182"	"Female"	20	"cat"	TRUE
-"D1185"	"Female"	20	"cat"	TRUE
-"D1307"	"Female"	20	"cat"	TRUE
-"E1751"	"Female"	20	"cat"	TRUE
-"A200"	"Male"	20	"cat"	TRUE
-"B683"	"Male"	20	"cat"	TRUE
-"B711"	"Male"	20	"cat"	TRUE
-"B378"	"Female"	21	"cat"	TRUE
-"B468"	"Female"	21	"cat"	TRUE
-"B522"	"Female"	21	"cat"	TRUE
-"B739"	"Female"	21	"cat"	TRUE
-"D1297"	"Female"	21	"cat"	TRUE
-"E1559"	"Female"	21	"cat"	TRUE
-"A321"	"Male"	21	"cat"	TRUE
-"B621"	"Male"	21	"cat"	TRUE
-"E1779"	"Male"	21	"cat"	TRUE
-"A328"	"Female"	22	"cat"	TRUE
-"B628"	"Female"	22	"cat"	TRUE
-"D1159"	"Female"	22	"cat"	TRUE
-"D1385"	"Female"	22	"cat"	TRUE
-"E1701"	"Female"	22	"cat"	TRUE
-"A158"	"Male"	22	"cat"	TRUE
-"C1074"	"Male"	22	"cat"	TRUE
-"C816"	"Male"	22	"cat"	TRUE
-"D1250"	"Male"	22	"cat"	TRUE
-"D1314"	"Male"	22	"cat"	TRUE
-"E1542"	"Male"	22	"cat"	TRUE
-"A196"	"Female"	23	"cat"	TRUE
-"A317"	"Female"	23	"cat"	TRUE
-"B695"	"Female"	23	"cat"	TRUE
-"B732"	"Female"	23	"cat"	TRUE
-"C759"	"Female"	23	"cat"	TRUE
-"C849"	"Female"	23	"cat"	TRUE
-"D1323"	"Female"	23	"cat"	TRUE
-"D1406"	"Female"	23	"cat"	TRUE
-"D1425"	"Female"	23	"cat"	TRUE
-"E1529"	"Female"	23	"cat"	TRUE
-"E1620"	"Female"	23	"cat"	TRUE
-"E1718"	"Female"	23	"cat"	TRUE
-"E1823"	"Female"	23	"cat"	TRUE
-"A165"	"Male"	23	"cat"	TRUE
-"A252"	"Male"	23	"cat"	TRUE
-"A54"	"Male"	23	"cat"	TRUE
-"B521"	"Male"	23	"cat"	TRUE
-"D1156"	"Male"	23	"cat"	TRUE
-"D1373"	"Male"	23	"cat"	TRUE
-"E1755"	"Male"	23	"cat"	TRUE
-"E1834"	"Male"	23	"cat"	TRUE
-"A207"	"Female"	24	"cat"	TRUE
-"A351"	"Female"	24	"cat"	TRUE
-"B381"	"Female"	24	"cat"	TRUE
-"B388"	"Female"	24	"cat"	TRUE
-"B410"	"Female"	24	"cat"	TRUE
-"B480"	"Female"	24	"cat"	TRUE
-"B686"	"Female"	24	"cat"	TRUE
-"C1054"	"Female"	24	"cat"	TRUE
-"C1094"	"Female"	24	"cat"	TRUE
-"C806"	"Female"	24	"cat"	TRUE
-"C818"	"Female"	24	"cat"	TRUE
-"C872"	"Female"	24	"cat"	TRUE
-"D1370"	"Female"	24	"cat"	TRUE
-"E1738"	"Female"	24	"cat"	TRUE
-"A12"	"Male"	24	"cat"	TRUE
-"A132"	"Male"	24	"cat"	TRUE
-"B717"	"Male"	24	"cat"	TRUE
-"B752"	"Male"	24	"cat"	TRUE
-"C1026"	"Male"	24	"cat"	TRUE
-"D1325"	"Male"	24	"cat"	TRUE
-"A18"	"Female"	25	"cat"	TRUE
-"B438"	"Female"	25	"cat"	TRUE
-"B651"	"Female"	25	"cat"	TRUE
-"C1071"	"Female"	25	"cat"	TRUE
-"C812"	"Female"	25	"cat"	TRUE
-"C865"	"Female"	25	"cat"	TRUE
-"C873"	"Female"	25	"cat"	TRUE
-"C915"	"Female"	25	"cat"	TRUE
-"C922"	"Female"	25	"cat"	TRUE
-"C981"	"Female"	25	"cat"	TRUE
-"D1146"	"Female"	25	"cat"	TRUE
-"D1310"	"Female"	25	"cat"	TRUE
-"D1329"	"Female"	25	"cat"	TRUE
-"E1545"	"Female"	25	"cat"	TRUE
-"E1582"	"Female"	25	"cat"	TRUE
-"E1689"	"Female"	25	"cat"	TRUE
-"E1893"	"Female"	25	"cat"	TRUE
-"B465"	"Male"	25	"cat"	TRUE
-"C1009"	"Male"	25	"cat"	TRUE
-"C1095"	"Male"	25	"cat"	TRUE
-"D1510"	"Male"	25	"cat"	TRUE
-"E1556"	"Male"	25	"cat"	TRUE
-"A13"	"Female"	26	"cat"	TRUE
-"A241"	"Female"	26	"cat"	TRUE
-"A326"	"Female"	26	"cat"	TRUE
-"A87"	"Female"	26	"cat"	TRUE
-"A96"	"Female"	26	"cat"	TRUE
-"B744"	"Female"	26	"cat"	TRUE
-"C932"	"Female"	26	"cat"	TRUE
-"D1485"	"Female"	26	"cat"	TRUE
-"D1486"	"Female"	26	"cat"	TRUE
-"D1503"	"Female"	26	"cat"	TRUE
-"E1517"	"Female"	26	"cat"	TRUE
-"E1533"	"Female"	26	"cat"	TRUE
-"E1721"	"Female"	26	"cat"	TRUE
-"E1840"	"Female"	26	"cat"	TRUE
-"A1"	"Male"	26	"cat"	TRUE
-"A101"	"Male"	26	"cat"	TRUE
-"A190"	"Male"	26	"cat"	TRUE
-"A335"	"Male"	26	"cat"	TRUE
-"B377"	"Male"	26	"cat"	TRUE
-"B569"	"Male"	26	"cat"	TRUE
-"B667"	"Male"	26	"cat"	TRUE
-"C1002"	"Male"	26	"cat"	TRUE
-"C1111"	"Male"	26	"cat"	TRUE
-"E1829"	"Male"	26	"cat"	TRUE
-"E1882"	"Male"	26	"cat"	TRUE
-"B393"	"Female"	27	"cat"	TRUE
-"B458"	"Female"	27	"cat"	TRUE
-"B690"	"Female"	27	"cat"	TRUE
-"B736"	"Female"	27	"cat"	TRUE
-"C794"	"Female"	27	"cat"	TRUE
-"C807"	"Female"	27	"cat"	TRUE
-"C976"	"Female"	27	"cat"	TRUE
-"D1255"	"Female"	27	"cat"	TRUE
-"D1383"	"Female"	27	"cat"	TRUE
-"D1456"	"Female"	27	"cat"	TRUE
-"D1489"	"Female"	27	"cat"	TRUE
-"E1625"	"Female"	27	"cat"	TRUE
-"E1681"	"Female"	27	"cat"	TRUE
-"E1727"	"Female"	27	"cat"	TRUE
-"E1850"	"Female"	27	"cat"	TRUE
-"E1875"	"Female"	27	"cat"	TRUE
-"E1890"	"Female"	27	"cat"	TRUE
-"A113"	"Male"	27	"cat"	TRUE
-"B499"	"Male"	27	"cat"	TRUE
-"B603"	"Male"	27	"cat"	TRUE
-"B670"	"Male"	27	"cat"	TRUE
-"C914"	"Male"	27	"cat"	TRUE
-"C954"	"Male"	27	"cat"	TRUE
-"D1218"	"Male"	27	"cat"	TRUE
-"E1843"	"Male"	27	"cat"	TRUE
-"A127"	"Female"	28	"cat"	TRUE
-"A227"	"Female"	28	"cat"	TRUE
-"A24"	"Female"	28	"cat"	TRUE
-"A367"	"Female"	28	"cat"	TRUE
-"A37"	"Female"	28	"cat"	TRUE
-"A61"	"Female"	28	"cat"	TRUE
-"A74"	"Female"	28	"cat"	TRUE
-"B433"	"Female"	28	"cat"	TRUE
-"B481"	"Female"	28	"cat"	TRUE
-"B746"	"Female"	28	"cat"	TRUE
-"C1038"	"Female"	28	"cat"	TRUE
-"C1076"	"Female"	28	"cat"	TRUE
-"C1102"	"Female"	28	"cat"	TRUE
-"C1124"	"Female"	28	"cat"	TRUE
-"C1126"	"Female"	28	"cat"	TRUE
-"C768"	"Female"	28	"cat"	TRUE
-"C887"	"Female"	28	"cat"	TRUE
-"C955"	"Female"	28	"cat"	TRUE
-"D1242"	"Female"	28	"cat"	TRUE
-"D1273"	"Female"	28	"cat"	TRUE
-"D1284"	"Female"	28	"cat"	TRUE
-"D1286"	"Female"	28	"cat"	TRUE
-"D1332"	"Female"	28	"cat"	TRUE
-"D1466"	"Female"	28	"cat"	TRUE
-"E1549"	"Female"	28	"cat"	TRUE
-"E1670"	"Female"	28	"cat"	TRUE
-"E1699"	"Female"	28	"cat"	TRUE
-"E1729"	"Female"	28	"cat"	TRUE
-"E1824"	"Female"	28	"cat"	TRUE
-"A176"	"Male"	28	"cat"	TRUE
-"A22"	"Male"	28	"cat"	TRUE
-"A266"	"Male"	28	"cat"	TRUE
-"A45"	"Male"	28	"cat"	TRUE
-"B463"	"Male"	28	"cat"	TRUE
-"B520"	"Male"	28	"cat"	TRUE
-"B692"	"Male"	28	"cat"	TRUE
-"C800"	"Male"	28	"cat"	TRUE
-"C944"	"Male"	28	"cat"	TRUE
-"E1761"	"Male"	28	"cat"	TRUE
-"A103"	"Female"	29	"cat"	TRUE
-"A251"	"Female"	29	"cat"	TRUE
-"A254"	"Female"	29	"cat"	TRUE
-"A357"	"Female"	29	"cat"	TRUE
-"A44"	"Female"	29	"cat"	TRUE
-"A57"	"Female"	29	"cat"	TRUE
-"B371"	"Female"	29	"cat"	TRUE
-"B372"	"Female"	29	"cat"	TRUE
-"B430"	"Female"	29	"cat"	TRUE
-"B449"	"Female"	29	"cat"	TRUE
-"C1081"	"Female"	29	"cat"	TRUE
-"C842"	"Female"	29	"cat"	TRUE
-"C973"	"Female"	29	"cat"	TRUE
-"D1262"	"Female"	29	"cat"	TRUE
-"D1337"	"Female"	29	"cat"	TRUE
-"D1362"	"Female"	29	"cat"	TRUE
-"D1417"	"Female"	29	"cat"	TRUE
-"D1479"	"Female"	29	"cat"	TRUE
-"E1584"	"Female"	29	"cat"	TRUE
-"E1617"	"Female"	29	"cat"	TRUE
-"E1705"	"Female"	29	"cat"	TRUE
-"E1826"	"Female"	29	"cat"	TRUE
-"E1877"	"Female"	29	"cat"	TRUE
-"A166"	"Male"	29	"cat"	TRUE
-"A244"	"Male"	29	"cat"	TRUE
-"A291"	"Male"	29	"cat"	TRUE
-"A53"	"Male"	29	"cat"	TRUE
-"B395"	"Male"	29	"cat"	TRUE
-"D1149"	"Male"	29	"cat"	TRUE
-"D1513"	"Male"	29	"cat"	TRUE
-"E1774"	"Male"	29	"cat"	TRUE
-"E1883"	"Male"	29	"cat"	TRUE
-"A114"	"Female"	30	"cat"	TRUE
-"A236"	"Female"	30	"cat"	TRUE
-"A26"	"Female"	30	"cat"	TRUE
-"A334"	"Female"	30	"cat"	TRUE
-"A352"	"Female"	30	"cat"	TRUE
-"A6"	"Female"	30	"cat"	TRUE
-"A8"	"Female"	30	"cat"	TRUE
-"A89"	"Female"	30	"cat"	TRUE
-"B513"	"Female"	30	"cat"	TRUE
-"B661"	"Female"	30	"cat"	TRUE
-"B671"	"Female"	30	"cat"	TRUE
-"C776"	"Female"	30	"cat"	TRUE
-"C953"	"Female"	30	"cat"	TRUE
-"D1452"	"Female"	30	"cat"	TRUE
-"E1684"	"Female"	30	"cat"	TRUE
-"E1722"	"Female"	30	"cat"	TRUE
-"E1750"	"Female"	30	"cat"	TRUE
-"E1777"	"Female"	30	"cat"	TRUE
-"E1866"	"Female"	30	"cat"	TRUE
-"A274"	"Male"	30	"cat"	TRUE
-"A358"	"Male"	30	"cat"	TRUE
-"B432"	"Male"	30	"cat"	TRUE
-"B550"	"Male"	30	"cat"	TRUE
-"B708"	"Male"	30	"cat"	TRUE
-"C780"	"Male"	30	"cat"	TRUE
-"C882"	"Male"	30	"cat"	TRUE
-"C937"	"Male"	30	"cat"	TRUE
-"D1196"	"Male"	30	"cat"	TRUE
-"D1300"	"Male"	30	"cat"	TRUE
-"E1615"	"Male"	30	"cat"	TRUE
-"E1881"	"Male"	30	"cat"	TRUE
-"A199"	"Female"	31	"cat"	TRUE
-"A243"	"Female"	31	"cat"	TRUE
-"A273"	"Female"	31	"cat"	TRUE
-"A369"	"Female"	31	"cat"	TRUE
-"A56"	"Female"	31	"cat"	TRUE
-"B506"	"Female"	31	"cat"	TRUE
-"B562"	"Female"	31	"cat"	TRUE
-"B587"	"Female"	31	"cat"	TRUE
-"B606"	"Female"	31	"cat"	TRUE
-"B753"	"Female"	31	"cat"	TRUE
-"C1030"	"Female"	31	"cat"	TRUE
-"C802"	"Female"	31	"cat"	TRUE
-"C868"	"Female"	31	"cat"	TRUE
-"D1225"	"Female"	31	"cat"	TRUE
-"D1334"	"Female"	31	"cat"	TRUE
-"D1412"	"Female"	31	"cat"	TRUE
-"E1597"	"Female"	31	"cat"	TRUE
-"E1732"	"Female"	31	"cat"	TRUE
-"E1756"	"Female"	31	"cat"	TRUE
-"E1776"	"Female"	31	"cat"	TRUE
-"E1806"	"Female"	31	"cat"	TRUE
-"E1825"	"Female"	31	"cat"	TRUE
-"E1847"	"Female"	31	"cat"	TRUE
-"A107"	"Male"	31	"cat"	TRUE
-"A122"	"Male"	31	"cat"	TRUE
-"A212"	"Male"	31	"cat"	TRUE
-"A256"	"Male"	31	"cat"	TRUE
-"A315"	"Male"	31	"cat"	TRUE
-"A92"	"Male"	31	"cat"	TRUE
-"B541"	"Male"	31	"cat"	TRUE
-"B715"	"Male"	31	"cat"	TRUE
-"D1484"	"Male"	31	"cat"	TRUE
-"A148"	"Female"	32	"cat"	TRUE
-"A3"	"Female"	32	"cat"	TRUE
-"A370"	"Female"	32	"cat"	TRUE
-"B454"	"Female"	32	"cat"	TRUE
-"B549"	"Female"	32	"cat"	TRUE
-"B614"	"Female"	32	"cat"	TRUE
-"B617"	"Female"	32	"cat"	TRUE
-"B685"	"Female"	32	"cat"	TRUE
-"B724"	"Female"	32	"cat"	TRUE
-"C919"	"Female"	32	"cat"	TRUE
-"C972"	"Female"	32	"cat"	TRUE
-"C982"	"Female"	32	"cat"	TRUE
-"D1166"	"Female"	32	"cat"	TRUE
-"D1177"	"Female"	32	"cat"	TRUE
-"D1189"	"Female"	32	"cat"	TRUE
-"D1204"	"Female"	32	"cat"	TRUE
-"D1228"	"Female"	32	"cat"	TRUE
-"D1283"	"Female"	32	"cat"	TRUE
-"D1338"	"Female"	32	"cat"	TRUE
-"D1340"	"Female"	32	"cat"	TRUE
-"D1354"	"Female"	32	"cat"	TRUE
-"D1387"	"Female"	32	"cat"	TRUE
-"E1637"	"Female"	32	"cat"	TRUE
-"E1726"	"Female"	32	"cat"	TRUE
-"E1855"	"Female"	32	"cat"	TRUE
-"E1870"	"Female"	32	"cat"	TRUE
-"A137"	"Male"	32	"cat"	TRUE
-"A170"	"Male"	32	"cat"	TRUE
-"A174"	"Male"	32	"cat"	TRUE
-"A40"	"Male"	32	"cat"	TRUE
-"A70"	"Male"	32	"cat"	TRUE
-"B427"	"Male"	32	"cat"	TRUE
-"B646"	"Male"	32	"cat"	TRUE
-"B660"	"Male"	32	"cat"	TRUE
-"C1075"	"Male"	32	"cat"	TRUE
-"C1130"	"Male"	32	"cat"	TRUE
-"C755"	"Male"	32	"cat"	TRUE
-"C854"	"Male"	32	"cat"	TRUE
-"C978"	"Male"	32	"cat"	TRUE
-"D1439"	"Male"	32	"cat"	TRUE
-"D1453"	"Male"	32	"cat"	TRUE
-"E1763"	"Male"	32	"cat"	TRUE
-"A108"	"Female"	33	"cat"	TRUE
-"A226"	"Female"	33	"cat"	TRUE
-"A233"	"Female"	33	"cat"	TRUE
-"A257"	"Female"	33	"cat"	TRUE
-"A348"	"Female"	33	"cat"	TRUE
-"B419"	"Female"	33	"cat"	TRUE
-"B485"	"Female"	33	"cat"	TRUE
-"B540"	"Female"	33	"cat"	TRUE
-"B582"	"Female"	33	"cat"	TRUE
-"B622"	"Female"	33	"cat"	TRUE
-"C830"	"Female"	33	"cat"	TRUE
-"C886"	"Female"	33	"cat"	TRUE
-"C929"	"Female"	33	"cat"	TRUE
-"C931"	"Female"	33	"cat"	TRUE
-"C945"	"Female"	33	"cat"	TRUE
-"C977"	"Female"	33	"cat"	TRUE
-"D1247"	"Female"	33	"cat"	TRUE
-"D1254"	"Female"	33	"cat"	TRUE
-"D1270"	"Female"	33	"cat"	TRUE
-"D1309"	"Female"	33	"cat"	TRUE
-"E1541"	"Female"	33	"cat"	TRUE
-"E1619"	"Female"	33	"cat"	TRUE
-"E1797"	"Female"	33	"cat"	TRUE
-"B386"	"Male"	33	"cat"	TRUE
-"B462"	"Male"	33	"cat"	TRUE
-"B567"	"Male"	33	"cat"	TRUE
-"B588"	"Male"	33	"cat"	TRUE
-"B607"	"Male"	33	"cat"	TRUE
-"C1096"	"Male"	33	"cat"	TRUE
-"C1115"	"Male"	33	"cat"	TRUE
-"D1176"	"Male"	33	"cat"	TRUE
-"D1409"	"Male"	33	"cat"	TRUE
-"E1808"	"Male"	33	"cat"	TRUE
-"A118"	"Female"	34	"cat"	TRUE
-"A306"	"Female"	34	"cat"	TRUE
-"A346"	"Female"	34	"cat"	TRUE
-"A350"	"Female"	34	"cat"	TRUE
-"A354"	"Female"	34	"cat"	TRUE
-"B379"	"Female"	34	"cat"	TRUE
-"B440"	"Female"	34	"cat"	TRUE
-"B441"	"Female"	34	"cat"	TRUE
-"B510"	"Female"	34	"cat"	TRUE
-"B589"	"Female"	34	"cat"	TRUE
-"B654"	"Female"	34	"cat"	TRUE
-"B734"	"Female"	34	"cat"	TRUE
-"C1020"	"Female"	34	"cat"	TRUE
-"C763"	"Female"	34	"cat"	TRUE
-"C825"	"Female"	34	"cat"	TRUE
-"C850"	"Female"	34	"cat"	TRUE
-"C890"	"Female"	34	"cat"	TRUE
-"C964"	"Female"	34	"cat"	TRUE
-"C996"	"Female"	34	"cat"	TRUE
-"D1140"	"Female"	34	"cat"	TRUE
-"D1197"	"Female"	34	"cat"	TRUE
-"D1205"	"Female"	34	"cat"	TRUE
-"D1438"	"Female"	34	"cat"	TRUE
-"D1468"	"Female"	34	"cat"	TRUE
-"E1530"	"Female"	34	"cat"	TRUE
-"E1537"	"Female"	34	"cat"	TRUE
-"E1561"	"Female"	34	"cat"	TRUE
-"E1678"	"Female"	34	"cat"	TRUE
-"E1688"	"Female"	34	"cat"	TRUE
-"E1713"	"Female"	34	"cat"	TRUE
-"E1813"	"Female"	34	"cat"	TRUE
-"A15"	"Male"	34	"cat"	TRUE
-"B674"	"Male"	34	"cat"	TRUE
-"B676"	"Male"	34	"cat"	TRUE
-"C877"	"Male"	34	"cat"	TRUE
-"D1213"	"Male"	34	"cat"	TRUE
-"D1455"	"Male"	34	"cat"	TRUE
-"D1487"	"Male"	34	"cat"	TRUE
-"E1778"	"Male"	34	"cat"	TRUE
-"E1820"	"Male"	34	"cat"	TRUE
-"A293"	"Female"	35	"cat"	TRUE
-"A337"	"Female"	35	"cat"	TRUE
-"B518"	"Female"	35	"cat"	TRUE
-"B553"	"Female"	35	"cat"	TRUE
-"B596"	"Female"	35	"cat"	TRUE
-"B602"	"Female"	35	"cat"	TRUE
-"B635"	"Female"	35	"cat"	TRUE
-"B681"	"Female"	35	"cat"	TRUE
-"B751"	"Female"	35	"cat"	TRUE
-"C1012"	"Female"	35	"cat"	TRUE
-"C821"	"Female"	35	"cat"	TRUE
-"C995"	"Female"	35	"cat"	TRUE
-"D1188"	"Female"	35	"cat"	TRUE
-"D1271"	"Female"	35	"cat"	TRUE
-"D1391"	"Female"	35	"cat"	TRUE
-"D1471"	"Female"	35	"cat"	TRUE
-"E1622"	"Female"	35	"cat"	TRUE
-"E1627"	"Female"	35	"cat"	TRUE
-"E1683"	"Female"	35	"cat"	TRUE
-"E1687"	"Female"	35	"cat"	TRUE
-"E1710"	"Female"	35	"cat"	TRUE
-"E1848"	"Female"	35	"cat"	TRUE
-"E1885"	"Female"	35	"cat"	TRUE
-"A130"	"Male"	35	"cat"	TRUE
-"A152"	"Male"	35	"cat"	TRUE
-"A17"	"Male"	35	"cat"	TRUE
-"A205"	"Male"	35	"cat"	TRUE
-"A230"	"Male"	35	"cat"	TRUE
-"A72"	"Male"	35	"cat"	TRUE
-"B413"	"Male"	35	"cat"	TRUE
-"B470"	"Male"	35	"cat"	TRUE
-"B476"	"Male"	35	"cat"	TRUE
-"B557"	"Male"	35	"cat"	TRUE
-"B590"	"Male"	35	"cat"	TRUE
-"C1000"	"Male"	35	"cat"	TRUE
-"C1019"	"Male"	35	"cat"	TRUE
-"D1400"	"Male"	35	"cat"	TRUE
-"E1570"	"Male"	35	"cat"	TRUE
-"E1696"	"Male"	35	"cat"	TRUE
-"A102"	"Female"	36	"cat"	TRUE
-"A141"	"Female"	36	"cat"	TRUE
-"A27"	"Female"	36	"cat"	TRUE
-"A77"	"Female"	36	"cat"	TRUE
-"A95"	"Female"	36	"cat"	TRUE
-"B538"	"Female"	36	"cat"	TRUE
-"B544"	"Female"	36	"cat"	TRUE
-"B570"	"Female"	36	"cat"	TRUE
-"B702"	"Female"	36	"cat"	TRUE
-"C1007"	"Female"	36	"cat"	TRUE
-"C1035"	"Female"	36	"cat"	TRUE
-"C827"	"Female"	36	"cat"	TRUE
-"C835"	"Female"	36	"cat"	TRUE
-"C940"	"Female"	36	"cat"	TRUE
-"D1260"	"Female"	36	"cat"	TRUE
-"D1428"	"Female"	36	"cat"	TRUE
-"E1535"	"Female"	36	"cat"	TRUE
-"E1636"	"Female"	36	"cat"	TRUE
-"E1661"	"Female"	36	"cat"	TRUE
-"E1754"	"Female"	36	"cat"	TRUE
-"E1828"	"Female"	36	"cat"	TRUE
-"A211"	"Male"	36	"cat"	TRUE
-"A284"	"Male"	36	"cat"	TRUE
-"B407"	"Male"	36	"cat"	TRUE
-"B479"	"Male"	36	"cat"	TRUE
-"B537"	"Male"	36	"cat"	TRUE
-"C1089"	"Male"	36	"cat"	TRUE
-"C1101"	"Male"	36	"cat"	TRUE
-"C797"	"Male"	36	"cat"	TRUE
-"C861"	"Male"	36	"cat"	TRUE
-"D1252"	"Male"	36	"cat"	TRUE
-"D1264"	"Male"	36	"cat"	TRUE
-"D1266"	"Male"	36	"cat"	TRUE
-"D1408"	"Male"	36	"cat"	TRUE
-"D1429"	"Male"	36	"cat"	TRUE
-"E1611"	"Male"	36	"cat"	TRUE
-"A160"	"Female"	37	"cat"	TRUE
-"A245"	"Female"	37	"cat"	TRUE
-"A31"	"Female"	37	"cat"	TRUE
-"B542"	"Female"	37	"cat"	TRUE
-"B559"	"Female"	37	"cat"	TRUE
-"B687"	"Female"	37	"cat"	TRUE
-"C1113"	"Female"	37	"cat"	TRUE
-"C787"	"Female"	37	"cat"	TRUE
-"C875"	"Female"	37	"cat"	TRUE
-"C888"	"Female"	37	"cat"	TRUE
-"D1256"	"Female"	37	"cat"	TRUE
-"D1328"	"Female"	37	"cat"	TRUE
-"D1366"	"Female"	37	"cat"	TRUE
-"D1386"	"Female"	37	"cat"	TRUE
-"D1461"	"Female"	37	"cat"	TRUE
-"E1600"	"Female"	37	"cat"	TRUE
-"E1790"	"Female"	37	"cat"	TRUE
-"A208"	"Male"	37	"cat"	TRUE
-"A333"	"Male"	37	"cat"	TRUE
-"A65"	"Male"	37	"cat"	TRUE
-"B404"	"Male"	37	"cat"	TRUE
-"B693"	"Male"	37	"cat"	TRUE
-"C1087"	"Male"	37	"cat"	TRUE
-"C952"	"Male"	37	"cat"	TRUE
-"D1295"	"Male"	37	"cat"	TRUE
-"E1552"	"Male"	37	"cat"	TRUE
-"A192"	"Female"	38	"cat"	TRUE
-"A198"	"Female"	38	"cat"	TRUE
-"A246"	"Female"	38	"cat"	TRUE
-"A341"	"Female"	38	"cat"	TRUE
-"A36"	"Female"	38	"cat"	TRUE
-"B429"	"Female"	38	"cat"	TRUE
-"B477"	"Female"	38	"cat"	TRUE
-"C1060"	"Female"	38	"cat"	TRUE
-"C810"	"Female"	38	"cat"	TRUE
-"D1285"	"Female"	38	"cat"	TRUE
-"D1375"	"Female"	38	"cat"	TRUE
-"D1449"	"Female"	38	"cat"	TRUE
-"E1666"	"Female"	38	"cat"	TRUE
-"A324"	"Male"	38	"cat"	TRUE
-"B443"	"Male"	38	"cat"	TRUE
-"B482"	"Male"	38	"cat"	TRUE
-"B547"	"Male"	38	"cat"	TRUE
-"C1037"	"Male"	38	"cat"	TRUE
-"C1063"	"Male"	38	"cat"	TRUE
-"C834"	"Male"	38	"cat"	TRUE
-"C950"	"Male"	38	"cat"	TRUE
-"D1397"	"Male"	38	"cat"	TRUE
-"A110"	"Female"	39	"cat"	TRUE
-"A138"	"Female"	39	"cat"	TRUE
-"A216"	"Female"	39	"cat"	TRUE
-"A318"	"Female"	39	"cat"	TRUE
-"A332"	"Female"	39	"cat"	TRUE
-"A43"	"Female"	39	"cat"	TRUE
-"B460"	"Female"	39	"cat"	TRUE
-"B502"	"Female"	39	"cat"	TRUE
-"B581"	"Female"	39	"cat"	TRUE
-"B648"	"Female"	39	"cat"	TRUE
-"B733"	"Female"	39	"cat"	TRUE
-"C1123"	"Female"	39	"cat"	TRUE
-"C951"	"Female"	39	"cat"	TRUE
-"D1223"	"Female"	39	"cat"	TRUE
-"E1550"	"Female"	39	"cat"	TRUE
-"E1557"	"Female"	39	"cat"	TRUE
-"E1589"	"Female"	39	"cat"	TRUE
-"E1660"	"Female"	39	"cat"	TRUE
-"A311"	"Male"	39	"cat"	TRUE
-"E1588"	"Male"	39	"cat"	TRUE
-"A222"	"Female"	40	"cat"	TRUE
-"A242"	"Female"	40	"cat"	TRUE
-"A269"	"Female"	40	"cat"	TRUE
-"B466"	"Female"	40	"cat"	TRUE
-"B532"	"Female"	40	"cat"	TRUE
-"C1010"	"Female"	40	"cat"	TRUE
-"C1064"	"Female"	40	"cat"	TRUE
-"C1103"	"Female"	40	"cat"	TRUE
-"C781"	"Female"	40	"cat"	TRUE
-"C846"	"Female"	40	"cat"	TRUE
-"D1208"	"Female"	40	"cat"	TRUE
-"D1501"	"Female"	40	"cat"	TRUE
-"E1749"	"Female"	40	"cat"	TRUE
-"E1757"	"Female"	40	"cat"	TRUE
-"E1801"	"Female"	40	"cat"	TRUE
-"B555"	"Male"	40	"cat"	TRUE
-"B616"	"Male"	40	"cat"	TRUE
-"D1200"	"Male"	40	"cat"	TRUE
-"E1799"	"Male"	40	"cat"	TRUE
-"E1838"	"Male"	40	"cat"	TRUE
-"A10"	"Female"	41	"cat"	TRUE
-"A115"	"Female"	41	"cat"	TRUE
-"B484"	"Female"	41	"cat"	TRUE
-"B500"	"Female"	41	"cat"	TRUE
-"B625"	"Female"	41	"cat"	TRUE
-"B658"	"Female"	41	"cat"	TRUE
-"C1033"	"Female"	41	"cat"	TRUE
-"C1048"	"Female"	41	"cat"	TRUE
-"C774"	"Female"	41	"cat"	TRUE
-"C876"	"Female"	41	"cat"	TRUE
-"D1229"	"Female"	41	"cat"	TRUE
-"D1336"	"Female"	41	"cat"	TRUE
-"D1463"	"Female"	41	"cat"	TRUE
-"E1624"	"Female"	41	"cat"	TRUE
-"E1630"	"Female"	41	"cat"	TRUE
-"E1638"	"Female"	41	"cat"	TRUE
-"E1821"	"Female"	41	"cat"	TRUE
-"A344"	"Male"	41	"cat"	TRUE
-"B579"	"Male"	41	"cat"	TRUE
-"C791"	"Male"	41	"cat"	TRUE
-"E1805"	"Male"	41	"cat"	TRUE
-"A143"	"Female"	42	"cat"	TRUE
-"A265"	"Female"	42	"cat"	TRUE
-"A281"	"Female"	42	"cat"	TRUE
-"A34"	"Female"	42	"cat"	TRUE
-"B409"	"Female"	42	"cat"	TRUE
-"B416"	"Female"	42	"cat"	TRUE
-"B529"	"Female"	42	"cat"	TRUE
-"B659"	"Female"	42	"cat"	TRUE
-"C1106"	"Female"	42	"cat"	TRUE
-"C904"	"Female"	42	"cat"	TRUE
-"D1293"	"Female"	42	"cat"	TRUE
-"D1401"	"Female"	42	"cat"	TRUE
-"E1896"	"Female"	42	"cat"	TRUE
-"A14"	"Female"	43	"cat"	TRUE
-"A19"	"Female"	43	"cat"	TRUE
-"A25"	"Female"	43	"cat"	TRUE
-"B568"	"Female"	43	"cat"	TRUE
-"B698"	"Female"	43	"cat"	TRUE
-"B705"	"Female"	43	"cat"	TRUE
-"B728"	"Female"	43	"cat"	TRUE
-"C1028"	"Female"	43	"cat"	TRUE
-"D1326"	"Female"	43	"cat"	TRUE
-"D1437"	"Female"	43	"cat"	TRUE
-"D1442"	"Female"	43	"cat"	TRUE
-"E1564"	"Female"	43	"cat"	TRUE
-"E1665"	"Female"	43	"cat"	TRUE
-"E1789"	"Female"	43	"cat"	TRUE
-"E1860"	"Female"	43	"cat"	TRUE
-"A126"	"Male"	43	"cat"	TRUE
-"D1216"	"Male"	43	"cat"	TRUE
-"D1219"	"Male"	43	"cat"	TRUE
-"D1344"	"Male"	43	"cat"	TRUE
-"D1351"	"Male"	43	"cat"	TRUE
-"E1621"	"Male"	43	"cat"	TRUE
-"E1694"	"Male"	43	"cat"	TRUE
-"E1780"	"Male"	43	"cat"	TRUE
-"A275"	"Female"	44	"cat"	TRUE
-"A361"	"Female"	44	"cat"	TRUE
-"B527"	"Female"	44	"cat"	TRUE
-"D1251"	"Female"	44	"cat"	TRUE
-"D1331"	"Female"	44	"cat"	TRUE
-"E1532"	"Female"	44	"cat"	TRUE
-"E1579"	"Female"	44	"cat"	TRUE
-"E1704"	"Female"	44	"cat"	TRUE
-"E1759"	"Female"	44	"cat"	TRUE
-"A111"	"Male"	44	"cat"	TRUE
-"A218"	"Male"	44	"cat"	TRUE
-"A301"	"Male"	44	"cat"	TRUE
-"A345"	"Male"	44	"cat"	TRUE
-"A7"	"Male"	44	"cat"	TRUE
-"B414"	"Male"	44	"cat"	TRUE
-"A117"	"Female"	45	"cat"	TRUE
-"A32"	"Female"	45	"cat"	TRUE
-"A342"	"Female"	45	"cat"	TRUE
-"C782"	"Female"	45	"cat"	TRUE
-"C789"	"Female"	45	"cat"	TRUE
-"C935"	"Female"	45	"cat"	TRUE
-"D1259"	"Female"	45	"cat"	TRUE
-"E1540"	"Female"	45	"cat"	TRUE
-"E1668"	"Female"	45	"cat"	TRUE
-"E1675"	"Female"	45	"cat"	TRUE
-"E1712"	"Female"	45	"cat"	TRUE
-"A223"	"Female"	46	"cat"	TRUE
-"A231"	"Female"	46	"cat"	TRUE
-"A297"	"Female"	46	"cat"	TRUE
-"A90"	"Female"	46	"cat"	TRUE
-"B508"	"Female"	46	"cat"	TRUE
-"B524"	"Female"	46	"cat"	TRUE
-"B684"	"Female"	46	"cat"	TRUE
-"C1058"	"Female"	46	"cat"	TRUE
-"C927"	"Female"	46	"cat"	TRUE
-"D1137"	"Female"	46	"cat"	TRUE
-"D1379"	"Female"	46	"cat"	TRUE
-"E1601"	"Female"	46	"cat"	TRUE
-"A234"	"Male"	46	"cat"	TRUE
-"A250"	"Male"	46	"cat"	TRUE
-"A310"	"Male"	46	"cat"	TRUE
-"C1050"	"Male"	46	"cat"	TRUE
-"D1231"	"Male"	46	"cat"	TRUE
-"B402"	"Female"	47	"cat"	TRUE
-"B417"	"Female"	47	"cat"	TRUE
-"B620"	"Female"	47	"cat"	TRUE
-"B645"	"Female"	47	"cat"	TRUE
-"B649"	"Female"	47	"cat"	TRUE
-"C1046"	"Female"	47	"cat"	TRUE
-"C1057"	"Female"	47	"cat"	TRUE
-"C764"	"Female"	47	"cat"	TRUE
-"C870"	"Female"	47	"cat"	TRUE
-"C941"	"Female"	47	"cat"	TRUE
-"E1640"	"Female"	47	"cat"	TRUE
-"E1784"	"Female"	47	"cat"	TRUE
-"E1794"	"Female"	47	"cat"	TRUE
-"A295"	"Male"	47	"cat"	TRUE
-"B495"	"Male"	47	"cat"	TRUE
-"B612"	"Male"	47	"cat"	TRUE
-"E1560"	"Male"	47	"cat"	TRUE
-"E1703"	"Male"	47	"cat"	TRUE
-"A105"	"Female"	48	"cat"	TRUE
-"A194"	"Female"	48	"cat"	TRUE
-"A325"	"Female"	48	"cat"	TRUE
-"B392"	"Female"	48	"cat"	TRUE
-"B591"	"Female"	48	"cat"	TRUE
-"C1025"	"Female"	48	"cat"	TRUE
-"C756"	"Female"	48	"cat"	TRUE
-"C822"	"Female"	48	"cat"	TRUE
-"D1220"	"Female"	48	"cat"	TRUE
-"D1450"	"Female"	48	"cat"	TRUE
-"E1714"	"Female"	48	"cat"	TRUE
-"A157"	"Female"	49	"cat"	TRUE
-"A261"	"Female"	49	"cat"	TRUE
-"A353"	"Female"	49	"cat"	TRUE
-"B418"	"Female"	49	"cat"	TRUE
-"D1330"	"Female"	49	"cat"	TRUE
-"D1376"	"Female"	49	"cat"	TRUE
-"D1381"	"Female"	49	"cat"	TRUE
-"D1481"	"Female"	49	"cat"	TRUE
-"E1555"	"Female"	49	"cat"	TRUE
-"E1578"	"Female"	49	"cat"	TRUE
-"E1655"	"Female"	49	"cat"	TRUE
-"E1773"	"Female"	49	"cat"	TRUE
-"D1277"	"Male"	49	"cat"	TRUE
-"A220"	"Female"	50	"cat"	TRUE
-"A347"	"Female"	50	"cat"	TRUE
-"B380"	"Female"	50	"cat"	TRUE
-"B709"	"Female"	50	"cat"	TRUE
-"C838"	"Female"	50	"cat"	TRUE
-"C987"	"Female"	50	"cat"	TRUE
-"D1414"	"Female"	50	"cat"	TRUE
-"B633"	"Male"	50	"cat"	TRUE
-"B740"	"Male"	50	"cat"	TRUE
-"C796"	"Male"	50	"cat"	TRUE
-"D1404"	"Male"	50	"cat"	TRUE
-"E1816"	"Male"	50	"cat"	TRUE
-"B575"	"Female"	51	"cat"	TRUE
-"C1107"	"Female"	51	"cat"	TRUE
-"C909"	"Female"	51	"cat"	TRUE
-"D1358"	"Female"	51	"cat"	TRUE
-"D1483"	"Female"	51	"cat"	TRUE
-"E1539"	"Female"	51	"cat"	TRUE
-"E1548"	"Female"	51	"cat"	TRUE
-"E1753"	"Female"	51	"cat"	TRUE
-"E1836"	"Female"	51	"cat"	TRUE
-"E1869"	"Female"	51	"cat"	TRUE
-"A49"	"Male"	51	"cat"	TRUE
-"B533"	"Male"	51	"cat"	TRUE
-"B725"	"Male"	51	"cat"	TRUE
-"C798"	"Male"	51	"cat"	TRUE
-"D1353"	"Male"	51	"cat"	TRUE
-"A309"	"Female"	52	"cat"	TRUE
-"B718"	"Female"	52	"cat"	TRUE
-"D1258"	"Female"	52	"cat"	TRUE
-"D1315"	"Female"	52	"cat"	TRUE
-"D1341"	"Female"	52	"cat"	TRUE
-"E1526"	"Female"	52	"cat"	TRUE
-"E1879"	"Female"	52	"cat"	TRUE
-"E1884"	"Female"	52	"cat"	TRUE
-"E1583"	"Male"	52	"cat"	TRUE
-"E1700"	"Male"	52	"cat"	TRUE
-"D1316"	"Female"	53	"cat"	TRUE
-"D1346"	"Female"	53	"cat"	TRUE
-"E1772"	"Female"	53	"cat"	TRUE
-"A298"	"Male"	53	"cat"	TRUE
-"A81"	"Female"	54	"cat"	TRUE
-"C871"	"Female"	54	"cat"	TRUE
-"C906"	"Female"	54	"cat"	TRUE
-"E1536"	"Female"	54	"cat"	TRUE
-"E1672"	"Female"	54	"cat"	TRUE
-"E1857"	"Female"	54	"cat"	TRUE
-"C853"	"Male"	54	"cat"	TRUE
-"D1172"	"Male"	54	"cat"	TRUE
-"B403"	"Female"	55	"cat"	TRUE
-"B738"	"Female"	55	"cat"	TRUE
-"C1077"	"Female"	55	"cat"	TRUE
-"C855"	"Female"	55	"cat"	TRUE
-"C897"	"Female"	55	"cat"	TRUE
-"C962"	"Female"	55	"cat"	TRUE
-"D1364"	"Female"	55	"cat"	TRUE
-"D1396"	"Female"	55	"cat"	TRUE
-"A193"	"Female"	56	"cat"	TRUE
-"A349"	"Female"	56	"cat"	TRUE
-"B629"	"Female"	56	"cat"	TRUE
-"B748"	"Female"	56	"cat"	TRUE
-"C1065"	"Female"	56	"cat"	TRUE
-"C771"	"Female"	56	"cat"	TRUE
-"D1421"	"Female"	56	"cat"	TRUE
-"E1575"	"Female"	56	"cat"	TRUE
-"E1887"	"Female"	56	"cat"	TRUE
-"C889"	"Male"	56	"cat"	TRUE
-"D1395"	"Male"	56	"cat"	TRUE
-"B666"	"Female"	57	"cat"	TRUE
-"B749"	"Female"	57	"cat"	TRUE
-"C1121"	"Female"	57	"cat"	TRUE
-"D1152"	"Female"	57	"cat"	TRUE
-"D1187"	"Female"	57	"cat"	TRUE
-"D1514"	"Female"	57	"cat"	TRUE
-"E1568"	"Female"	57	"cat"	TRUE
-"E1810"	"Female"	57	"cat"	TRUE
-"C956"	"Male"	57	"cat"	TRUE
-"D1318"	"Male"	57	"cat"	TRUE
-"E1669"	"Male"	57	"cat"	TRUE
-"E1858"	"Male"	57	"cat"	TRUE
-"A64"	"Female"	58	"cat"	TRUE
-"E1631"	"Female"	58	"cat"	TRUE
-"E1809"	"Male"	58	"cat"	TRUE
-"A330"	"Female"	59	"cat"	TRUE
-"B592"	"Female"	59	"cat"	TRUE
-"D1347"	"Female"	59	"cat"	TRUE
-"D1465"	"Female"	59	"cat"	TRUE
-"E1830"	"Female"	59	"cat"	TRUE
-"A343"	"Female"	60	"cat"	TRUE
-"B631"	"Female"	60	"cat"	TRUE
-"D1415"	"Female"	60	"cat"	TRUE
-"E1871"	"Female"	60	"cat"	TRUE
-"E1698"	"Male"	60	"cat"	TRUE
-"C1118"	"Female"	61	"cat"	TRUE
-"B554"	"Male"	61	"cat"	TRUE
-"A142"	"Female"	62	"cat"	TRUE
-"B412"	"Female"	62	"cat"	TRUE
-"B447"	"Female"	62	"cat"	TRUE
-"B564"	"Female"	62	"cat"	TRUE
-"D1282"	"Female"	62	"cat"	TRUE
-"E1594"	"Female"	62	"cat"	TRUE
-"E1602"	"Female"	62	"cat"	TRUE
-"E1715"	"Female"	62	"cat"	TRUE
-"D1265"	"Male"	62	"cat"	TRUE
-"A322"	"Female"	63	"cat"	TRUE
-"B626"	"Male"	63	"cat"	TRUE
-"B637"	"Female"	64	"cat"	TRUE
-"B691"	"Female"	64	"cat"	TRUE
-"C813"	"Female"	64	"cat"	TRUE
-"E1707"	"Female"	64	"cat"	TRUE
-"B394"	"Male"	64	"cat"	TRUE
-"D1186"	"Male"	64	"cat"	TRUE
-"B401"	"Female"	65	"cat"	TRUE
-"C975"	"Female"	65	"cat"	TRUE
-"A42"	"Female"	66	"cat"	TRUE
-"C765"	"Female"	66	"cat"	TRUE
-"D1201"	"Female"	66	"cat"	TRUE
-"A283"	"Male"	66	"cat"	TRUE
-"D1289"	"Male"	66	"cat"	TRUE
-"A164"	"Female"	67	"cat"	TRUE
-"C949"	"Female"	67	"cat"	TRUE
-"E1518"	"Female"	67	"cat"	TRUE
-"E1598"	"Female"	67	"cat"	TRUE
-"E1748"	"Female"	67	"cat"	TRUE
-"B548"	"Female"	68	"cat"	TRUE
-"D1441"	"Male"	68	"cat"	TRUE
-"D1368"	"Female"	70	"cat"	TRUE
-"E1735"	"Female"	70	"cat"	TRUE
-"D1360"	"Female"	71	"cat"	TRUE
-"E1656"	"Female"	71	"cat"	TRUE
-"C1080"	"Female"	73	"cat"	TRUE
-"D1168"	"Female"	74	"cat"	TRUE
-"C761"	"Female"	79	"cat"	TRUE
-"A161"	"Female"	19	"dog"	FALSE
-"B471"	"Female"	19	"dog"	FALSE
-"B486"	"Female"	19	"dog"	FALSE
-"C1015"	"Female"	19	"dog"	FALSE
-"C960"	"Female"	19	"dog"	FALSE
-"D1207"	"Male"	19	"dog"	FALSE
-"D1241"	"Male"	19	"dog"	FALSE
-"D1371"	"Male"	19	"dog"	FALSE
-"E1606"	"Male"	19	"dog"	FALSE
-"C843"	"Female"	20	"dog"	FALSE
-"D1261"	"Female"	20	"dog"	FALSE
-"D1407"	"Female"	20	"dog"	FALSE
-"A235"	"Male"	20	"dog"	FALSE
-"C1053"	"Male"	20	"dog"	FALSE
-"A156"	"Female"	21	"dog"	FALSE
-"C1086"	"Female"	21	"dog"	FALSE
-"D1339"	"Female"	21	"dog"	FALSE
-"D1440"	"Female"	21	"dog"	FALSE
-"E1835"	"Female"	21	"dog"	FALSE
-"A365"	"Male"	21	"dog"	FALSE
-"B459"	"Male"	21	"dog"	FALSE
-"B689"	"Male"	21	"dog"	FALSE
-"C1093"	"Male"	21	"dog"	FALSE
-"C773"	"Male"	21	"dog"	FALSE
-"C933"	"Male"	21	"dog"	FALSE
-"D1322"	"Male"	21	"dog"	FALSE
-"D1504"	"Male"	21	"dog"	FALSE
-"E1590"	"Male"	21	"dog"	FALSE
-"E1644"	"Male"	21	"dog"	FALSE
-"E1693"	"Male"	21	"dog"	FALSE
-"E1837"	"Male"	21	"dog"	FALSE
-"A355"	"Female"	22	"dog"	FALSE
-"B618"	"Female"	22	"dog"	FALSE
-"C1006"	"Female"	22	"dog"	FALSE
-"C930"	"Female"	22	"dog"	FALSE
-"D1144"	"Female"	22	"dog"	FALSE
-"D1321"	"Female"	22	"dog"	FALSE
-"D1427"	"Female"	22	"dog"	FALSE
-"E1768"	"Female"	22	"dog"	FALSE
-"E1842"	"Female"	22	"dog"	FALSE
-"A153"	"Male"	22	"dog"	FALSE
-"A282"	"Male"	22	"dog"	FALSE
-"A4"	"Male"	22	"dog"	FALSE
-"B653"	"Male"	22	"dog"	FALSE
-"C1031"	"Male"	22	"dog"	FALSE
-"C943"	"Male"	22	"dog"	FALSE
-"D1132"	"Male"	22	"dog"	FALSE
-"D1345"	"Male"	22	"dog"	FALSE
-"E1724"	"Male"	22	"dog"	FALSE
-"E1747"	"Male"	22	"dog"	FALSE
-"A224"	"Female"	23	"dog"	FALSE
-"B389"	"Female"	23	"dog"	FALSE
-"C1082"	"Female"	23	"dog"	FALSE
-"C785"	"Female"	23	"dog"	FALSE
-"E1574"	"Female"	23	"dog"	FALSE
-"E1639"	"Female"	23	"dog"	FALSE
-"E1654"	"Female"	23	"dog"	FALSE
-"E1664"	"Female"	23	"dog"	FALSE
-"E1674"	"Female"	23	"dog"	FALSE
-"E1782"	"Female"	23	"dog"	FALSE
-"E1873"	"Female"	23	"dog"	FALSE
-"A131"	"Male"	23	"dog"	FALSE
-"A172"	"Male"	23	"dog"	FALSE
-"A364"	"Male"	23	"dog"	FALSE
-"B428"	"Male"	23	"dog"	FALSE
-"B528"	"Male"	23	"dog"	FALSE
-"B594"	"Male"	23	"dog"	FALSE
-"B598"	"Male"	23	"dog"	FALSE
-"B678"	"Male"	23	"dog"	FALSE
-"C1036"	"Male"	23	"dog"	FALSE
-"C1045"	"Male"	23	"dog"	FALSE
-"C1062"	"Male"	23	"dog"	FALSE
-"C1112"	"Male"	23	"dog"	FALSE
-"C775"	"Male"	23	"dog"	FALSE
-"C858"	"Male"	23	"dog"	FALSE
-"D1163"	"Male"	23	"dog"	FALSE
-"D1202"	"Male"	23	"dog"	FALSE
-"D1319"	"Male"	23	"dog"	FALSE
-"E1648"	"Male"	23	"dog"	FALSE
-"E1723"	"Male"	23	"dog"	FALSE
-"A145"	"Female"	24	"dog"	FALSE
-"B420"	"Female"	24	"dog"	FALSE
-"B701"	"Female"	24	"dog"	FALSE
-"C1127"	"Female"	24	"dog"	FALSE
-"C772"	"Female"	24	"dog"	FALSE
-"C804"	"Female"	24	"dog"	FALSE
-"C880"	"Female"	24	"dog"	FALSE
-"C891"	"Female"	24	"dog"	FALSE
-"D1211"	"Female"	24	"dog"	FALSE
-"D1369"	"Female"	24	"dog"	FALSE
-"E1618"	"Female"	24	"dog"	FALSE
-"E1709"	"Female"	24	"dog"	FALSE
-"A178"	"Male"	24	"dog"	FALSE
-"B374"	"Male"	24	"dog"	FALSE
-"B385"	"Male"	24	"dog"	FALSE
-"B425"	"Male"	24	"dog"	FALSE
-"B426"	"Male"	24	"dog"	FALSE
-"B493"	"Male"	24	"dog"	FALSE
-"B497"	"Male"	24	"dog"	FALSE
-"B563"	"Male"	24	"dog"	FALSE
-"B585"	"Male"	24	"dog"	FALSE
-"C1110"	"Male"	24	"dog"	FALSE
-"C859"	"Male"	24	"dog"	FALSE
-"C991"	"Male"	24	"dog"	FALSE
-"D1244"	"Male"	24	"dog"	FALSE
-"D1290"	"Male"	24	"dog"	FALSE
-"D1335"	"Male"	24	"dog"	FALSE
-"D1367"	"Male"	24	"dog"	FALSE
-"D1374"	"Male"	24	"dog"	FALSE
-"E1522"	"Male"	24	"dog"	FALSE
-"E1565"	"Male"	24	"dog"	FALSE
-"E1580"	"Male"	24	"dog"	FALSE
-"E1612"	"Male"	24	"dog"	FALSE
-"E1652"	"Male"	24	"dog"	FALSE
-"E1744"	"Male"	24	"dog"	FALSE
-"E1792"	"Male"	24	"dog"	FALSE
-"B487"	"Female"	25	"dog"	FALSE
-"B619"	"Female"	25	"dog"	FALSE
-"C1073"	"Female"	25	"dog"	FALSE
-"C864"	"Female"	25	"dog"	FALSE
-"C902"	"Female"	25	"dog"	FALSE
-"D1418"	"Female"	25	"dog"	FALSE
-"D1493"	"Female"	25	"dog"	FALSE
-"E1634"	"Female"	25	"dog"	FALSE
-"E1731"	"Female"	25	"dog"	FALSE
-"E1891"	"Female"	25	"dog"	FALSE
-"B668"	"Male"	25	"dog"	FALSE
-"B694"	"Male"	25	"dog"	FALSE
-"B750"	"Male"	25	"dog"	FALSE
-"C985"	"Male"	25	"dog"	FALSE
-"C992"	"Male"	25	"dog"	FALSE
-"D1169"	"Male"	25	"dog"	FALSE
-"D1171"	"Male"	25	"dog"	FALSE
-"D1292"	"Male"	25	"dog"	FALSE
-"D1388"	"Male"	25	"dog"	FALSE
-"D1444"	"Male"	25	"dog"	FALSE
-"E1566"	"Male"	25	"dog"	FALSE
-"E1614"	"Male"	25	"dog"	FALSE
-"E1676"	"Male"	25	"dog"	FALSE
-"E1730"	"Male"	25	"dog"	FALSE
-"B503"	"Female"	26	"dog"	FALSE
-"B546"	"Female"	26	"dog"	FALSE
-"B613"	"Female"	26	"dog"	FALSE
-"B726"	"Female"	26	"dog"	FALSE
-"C1084"	"Female"	26	"dog"	FALSE
-"C1085"	"Female"	26	"dog"	FALSE
-"C754"	"Female"	26	"dog"	FALSE
-"C793"	"Female"	26	"dog"	FALSE
-"C984"	"Female"	26	"dog"	FALSE
-"D1195"	"Female"	26	"dog"	FALSE
-"D1222"	"Female"	26	"dog"	FALSE
-"D1248"	"Female"	26	"dog"	FALSE
-"D1308"	"Female"	26	"dog"	FALSE
-"D1512"	"Female"	26	"dog"	FALSE
-"D1515"	"Female"	26	"dog"	FALSE
-"E1596"	"Female"	26	"dog"	FALSE
-"E1607"	"Female"	26	"dog"	FALSE
-"E1692"	"Female"	26	"dog"	FALSE
-"E1695"	"Female"	26	"dog"	FALSE
-"E1716"	"Female"	26	"dog"	FALSE
-"E1752"	"Female"	26	"dog"	FALSE
-"E1791"	"Female"	26	"dog"	FALSE
-"A106"	"Male"	26	"dog"	FALSE
-"A124"	"Male"	26	"dog"	FALSE
-"A139"	"Male"	26	"dog"	FALSE
-"A151"	"Male"	26	"dog"	FALSE
-"A179"	"Male"	26	"dog"	FALSE
-"A20"	"Male"	26	"dog"	FALSE
-"A258"	"Male"	26	"dog"	FALSE
-"A287"	"Male"	26	"dog"	FALSE
-"A30"	"Male"	26	"dog"	FALSE
-"A59"	"Male"	26	"dog"	FALSE
-"A99"	"Male"	26	"dog"	FALSE
-"B446"	"Male"	26	"dog"	FALSE
-"B483"	"Male"	26	"dog"	FALSE
-"B505"	"Male"	26	"dog"	FALSE
-"B565"	"Male"	26	"dog"	FALSE
-"B688"	"Male"	26	"dog"	FALSE
-"B700"	"Male"	26	"dog"	FALSE
-"B747"	"Male"	26	"dog"	FALSE
-"C1097"	"Male"	26	"dog"	FALSE
-"C823"	"Male"	26	"dog"	FALSE
-"C874"	"Male"	26	"dog"	FALSE
-"C970"	"Male"	26	"dog"	FALSE
-"C986"	"Male"	26	"dog"	FALSE
-"D1298"	"Male"	26	"dog"	FALSE
-"D1431"	"Male"	26	"dog"	FALSE
-"E1534"	"Male"	26	"dog"	FALSE
-"E1635"	"Male"	26	"dog"	FALSE
-"E1647"	"Male"	26	"dog"	FALSE
-"E1819"	"Male"	26	"dog"	FALSE
-"A134"	"Female"	27	"dog"	FALSE
-"A173"	"Female"	27	"dog"	FALSE
-"A206"	"Female"	27	"dog"	FALSE
-"A228"	"Female"	27	"dog"	FALSE
-"A73"	"Female"	27	"dog"	FALSE
-"A91"	"Female"	27	"dog"	FALSE
-"B543"	"Female"	27	"dog"	FALSE
-"D1210"	"Female"	27	"dog"	FALSE
-"E1523"	"Female"	27	"dog"	FALSE
-"E1862"	"Female"	27	"dog"	FALSE
-"A185"	"Male"	27	"dog"	FALSE
-"A217"	"Male"	27	"dog"	FALSE
-"A229"	"Male"	27	"dog"	FALSE
-"A271"	"Male"	27	"dog"	FALSE
-"A366"	"Male"	27	"dog"	FALSE
-"A52"	"Male"	27	"dog"	FALSE
-"A80"	"Male"	27	"dog"	FALSE
-"B464"	"Male"	27	"dog"	FALSE
-"B641"	"Male"	27	"dog"	FALSE
-"B679"	"Male"	27	"dog"	FALSE
-"B707"	"Male"	27	"dog"	FALSE
-"B714"	"Male"	27	"dog"	FALSE
-"C1039"	"Male"	27	"dog"	FALSE
-"C1043"	"Male"	27	"dog"	FALSE
-"C1061"	"Male"	27	"dog"	FALSE
-"C814"	"Male"	27	"dog"	FALSE
-"C851"	"Male"	27	"dog"	FALSE
-"C901"	"Male"	27	"dog"	FALSE
-"C969"	"Male"	27	"dog"	FALSE
-"D1157"	"Male"	27	"dog"	FALSE
-"D1276"	"Male"	27	"dog"	FALSE
-"D1303"	"Male"	27	"dog"	FALSE
-"D1402"	"Male"	27	"dog"	FALSE
-"E1551"	"Male"	27	"dog"	FALSE
-"E1558"	"Male"	27	"dog"	FALSE
-"E1852"	"Male"	27	"dog"	FALSE
-"A259"	"Female"	28	"dog"	FALSE
-"A33"	"Female"	28	"dog"	FALSE
-"A85"	"Female"	28	"dog"	FALSE
-"A98"	"Female"	28	"dog"	FALSE
-"B390"	"Female"	28	"dog"	FALSE
-"B605"	"Female"	28	"dog"	FALSE
-"B697"	"Female"	28	"dog"	FALSE
-"C1047"	"Female"	28	"dog"	FALSE
-"C769"	"Female"	28	"dog"	FALSE
-"C957"	"Female"	28	"dog"	FALSE
-"D1294"	"Female"	28	"dog"	FALSE
-"D1372"	"Female"	28	"dog"	FALSE
-"D1377"	"Female"	28	"dog"	FALSE
-"D1384"	"Female"	28	"dog"	FALSE
-"D1410"	"Female"	28	"dog"	FALSE
-"D1423"	"Female"	28	"dog"	FALSE
-"E1543"	"Female"	28	"dog"	FALSE
-"E1585"	"Female"	28	"dog"	FALSE
-"E1742"	"Female"	28	"dog"	FALSE
-"E1746"	"Female"	28	"dog"	FALSE
-"E1846"	"Female"	28	"dog"	FALSE
-"E1854"	"Female"	28	"dog"	FALSE
-"E1861"	"Female"	28	"dog"	FALSE
-"A129"	"Male"	28	"dog"	FALSE
-"A191"	"Male"	28	"dog"	FALSE
-"A41"	"Male"	28	"dog"	FALSE
-"A76"	"Male"	28	"dog"	FALSE
-"A94"	"Male"	28	"dog"	FALSE
-"B398"	"Male"	28	"dog"	FALSE
-"B442"	"Male"	28	"dog"	FALSE
-"B515"	"Male"	28	"dog"	FALSE
-"B644"	"Male"	28	"dog"	FALSE
-"B672"	"Male"	28	"dog"	FALSE
-"C1067"	"Male"	28	"dog"	FALSE
-"C1088"	"Male"	28	"dog"	FALSE
-"C826"	"Male"	28	"dog"	FALSE
-"C837"	"Male"	28	"dog"	FALSE
-"C946"	"Male"	28	"dog"	FALSE
-"D1240"	"Male"	28	"dog"	FALSE
-"D1302"	"Male"	28	"dog"	FALSE
-"D1424"	"Male"	28	"dog"	FALSE
-"D1434"	"Male"	28	"dog"	FALSE
-"E1563"	"Male"	28	"dog"	FALSE
-"E1616"	"Male"	28	"dog"	FALSE
-"E1642"	"Male"	28	"dog"	FALSE
-"E1682"	"Male"	28	"dog"	FALSE
-"E1697"	"Male"	28	"dog"	FALSE
-"E1745"	"Male"	28	"dog"	FALSE
-"A280"	"Female"	29	"dog"	FALSE
-"A299"	"Female"	29	"dog"	FALSE
-"B373"	"Female"	29	"dog"	FALSE
-"B383"	"Female"	29	"dog"	FALSE
-"B396"	"Female"	29	"dog"	FALSE
-"B421"	"Female"	29	"dog"	FALSE
-"B431"	"Female"	29	"dog"	FALSE
-"B576"	"Female"	29	"dog"	FALSE
-"B624"	"Female"	29	"dog"	FALSE
-"B657"	"Female"	29	"dog"	FALSE
-"B743"	"Female"	29	"dog"	FALSE
-"C1068"	"Female"	29	"dog"	FALSE
-"C895"	"Female"	29	"dog"	FALSE
-"C979"	"Female"	29	"dog"	FALSE
-"C993"	"Female"	29	"dog"	FALSE
-"D1145"	"Female"	29	"dog"	FALSE
-"D1243"	"Female"	29	"dog"	FALSE
-"D1287"	"Female"	29	"dog"	FALSE
-"D1394"	"Female"	29	"dog"	FALSE
-"D1445"	"Female"	29	"dog"	FALSE
-"D1459"	"Female"	29	"dog"	FALSE
-"D1492"	"Female"	29	"dog"	FALSE
-"E1581"	"Female"	29	"dog"	FALSE
-"A16"	"Male"	29	"dog"	FALSE
-"A294"	"Male"	29	"dog"	FALSE
-"A320"	"Male"	29	"dog"	FALSE
-"A338"	"Male"	29	"dog"	FALSE
-"B397"	"Male"	29	"dog"	FALSE
-"B453"	"Male"	29	"dog"	FALSE
-"B461"	"Male"	29	"dog"	FALSE
-"B584"	"Male"	29	"dog"	FALSE
-"C1055"	"Male"	29	"dog"	FALSE
-"C1109"	"Male"	29	"dog"	FALSE
-"C966"	"Male"	29	"dog"	FALSE
-"D1135"	"Male"	29	"dog"	FALSE
-"D1420"	"Male"	29	"dog"	FALSE
-"D1426"	"Male"	29	"dog"	FALSE
-"D1432"	"Male"	29	"dog"	FALSE
-"D1477"	"Male"	29	"dog"	FALSE
-"E1628"	"Male"	29	"dog"	FALSE
-"E1786"	"Male"	29	"dog"	FALSE
-"E1800"	"Male"	29	"dog"	FALSE
-"E1892"	"Male"	29	"dog"	FALSE
-"A119"	"Female"	30	"dog"	FALSE
-"A253"	"Female"	30	"dog"	FALSE
-"A268"	"Female"	30	"dog"	FALSE
-"A312"	"Female"	30	"dog"	FALSE
-"B501"	"Female"	30	"dog"	FALSE
-"B551"	"Female"	30	"dog"	FALSE
-"B572"	"Female"	30	"dog"	FALSE
-"B573"	"Female"	30	"dog"	FALSE
-"B662"	"Female"	30	"dog"	FALSE
-"C1003"	"Female"	30	"dog"	FALSE
-"C1098"	"Female"	30	"dog"	FALSE
-"C811"	"Female"	30	"dog"	FALSE
-"C829"	"Female"	30	"dog"	FALSE
-"C903"	"Female"	30	"dog"	FALSE
-"C913"	"Female"	30	"dog"	FALSE
-"C936"	"Female"	30	"dog"	FALSE
-"D1151"	"Female"	30	"dog"	FALSE
-"D1234"	"Female"	30	"dog"	FALSE
-"D1380"	"Female"	30	"dog"	FALSE
-"D1413"	"Female"	30	"dog"	FALSE
-"D1495"	"Female"	30	"dog"	FALSE
-"E1576"	"Female"	30	"dog"	FALSE
-"E1610"	"Female"	30	"dog"	FALSE
-"E1690"	"Female"	30	"dog"	FALSE
-"E1708"	"Female"	30	"dog"	FALSE
-"E1740"	"Female"	30	"dog"	FALSE
-"E1839"	"Female"	30	"dog"	FALSE
-"A123"	"Male"	30	"dog"	FALSE
-"A260"	"Male"	30	"dog"	FALSE
-"A278"	"Male"	30	"dog"	FALSE
-"A360"	"Male"	30	"dog"	FALSE
-"A84"	"Male"	30	"dog"	FALSE
-"B526"	"Male"	30	"dog"	FALSE
-"C819"	"Male"	30	"dog"	FALSE
-"C910"	"Male"	30	"dog"	FALSE
-"C916"	"Male"	30	"dog"	FALSE
-"C963"	"Male"	30	"dog"	FALSE
-"D1178"	"Male"	30	"dog"	FALSE
-"D1398"	"Male"	30	"dog"	FALSE
-"E1613"	"Male"	30	"dog"	FALSE
-"E1737"	"Male"	30	"dog"	FALSE
-"E1804"	"Male"	30	"dog"	FALSE
-"E1833"	"Male"	30	"dog"	FALSE
-"A221"	"Female"	31	"dog"	FALSE
-"A23"	"Female"	31	"dog"	FALSE
-"A47"	"Female"	31	"dog"	FALSE
-"B509"	"Female"	31	"dog"	FALSE
-"B722"	"Female"	31	"dog"	FALSE
-"C917"	"Female"	31	"dog"	FALSE
-"D1180"	"Female"	31	"dog"	FALSE
-"D1253"	"Female"	31	"dog"	FALSE
-"D1257"	"Female"	31	"dog"	FALSE
-"D1269"	"Female"	31	"dog"	FALSE
-"D1275"	"Female"	31	"dog"	FALSE
-"D1502"	"Female"	31	"dog"	FALSE
-"D1511"	"Female"	31	"dog"	FALSE
-"E1520"	"Female"	31	"dog"	FALSE
-"E1599"	"Female"	31	"dog"	FALSE
-"E1650"	"Female"	31	"dog"	FALSE
-"E1657"	"Female"	31	"dog"	FALSE
-"E1767"	"Female"	31	"dog"	FALSE
-"E1849"	"Female"	31	"dog"	FALSE
-"A104"	"Male"	31	"dog"	FALSE
-"A249"	"Male"	31	"dog"	FALSE
-"A277"	"Male"	31	"dog"	FALSE
-"A279"	"Male"	31	"dog"	FALSE
-"A292"	"Male"	31	"dog"	FALSE
-"A304"	"Male"	31	"dog"	FALSE
-"B411"	"Male"	31	"dog"	FALSE
-"B436"	"Male"	31	"dog"	FALSE
-"B448"	"Male"	31	"dog"	FALSE
-"B490"	"Male"	31	"dog"	FALSE
-"B536"	"Male"	31	"dog"	FALSE
-"B609"	"Male"	31	"dog"	FALSE
-"B634"	"Male"	31	"dog"	FALSE
-"B680"	"Male"	31	"dog"	FALSE
-"B696"	"Male"	31	"dog"	FALSE
-"C1069"	"Male"	31	"dog"	FALSE
-"C1078"	"Male"	31	"dog"	FALSE
-"C1079"	"Male"	31	"dog"	FALSE
-"C1092"	"Male"	31	"dog"	FALSE
-"C831"	"Male"	31	"dog"	FALSE
-"D1161"	"Male"	31	"dog"	FALSE
-"D1212"	"Male"	31	"dog"	FALSE
-"D1278"	"Male"	31	"dog"	FALSE
-"D1301"	"Male"	31	"dog"	FALSE
-"D1505"	"Male"	31	"dog"	FALSE
-"E1593"	"Male"	31	"dog"	FALSE
-"E1865"	"Male"	31	"dog"	FALSE
-"E1889"	"Male"	31	"dog"	FALSE
-"A262"	"Female"	32	"dog"	FALSE
-"A55"	"Female"	32	"dog"	FALSE
-"B457"	"Female"	32	"dog"	FALSE
-"B604"	"Female"	32	"dog"	FALSE
-"C1049"	"Female"	32	"dog"	FALSE
-"C1104"	"Female"	32	"dog"	FALSE
-"C1117"	"Female"	32	"dog"	FALSE
-"D1238"	"Female"	32	"dog"	FALSE
-"D1399"	"Female"	32	"dog"	FALSE
-"D1454"	"Female"	32	"dog"	FALSE
-"E1659"	"Female"	32	"dog"	FALSE
-"E1667"	"Female"	32	"dog"	FALSE
-"E1711"	"Female"	32	"dog"	FALSE
-"E1758"	"Female"	32	"dog"	FALSE
-"E1874"	"Female"	32	"dog"	FALSE
-"A11"	"Male"	32	"dog"	FALSE
-"A120"	"Male"	32	"dog"	FALSE
-"A155"	"Male"	32	"dog"	FALSE
-"A232"	"Male"	32	"dog"	FALSE
-"A327"	"Male"	32	"dog"	FALSE
-"B376"	"Male"	32	"dog"	FALSE
-"B406"	"Male"	32	"dog"	FALSE
-"B423"	"Male"	32	"dog"	FALSE
-"B494"	"Male"	32	"dog"	FALSE
-"B507"	"Male"	32	"dog"	FALSE
-"B556"	"Male"	32	"dog"	FALSE
-"B611"	"Male"	32	"dog"	FALSE
-"B682"	"Male"	32	"dog"	FALSE
-"C1070"	"Male"	32	"dog"	FALSE
-"C1125"	"Male"	32	"dog"	FALSE
-"C926"	"Male"	32	"dog"	FALSE
-"C980"	"Male"	32	"dog"	FALSE
-"D1147"	"Male"	32	"dog"	FALSE
-"D1179"	"Male"	32	"dog"	FALSE
-"D1181"	"Male"	32	"dog"	FALSE
-"D1206"	"Male"	32	"dog"	FALSE
-"D1268"	"Male"	32	"dog"	FALSE
-"D1311"	"Male"	32	"dog"	FALSE
-"D1470"	"Male"	32	"dog"	FALSE
-"E1544"	"Male"	32	"dog"	FALSE
-"E1685"	"Male"	32	"dog"	FALSE
-"E1795"	"Male"	32	"dog"	FALSE
-"A100"	"Female"	33	"dog"	FALSE
-"A116"	"Female"	33	"dog"	FALSE
-"A188"	"Female"	33	"dog"	FALSE
-"A237"	"Female"	33	"dog"	FALSE
-"A272"	"Female"	33	"dog"	FALSE
-"A38"	"Female"	33	"dog"	FALSE
-"A97"	"Female"	33	"dog"	FALSE
-"B424"	"Female"	33	"dog"	FALSE
-"B561"	"Female"	33	"dog"	FALSE
-"B580"	"Female"	33	"dog"	FALSE
-"B640"	"Female"	33	"dog"	FALSE
-"B675"	"Female"	33	"dog"	FALSE
-"C783"	"Female"	33	"dog"	FALSE
-"C841"	"Female"	33	"dog"	FALSE
-"C844"	"Female"	33	"dog"	FALSE
-"C857"	"Female"	33	"dog"	FALSE
-"C900"	"Female"	33	"dog"	FALSE
-"C920"	"Female"	33	"dog"	FALSE
-"D1150"	"Female"	33	"dog"	FALSE
-"D1333"	"Female"	33	"dog"	FALSE
-"D1509"	"Female"	33	"dog"	FALSE
-"E1546"	"Female"	33	"dog"	FALSE
-"E1658"	"Female"	33	"dog"	FALSE
-"E1822"	"Female"	33	"dog"	FALSE
-"A300"	"Male"	33	"dog"	FALSE
-"A329"	"Male"	33	"dog"	FALSE
-"B639"	"Male"	33	"dog"	FALSE
-"B699"	"Male"	33	"dog"	FALSE
-"C767"	"Male"	33	"dog"	FALSE
-"C856"	"Male"	33	"dog"	FALSE
-"C884"	"Male"	33	"dog"	FALSE
-"C983"	"Male"	33	"dog"	FALSE
-"D1215"	"Male"	33	"dog"	FALSE
-"D1245"	"Male"	33	"dog"	FALSE
-"D1378"	"Male"	33	"dog"	FALSE
-"D1497"	"Male"	33	"dog"	FALSE
-"E1572"	"Male"	33	"dog"	FALSE
-"E1653"	"Male"	33	"dog"	FALSE
-"E1764"	"Male"	33	"dog"	FALSE
-"E1785"	"Male"	33	"dog"	FALSE
-"E1815"	"Male"	33	"dog"	FALSE
-"A136"	"Female"	34	"dog"	FALSE
-"A248"	"Female"	34	"dog"	FALSE
-"A263"	"Female"	34	"dog"	FALSE
-"A67"	"Female"	34	"dog"	FALSE
-"C1041"	"Female"	34	"dog"	FALSE
-"C1100"	"Female"	34	"dog"	FALSE
-"C757"	"Female"	34	"dog"	FALSE
-"C828"	"Female"	34	"dog"	FALSE
-"C852"	"Female"	34	"dog"	FALSE
-"C999"	"Female"	34	"dog"	FALSE
-"D1133"	"Female"	34	"dog"	FALSE
-"D1389"	"Female"	34	"dog"	FALSE
-"D1433"	"Female"	34	"dog"	FALSE
-"D1447"	"Female"	34	"dog"	FALSE
-"E1853"	"Female"	34	"dog"	FALSE
-"A180"	"Male"	34	"dog"	FALSE
-"A240"	"Male"	34	"dog"	FALSE
-"A286"	"Male"	34	"dog"	FALSE
-"A29"	"Male"	34	"dog"	FALSE
-"B375"	"Male"	34	"dog"	FALSE
-"B472"	"Male"	34	"dog"	FALSE
-"B735"	"Male"	34	"dog"	FALSE
-"C1034"	"Male"	34	"dog"	FALSE
-"C762"	"Male"	34	"dog"	FALSE
-"C786"	"Male"	34	"dog"	FALSE
-"C805"	"Male"	34	"dog"	FALSE
-"C971"	"Male"	34	"dog"	FALSE
-"D1162"	"Male"	34	"dog"	FALSE
-"D1230"	"Male"	34	"dog"	FALSE
-"D1235"	"Male"	34	"dog"	FALSE
-"D1349"	"Male"	34	"dog"	FALSE
-"D1390"	"Male"	34	"dog"	FALSE
-"D1478"	"Male"	34	"dog"	FALSE
-"D1482"	"Male"	34	"dog"	FALSE
-"D1516"	"Male"	34	"dog"	FALSE
-"E1525"	"Male"	34	"dog"	FALSE
-"E1531"	"Male"	34	"dog"	FALSE
-"A168"	"Female"	35	"dog"	FALSE
-"A264"	"Female"	35	"dog"	FALSE
-"A82"	"Female"	35	"dog"	FALSE
-"B382"	"Female"	35	"dog"	FALSE
-"B437"	"Female"	35	"dog"	FALSE
-"B504"	"Female"	35	"dog"	FALSE
-"B516"	"Female"	35	"dog"	FALSE
-"B663"	"Female"	35	"dog"	FALSE
-"B731"	"Female"	35	"dog"	FALSE
-"C1105"	"Female"	35	"dog"	FALSE
-"C1128"	"Female"	35	"dog"	FALSE
-"C832"	"Female"	35	"dog"	FALSE
-"C965"	"Female"	35	"dog"	FALSE
-"D1306"	"Female"	35	"dog"	FALSE
-"D1500"	"Female"	35	"dog"	FALSE
-"D1508"	"Female"	35	"dog"	FALSE
-"E1527"	"Female"	35	"dog"	FALSE
-"E1643"	"Female"	35	"dog"	FALSE
-"E1679"	"Female"	35	"dog"	FALSE
-"E1728"	"Female"	35	"dog"	FALSE
-"E1783"	"Female"	35	"dog"	FALSE
-"E1876"	"Female"	35	"dog"	FALSE
-"A128"	"Male"	35	"dog"	FALSE
-"A181"	"Male"	35	"dog"	FALSE
-"A187"	"Male"	35	"dog"	FALSE
-"A340"	"Male"	35	"dog"	FALSE
-"A83"	"Male"	35	"dog"	FALSE
-"B408"	"Male"	35	"dog"	FALSE
-"B475"	"Male"	35	"dog"	FALSE
-"B489"	"Male"	35	"dog"	FALSE
-"B534"	"Male"	35	"dog"	FALSE
-"B560"	"Male"	35	"dog"	FALSE
-"B586"	"Male"	35	"dog"	FALSE
-"B610"	"Male"	35	"dog"	FALSE
-"B655"	"Male"	35	"dog"	FALSE
-"B669"	"Male"	35	"dog"	FALSE
-"B716"	"Male"	35	"dog"	FALSE
-"C928"	"Male"	35	"dog"	FALSE
-"C939"	"Male"	35	"dog"	FALSE
-"C947"	"Male"	35	"dog"	FALSE
-"D1419"	"Male"	35	"dog"	FALSE
-"E1662"	"Male"	35	"dog"	FALSE
-"E1743"	"Male"	35	"dog"	FALSE
-"E1771"	"Male"	35	"dog"	FALSE
-"E1787"	"Male"	35	"dog"	FALSE
-"E1817"	"Male"	35	"dog"	FALSE
-"A323"	"Female"	36	"dog"	FALSE
-"A363"	"Female"	36	"dog"	FALSE
-"B473"	"Female"	36	"dog"	FALSE
-"B530"	"Female"	36	"dog"	FALSE
-"B601"	"Female"	36	"dog"	FALSE
-"B615"	"Female"	36	"dog"	FALSE
-"B632"	"Female"	36	"dog"	FALSE
-"B636"	"Female"	36	"dog"	FALSE
-"B677"	"Female"	36	"dog"	FALSE
-"C1051"	"Female"	36	"dog"	FALSE
-"C1052"	"Female"	36	"dog"	FALSE
-"C803"	"Female"	36	"dog"	FALSE
-"C934"	"Female"	36	"dog"	FALSE
-"D1143"	"Female"	36	"dog"	FALSE
-"D1198"	"Female"	36	"dog"	FALSE
-"D1209"	"Female"	36	"dog"	FALSE
-"D1279"	"Female"	36	"dog"	FALSE
-"D1342"	"Female"	36	"dog"	FALSE
-"D1496"	"Female"	36	"dog"	FALSE
-"D1499"	"Female"	36	"dog"	FALSE
-"E1577"	"Female"	36	"dog"	FALSE
-"E1706"	"Female"	36	"dog"	FALSE
-"E1781"	"Female"	36	"dog"	FALSE
-"A112"	"Male"	36	"dog"	FALSE
-"A169"	"Male"	36	"dog"	FALSE
-"A197"	"Male"	36	"dog"	FALSE
-"A215"	"Male"	36	"dog"	FALSE
-"A303"	"Male"	36	"dog"	FALSE
-"A51"	"Male"	36	"dog"	FALSE
-"B434"	"Male"	36	"dog"	FALSE
-"B474"	"Male"	36	"dog"	FALSE
-"B577"	"Male"	36	"dog"	FALSE
-"B578"	"Male"	36	"dog"	FALSE
-"B608"	"Male"	36	"dog"	FALSE
-"B642"	"Male"	36	"dog"	FALSE
-"B656"	"Male"	36	"dog"	FALSE
-"B703"	"Male"	36	"dog"	FALSE
-"C863"	"Male"	36	"dog"	FALSE
-"D1359"	"Male"	36	"dog"	FALSE
-"D1365"	"Male"	36	"dog"	FALSE
-"E1587"	"Male"	36	"dog"	FALSE
-"E1604"	"Male"	36	"dog"	FALSE
-"E1798"	"Male"	36	"dog"	FALSE
-"E1818"	"Male"	36	"dog"	FALSE
-"A154"	"Female"	37	"dog"	FALSE
-"A28"	"Female"	37	"dog"	FALSE
-"A339"	"Female"	37	"dog"	FALSE
-"B399"	"Female"	37	"dog"	FALSE
-"B450"	"Female"	37	"dog"	FALSE
-"B531"	"Female"	37	"dog"	FALSE
-"B566"	"Female"	37	"dog"	FALSE
-"C770"	"Female"	37	"dog"	FALSE
-"C820"	"Female"	37	"dog"	FALSE
-"C833"	"Female"	37	"dog"	FALSE
-"C840"	"Female"	37	"dog"	FALSE
-"C878"	"Female"	37	"dog"	FALSE
-"C885"	"Female"	37	"dog"	FALSE
-"C942"	"Female"	37	"dog"	FALSE
-"C988"	"Female"	37	"dog"	FALSE
-"D1141"	"Female"	37	"dog"	FALSE
-"D1160"	"Female"	37	"dog"	FALSE
-"D1217"	"Female"	37	"dog"	FALSE
-"D1430"	"Female"	37	"dog"	FALSE
-"D1491"	"Female"	37	"dog"	FALSE
-"D1506"	"Female"	37	"dog"	FALSE
-"E1812"	"Female"	37	"dog"	FALSE
-"E1894"	"Female"	37	"dog"	FALSE
-"A121"	"Male"	37	"dog"	FALSE
-"A162"	"Male"	37	"dog"	FALSE
-"A21"	"Male"	37	"dog"	FALSE
-"A289"	"Male"	37	"dog"	FALSE
-"A296"	"Male"	37	"dog"	FALSE
-"A35"	"Male"	37	"dog"	FALSE
-"A39"	"Male"	37	"dog"	FALSE
-"A69"	"Male"	37	"dog"	FALSE
-"A71"	"Male"	37	"dog"	FALSE
-"B422"	"Male"	37	"dog"	FALSE
-"B445"	"Male"	37	"dog"	FALSE
-"B451"	"Male"	37	"dog"	FALSE
-"B452"	"Male"	37	"dog"	FALSE
-"B647"	"Male"	37	"dog"	FALSE
-"C1122"	"Male"	37	"dog"	FALSE
-"D1183"	"Male"	37	"dog"	FALSE
-"D1203"	"Male"	37	"dog"	FALSE
-"D1226"	"Male"	37	"dog"	FALSE
-"D1304"	"Male"	37	"dog"	FALSE
-"D1422"	"Male"	37	"dog"	FALSE
-"E1569"	"Male"	37	"dog"	FALSE
-"E1571"	"Male"	37	"dog"	FALSE
-"E1603"	"Male"	37	"dog"	FALSE
-"E1646"	"Male"	37	"dog"	FALSE
-"E1762"	"Male"	37	"dog"	FALSE
-"E1814"	"Male"	37	"dog"	FALSE
-"A140"	"Female"	38	"dog"	FALSE
-"A247"	"Female"	38	"dog"	FALSE
-"B737"	"Female"	38	"dog"	FALSE
-"C1005"	"Female"	38	"dog"	FALSE
-"C824"	"Female"	38	"dog"	FALSE
-"C925"	"Female"	38	"dog"	FALSE
-"D1320"	"Female"	38	"dog"	FALSE
-"D1392"	"Female"	38	"dog"	FALSE
-"D1473"	"Female"	38	"dog"	FALSE
-"D1474"	"Female"	38	"dog"	FALSE
-"A5"	"Male"	38	"dog"	FALSE
-"B387"	"Male"	38	"dog"	FALSE
-"B574"	"Male"	38	"dog"	FALSE
-"B595"	"Male"	38	"dog"	FALSE
-"C1008"	"Male"	38	"dog"	FALSE
-"C1011"	"Male"	38	"dog"	FALSE
-"C848"	"Male"	38	"dog"	FALSE
-"C911"	"Male"	38	"dog"	FALSE
-"C998"	"Male"	38	"dog"	FALSE
-"D1184"	"Male"	38	"dog"	FALSE
-"E1586"	"Male"	38	"dog"	FALSE
-"E1592"	"Male"	38	"dog"	FALSE
-"E1609"	"Male"	38	"dog"	FALSE
-"E1851"	"Male"	38	"dog"	FALSE
-"B439"	"Female"	39	"dog"	FALSE
-"B650"	"Female"	39	"dog"	FALSE
-"C801"	"Female"	39	"dog"	FALSE
-"D1148"	"Female"	39	"dog"	FALSE
-"D1327"	"Female"	39	"dog"	FALSE
-"D1411"	"Female"	39	"dog"	FALSE
-"E1649"	"Female"	39	"dog"	FALSE
-"E1719"	"Female"	39	"dog"	FALSE
-"E1741"	"Female"	39	"dog"	FALSE
-"E1766"	"Female"	39	"dog"	FALSE
-"E1880"	"Female"	39	"dog"	FALSE
-"A210"	"Male"	39	"dog"	FALSE
-"A336"	"Male"	39	"dog"	FALSE
-"B729"	"Male"	39	"dog"	FALSE
-"C1004"	"Male"	39	"dog"	FALSE
-"C766"	"Male"	39	"dog"	FALSE
-"C918"	"Male"	39	"dog"	FALSE
-"C961"	"Male"	39	"dog"	FALSE
-"D1173"	"Male"	39	"dog"	FALSE
-"D1267"	"Male"	39	"dog"	FALSE
-"D1357"	"Male"	39	"dog"	FALSE
-"D1498"	"Male"	39	"dog"	FALSE
-"E1562"	"Male"	39	"dog"	FALSE
-"E1702"	"Male"	39	"dog"	FALSE
-"B491"	"Female"	40	"dog"	FALSE
-"B558"	"Female"	40	"dog"	FALSE
-"B571"	"Female"	40	"dog"	FALSE
-"C817"	"Female"	40	"dog"	FALSE
-"C908"	"Female"	40	"dog"	FALSE
-"C938"	"Female"	40	"dog"	FALSE
-"E1663"	"Female"	40	"dog"	FALSE
-"E1680"	"Female"	40	"dog"	FALSE
-"B391"	"Male"	40	"dog"	FALSE
-"B535"	"Male"	40	"dog"	FALSE
-"C777"	"Male"	40	"dog"	FALSE
-"C866"	"Male"	40	"dog"	FALSE
-"D1382"	"Male"	40	"dog"	FALSE
-"D1446"	"Male"	40	"dog"	FALSE
-"E1521"	"Male"	40	"dog"	FALSE
-"E1856"	"Male"	40	"dog"	FALSE
-"B415"	"Female"	41	"dog"	FALSE
-"B664"	"Female"	41	"dog"	FALSE
-"C1018"	"Female"	41	"dog"	FALSE
-"C869"	"Female"	41	"dog"	FALSE
-"D1224"	"Female"	41	"dog"	FALSE
-"D1490"	"Female"	41	"dog"	FALSE
-"E1524"	"Female"	41	"dog"	FALSE
-"E1673"	"Female"	41	"dog"	FALSE
-"E1775"	"Female"	41	"dog"	FALSE
-"A135"	"Male"	41	"dog"	FALSE
-"A182"	"Male"	41	"dog"	FALSE
-"A204"	"Male"	41	"dog"	FALSE
-"A62"	"Male"	41	"dog"	FALSE
-"A88"	"Male"	41	"dog"	FALSE
-"B435"	"Male"	41	"dog"	FALSE
-"B638"	"Male"	41	"dog"	FALSE
-"C1114"	"Male"	41	"dog"	FALSE
-"C1129"	"Male"	41	"dog"	FALSE
-"C799"	"Male"	41	"dog"	FALSE
-"C862"	"Male"	41	"dog"	FALSE
-"C893"	"Male"	41	"dog"	FALSE
-"C921"	"Male"	41	"dog"	FALSE
-"C989"	"Male"	41	"dog"	FALSE
-"D1142"	"Male"	41	"dog"	FALSE
-"E1863"	"Male"	41	"dog"	FALSE
-"A288"	"Female"	42	"dog"	FALSE
-"B706"	"Female"	42	"dog"	FALSE
-"C1016"	"Female"	42	"dog"	FALSE
-"C1056"	"Female"	42	"dog"	FALSE
-"C990"	"Female"	42	"dog"	FALSE
-"E1573"	"Female"	42	"dog"	FALSE
-"E1591"	"Female"	42	"dog"	FALSE
-"E1895"	"Female"	42	"dog"	FALSE
-"A75"	"Male"	42	"dog"	FALSE
-"B523"	"Male"	42	"dog"	FALSE
-"C1091"	"Male"	42	"dog"	FALSE
-"C779"	"Male"	42	"dog"	FALSE
-"C881"	"Male"	42	"dog"	FALSE
-"E1632"	"Male"	42	"dog"	FALSE
-"E1736"	"Male"	42	"dog"	FALSE
-"A175"	"Female"	43	"dog"	FALSE
-"A225"	"Female"	43	"dog"	FALSE
-"A86"	"Female"	43	"dog"	FALSE
-"B665"	"Female"	43	"dog"	FALSE
-"C1108"	"Female"	43	"dog"	FALSE
-"D1131"	"Female"	43	"dog"	FALSE
-"D1246"	"Female"	43	"dog"	FALSE
-"D1472"	"Female"	43	"dog"	FALSE
-"E1770"	"Female"	43	"dog"	FALSE
-"A163"	"Male"	43	"dog"	FALSE
-"A2"	"Male"	43	"dog"	FALSE
-"B517"	"Male"	43	"dog"	FALSE
-"B600"	"Male"	43	"dog"	FALSE
-"B652"	"Male"	43	"dog"	FALSE
-"C784"	"Male"	43	"dog"	FALSE
-"D1158"	"Male"	43	"dog"	FALSE
-"D1460"	"Male"	43	"dog"	FALSE
-"E1651"	"Male"	43	"dog"	FALSE
-"E1832"	"Male"	43	"dog"	FALSE
-"A356"	"Female"	44	"dog"	FALSE
-"B583"	"Female"	44	"dog"	FALSE
-"B741"	"Female"	44	"dog"	FALSE
-"C1017"	"Female"	44	"dog"	FALSE
-"C1029"	"Female"	44	"dog"	FALSE
-"C1059"	"Female"	44	"dog"	FALSE
-"C758"	"Female"	44	"dog"	FALSE
-"C923"	"Female"	44	"dog"	FALSE
-"D1139"	"Female"	44	"dog"	FALSE
-"D1167"	"Female"	44	"dog"	FALSE
-"D1214"	"Female"	44	"dog"	FALSE
-"D1467"	"Female"	44	"dog"	FALSE
-"E1725"	"Female"	44	"dog"	FALSE
-"E1769"	"Female"	44	"dog"	FALSE
-"E1868"	"Female"	44	"dog"	FALSE
-"A48"	"Male"	44	"dog"	FALSE
-"B511"	"Male"	44	"dog"	FALSE
-"C1116"	"Male"	44	"dog"	FALSE
-"D1164"	"Male"	44	"dog"	FALSE
-"D1233"	"Male"	44	"dog"	FALSE
-"E1796"	"Male"	44	"dog"	FALSE
-"A239"	"Female"	45	"dog"	FALSE
-"B623"	"Female"	45	"dog"	FALSE
-"B742"	"Female"	45	"dog"	FALSE
-"C896"	"Female"	45	"dog"	FALSE
-"D1313"	"Female"	45	"dog"	FALSE
-"D1469"	"Female"	45	"dog"	FALSE
-"E1554"	"Female"	45	"dog"	FALSE
-"E1793"	"Female"	45	"dog"	FALSE
-"E1878"	"Female"	45	"dog"	FALSE
-"A60"	"Male"	45	"dog"	FALSE
-"C1040"	"Male"	45	"dog"	FALSE
-"C898"	"Male"	45	"dog"	FALSE
-"D1194"	"Male"	45	"dog"	FALSE
-"D1393"	"Male"	45	"dog"	FALSE
-"E1788"	"Male"	45	"dog"	FALSE
-"A276"	"Female"	46	"dog"	FALSE
-"C778"	"Female"	46	"dog"	FALSE
-"C905"	"Female"	46	"dog"	FALSE
-"D1348"	"Female"	46	"dog"	FALSE
-"D1458"	"Female"	46	"dog"	FALSE
-"E1811"	"Female"	46	"dog"	FALSE
-"A308"	"Male"	46	"dog"	FALSE
-"A68"	"Male"	46	"dog"	FALSE
-"B444"	"Male"	46	"dog"	FALSE
-"B712"	"Male"	46	"dog"	FALSE
-"C790"	"Male"	46	"dog"	FALSE
-"D1138"	"Male"	46	"dog"	FALSE
-"D1288"	"Male"	46	"dog"	FALSE
-"E1720"	"Male"	46	"dog"	FALSE
-"A149"	"Female"	47	"dog"	FALSE
-"A171"	"Female"	47	"dog"	FALSE
-"A177"	"Female"	47	"dog"	FALSE
-"C1001"	"Female"	47	"dog"	FALSE
-"C867"	"Female"	47	"dog"	FALSE
-"C907"	"Female"	47	"dog"	FALSE
-"D1403"	"Female"	47	"dog"	FALSE
-"D1475"	"Female"	47	"dog"	FALSE
-"E1519"	"Female"	47	"dog"	FALSE
-"E1567"	"Female"	47	"dog"	FALSE
-"E1629"	"Female"	47	"dog"	FALSE
-"E1844"	"Female"	47	"dog"	FALSE
-"D1192"	"Male"	47	"dog"	FALSE
-"D1237"	"Male"	47	"dog"	FALSE
-"D1457"	"Male"	47	"dog"	FALSE
-"E1803"	"Male"	47	"dog"	FALSE
-"A109"	"Female"	48	"dog"	FALSE
-"A255"	"Female"	48	"dog"	FALSE
-"B492"	"Female"	48	"dog"	FALSE
-"C760"	"Female"	48	"dog"	FALSE
-"C892"	"Female"	48	"dog"	FALSE
-"D1280"	"Female"	48	"dog"	FALSE
-"E1827"	"Female"	48	"dog"	FALSE
-"E1841"	"Female"	48	"dog"	FALSE
-"A270"	"Male"	48	"dog"	FALSE
-"A307"	"Male"	48	"dog"	FALSE
-"B673"	"Male"	48	"dog"	FALSE
-"C1023"	"Male"	48	"dog"	FALSE
-"C912"	"Male"	48	"dog"	FALSE
-"E1717"	"Male"	48	"dog"	FALSE
-"A147"	"Female"	49	"dog"	FALSE
-"A150"	"Female"	49	"dog"	FALSE
-"A285"	"Female"	49	"dog"	FALSE
-"B455"	"Female"	49	"dog"	FALSE
-"B730"	"Female"	49	"dog"	FALSE
-"B384"	"Male"	49	"dog"	FALSE
-"B405"	"Male"	49	"dog"	FALSE
-"B498"	"Male"	49	"dog"	FALSE
-"A186"	"Female"	50	"dog"	FALSE
-"A214"	"Female"	50	"dog"	FALSE
-"C1022"	"Female"	50	"dog"	FALSE
-"C809"	"Female"	50	"dog"	FALSE
-"D1155"	"Female"	50	"dog"	FALSE
-"D1174"	"Female"	50	"dog"	FALSE
-"D1236"	"Female"	50	"dog"	FALSE
-"B488"	"Male"	50	"dog"	FALSE
-"B593"	"Male"	50	"dog"	FALSE
-"C1027"	"Male"	50	"dog"	FALSE
-"C1119"	"Male"	50	"dog"	FALSE
-"C959"	"Male"	50	"dog"	FALSE
-"C997"	"Male"	50	"dog"	FALSE
-"E1547"	"Male"	50	"dog"	FALSE
-"A203"	"Female"	51	"dog"	FALSE
-"A362"	"Female"	51	"dog"	FALSE
-"A368"	"Female"	51	"dog"	FALSE
-"C788"	"Female"	51	"dog"	FALSE
-"C795"	"Female"	51	"dog"	FALSE
-"D1263"	"Female"	51	"dog"	FALSE
-"D1317"	"Female"	51	"dog"	FALSE
-"E1645"	"Female"	51	"dog"	FALSE
-"E1633"	"Male"	51	"dog"	FALSE
-"A133"	"Female"	52	"dog"	FALSE
-"A305"	"Female"	52	"dog"	FALSE
-"C1083"	"Female"	52	"dog"	FALSE
-"D1480"	"Female"	52	"dog"	FALSE
-"A144"	"Male"	52	"dog"	FALSE
-"A319"	"Male"	52	"dog"	FALSE
-"B400"	"Male"	52	"dog"	FALSE
-"B456"	"Male"	52	"dog"	FALSE
-"C883"	"Male"	52	"dog"	FALSE
-"D1153"	"Male"	52	"dog"	FALSE
-"D1170"	"Male"	52	"dog"	FALSE
-"D1343"	"Male"	52	"dog"	FALSE
-"A167"	"Female"	53	"dog"	FALSE
-"A184"	"Female"	53	"dog"	FALSE
-"B496"	"Female"	53	"dog"	FALSE
-"C1066"	"Female"	53	"dog"	FALSE
-"C1099"	"Female"	53	"dog"	FALSE
-"C815"	"Female"	53	"dog"	FALSE
-"C879"	"Female"	53	"dog"	FALSE
-"D1193"	"Female"	53	"dog"	FALSE
-"D1435"	"Female"	53	"dog"	FALSE
-"D1476"	"Female"	53	"dog"	FALSE
-"E1608"	"Female"	53	"dog"	FALSE
-"E1734"	"Female"	53	"dog"	FALSE
-"E1807"	"Female"	53	"dog"	FALSE
-"A213"	"Male"	53	"dog"	FALSE
-"C924"	"Male"	53	"dog"	FALSE
-"A195"	"Female"	54	"dog"	FALSE
-"C1032"	"Female"	54	"dog"	FALSE
-"D1227"	"Female"	54	"dog"	FALSE
-"D1352"	"Female"	54	"dog"	FALSE
-"D1488"	"Female"	54	"dog"	FALSE
-"E1733"	"Female"	54	"dog"	FALSE
-"A50"	"Male"	54	"dog"	FALSE
-"D1405"	"Male"	54	"dog"	FALSE
-"E1595"	"Male"	54	"dog"	FALSE
-"E1623"	"Male"	54	"dog"	FALSE
-"E1886"	"Male"	54	"dog"	FALSE
-"A183"	"Female"	55	"dog"	FALSE
-"B469"	"Female"	55	"dog"	FALSE
-"C894"	"Female"	55	"dog"	FALSE
-"C948"	"Female"	55	"dog"	FALSE
-"D1154"	"Female"	55	"dog"	FALSE
-"D1190"	"Female"	55	"dog"	FALSE
-"D1416"	"Female"	55	"dog"	FALSE
-"C967"	"Male"	55	"dog"	FALSE
-"D1165"	"Male"	55	"dog"	FALSE
-"E1605"	"Male"	55	"dog"	FALSE
-"A201"	"Female"	56	"dog"	FALSE
-"A66"	"Female"	56	"dog"	FALSE
-"B721"	"Female"	56	"dog"	FALSE
-"B745"	"Female"	56	"dog"	FALSE
-"C1013"	"Female"	56	"dog"	FALSE
-"C860"	"Female"	56	"dog"	FALSE
-"D1136"	"Female"	56	"dog"	FALSE
-"D1199"	"Female"	56	"dog"	FALSE
-"D1221"	"Female"	56	"dog"	FALSE
-"D1299"	"Female"	56	"dog"	FALSE
-"D1462"	"Female"	56	"dog"	FALSE
-"D1324"	"Male"	56	"dog"	FALSE
-"B643"	"Female"	57	"dog"	FALSE
-"C1072"	"Female"	57	"dog"	FALSE
-"C845"	"Female"	57	"dog"	FALSE
-"C847"	"Female"	57	"dog"	FALSE
-"C994"	"Female"	57	"dog"	FALSE
-"D1356"	"Female"	57	"dog"	FALSE
-"E1528"	"Female"	57	"dog"	FALSE
-"E1765"	"Female"	57	"dog"	FALSE
-"B519"	"Male"	57	"dog"	FALSE
-"B713"	"Male"	57	"dog"	FALSE
-"C958"	"Male"	57	"dog"	FALSE
-"E1872"	"Male"	57	"dog"	FALSE
-"A159"	"Female"	58	"dog"	FALSE
-"A313"	"Female"	58	"dog"	FALSE
-"C1014"	"Female"	58	"dog"	FALSE
-"E1671"	"Female"	58	"dog"	FALSE
-"A314"	"Male"	58	"dog"	FALSE
-"D1296"	"Male"	58	"dog"	FALSE
-"D1494"	"Male"	58	"dog"	FALSE
-"B723"	"Female"	59	"dog"	FALSE
-"C1042"	"Female"	59	"dog"	FALSE
-"E1626"	"Female"	59	"dog"	FALSE
-"C836"	"Male"	59	"dog"	FALSE
-"D1134"	"Male"	59	"dog"	FALSE
-"B467"	"Female"	60	"dog"	FALSE
-"B719"	"Female"	60	"dog"	FALSE
-"D1175"	"Female"	60	"dog"	FALSE
-"D1448"	"Female"	60	"dog"	FALSE
-"E1831"	"Female"	60	"dog"	FALSE
-"A331"	"Male"	60	"dog"	FALSE
-"A78"	"Male"	60	"dog"	FALSE
-"B545"	"Male"	60	"dog"	FALSE
-"A146"	"Female"	61	"dog"	FALSE
-"C1120"	"Female"	61	"dog"	FALSE
-"D1361"	"Female"	61	"dog"	FALSE
-"E1760"	"Female"	61	"dog"	FALSE
-"B720"	"Male"	61	"dog"	FALSE
-"D1355"	"Male"	61	"dog"	FALSE
-"A209"	"Female"	62	"dog"	FALSE
-"B512"	"Female"	62	"dog"	FALSE
-"C792"	"Female"	62	"dog"	FALSE
-"D1464"	"Female"	62	"dog"	FALSE
-"C808"	"Male"	62	"dog"	FALSE
-"E1677"	"Male"	62	"dog"	FALSE
-"B525"	"Female"	63	"dog"	FALSE
-"D1436"	"Female"	63	"dog"	FALSE
-"E1867"	"Female"	63	"dog"	FALSE
-"A125"	"Male"	63	"dog"	FALSE
-"A189"	"Male"	63	"dog"	FALSE
-"A302"	"Male"	63	"dog"	FALSE
-"C1021"	"Male"	63	"dog"	FALSE
-"D1312"	"Male"	63	"dog"	FALSE
-"E1553"	"Male"	63	"dog"	FALSE
-"A9"	"Female"	64	"dog"	FALSE
-"E1641"	"Female"	64	"dog"	FALSE
-"B599"	"Male"	64	"dog"	FALSE
-"C839"	"Male"	64	"dog"	FALSE
-"D1281"	"Male"	64	"dog"	FALSE
-"E1859"	"Male"	64	"dog"	FALSE
-"B710"	"Female"	65	"dog"	FALSE
-"D1363"	"Female"	65	"dog"	FALSE
-"E1686"	"Female"	65	"dog"	FALSE
-"E1739"	"Female"	65	"dog"	FALSE
-"A316"	"Male"	65	"dog"	FALSE
-"A46"	"Male"	65	"dog"	FALSE
-"B539"	"Female"	66	"dog"	FALSE
-"C974"	"Female"	66	"dog"	FALSE
-"E1864"	"Female"	66	"dog"	FALSE
-"B630"	"Male"	66	"dog"	FALSE
-"D1272"	"Male"	66	"dog"	FALSE
-"A267"	"Female"	67	"dog"	FALSE
-"B704"	"Female"	67	"dog"	FALSE
-"C968"	"Female"	67	"dog"	FALSE
-"A238"	"Male"	67	"dog"	FALSE
-"C899"	"Female"	68	"dog"	FALSE
-"D1291"	"Female"	68	"dog"	FALSE
-"D1191"	"Female"	69	"dog"	FALSE
-"E1538"	"Female"	69	"dog"	FALSE
-"A202"	"Male"	69	"dog"	FALSE
-"B597"	"Male"	70	"dog"	FALSE
-"B478"	"Female"	72	"dog"	FALSE
-"D1239"	"Female"	72	"dog"	FALSE
-"A58"	"Male"	73	"dog"	FALSE
-"D1443"	"Male"	73	"dog"	FALSE
-"B727"	"Male"	74	"dog"	FALSE
+"subject","gender","age","avatar","avatarIsCat"
+"D1451","Male",18,"cat",TRUE
+"E1845","Female",19,"cat",TRUE
+"D1249","Male",19,"cat",TRUE
+"C1024","Female",20,"cat",TRUE
+"D1182","Female",20,"cat",TRUE
+"D1185","Female",20,"cat",TRUE
+"D1307","Female",20,"cat",TRUE
+"E1751","Female",20,"cat",TRUE
+"A200","Male",20,"cat",TRUE
+"B683","Male",20,"cat",TRUE
+"B711","Male",20,"cat",TRUE
+"B378","Female",21,"cat",TRUE
+"B468","Female",21,"cat",TRUE
+"B522","Female",21,"cat",TRUE
+"B739","Female",21,"cat",TRUE
+"D1297","Female",21,"cat",TRUE
+"E1559","Female",21,"cat",TRUE
+"A321","Male",21,"cat",TRUE
+"B621","Male",21,"cat",TRUE
+"E1779","Male",21,"cat",TRUE
+"A328","Female",22,"cat",TRUE
+"B628","Female",22,"cat",TRUE
+"D1159","Female",22,"cat",TRUE
+"D1385","Female",22,"cat",TRUE
+"E1701","Female",22,"cat",TRUE
+"A158","Male",22,"cat",TRUE
+"C1074","Male",22,"cat",TRUE
+"C816","Male",22,"cat",TRUE
+"D1250","Male",22,"cat",TRUE
+"D1314","Male",22,"cat",TRUE
+"E1542","Male",22,"cat",TRUE
+"A196","Female",23,"cat",TRUE
+"A317","Female",23,"cat",TRUE
+"B695","Female",23,"cat",TRUE
+"B732","Female",23,"cat",TRUE
+"C759","Female",23,"cat",TRUE
+"C849","Female",23,"cat",TRUE
+"D1323","Female",23,"cat",TRUE
+"D1406","Female",23,"cat",TRUE
+"D1425","Female",23,"cat",TRUE
+"E1529","Female",23,"cat",TRUE
+"E1620","Female",23,"cat",TRUE
+"E1718","Female",23,"cat",TRUE
+"E1823","Female",23,"cat",TRUE
+"A165","Male",23,"cat",TRUE
+"A252","Male",23,"cat",TRUE
+"A54","Male",23,"cat",TRUE
+"B521","Male",23,"cat",TRUE
+"D1156","Male",23,"cat",TRUE
+"D1373","Male",23,"cat",TRUE
+"E1755","Male",23,"cat",TRUE
+"E1834","Male",23,"cat",TRUE
+"A207","Female",24,"cat",TRUE
+"A351","Female",24,"cat",TRUE
+"B381","Female",24,"cat",TRUE
+"B388","Female",24,"cat",TRUE
+"B410","Female",24,"cat",TRUE
+"B480","Female",24,"cat",TRUE
+"B686","Female",24,"cat",TRUE
+"C1054","Female",24,"cat",TRUE
+"C1094","Female",24,"cat",TRUE
+"C806","Female",24,"cat",TRUE
+"C818","Female",24,"cat",TRUE
+"C872","Female",24,"cat",TRUE
+"D1370","Female",24,"cat",TRUE
+"E1738","Female",24,"cat",TRUE
+"A12","Male",24,"cat",TRUE
+"A132","Male",24,"cat",TRUE
+"B717","Male",24,"cat",TRUE
+"B752","Male",24,"cat",TRUE
+"C1026","Male",24,"cat",TRUE
+"D1325","Male",24,"cat",TRUE
+"A18","Female",25,"cat",TRUE
+"B438","Female",25,"cat",TRUE
+"B651","Female",25,"cat",TRUE
+"C1071","Female",25,"cat",TRUE
+"C812","Female",25,"cat",TRUE
+"C865","Female",25,"cat",TRUE
+"C873","Female",25,"cat",TRUE
+"C915","Female",25,"cat",TRUE
+"C922","Female",25,"cat",TRUE
+"C981","Female",25,"cat",TRUE
+"D1146","Female",25,"cat",TRUE
+"D1310","Female",25,"cat",TRUE
+"D1329","Female",25,"cat",TRUE
+"E1545","Female",25,"cat",TRUE
+"E1582","Female",25,"cat",TRUE
+"E1689","Female",25,"cat",TRUE
+"E1893","Female",25,"cat",TRUE
+"B465","Male",25,"cat",TRUE
+"C1009","Male",25,"cat",TRUE
+"C1095","Male",25,"cat",TRUE
+"D1510","Male",25,"cat",TRUE
+"E1556","Male",25,"cat",TRUE
+"A13","Female",26,"cat",TRUE
+"A241","Female",26,"cat",TRUE
+"A326","Female",26,"cat",TRUE
+"A87","Female",26,"cat",TRUE
+"A96","Female",26,"cat",TRUE
+"B744","Female",26,"cat",TRUE
+"C932","Female",26,"cat",TRUE
+"D1485","Female",26,"cat",TRUE
+"D1486","Female",26,"cat",TRUE
+"D1503","Female",26,"cat",TRUE
+"E1517","Female",26,"cat",TRUE
+"E1533","Female",26,"cat",TRUE
+"E1721","Female",26,"cat",TRUE
+"E1840","Female",26,"cat",TRUE
+"A1","Male",26,"cat",TRUE
+"A101","Male",26,"cat",TRUE
+"A190","Male",26,"cat",TRUE
+"A335","Male",26,"cat",TRUE
+"B377","Male",26,"cat",TRUE
+"B569","Male",26,"cat",TRUE
+"B667","Male",26,"cat",TRUE
+"C1002","Male",26,"cat",TRUE
+"C1111","Male",26,"cat",TRUE
+"E1829","Male",26,"cat",TRUE
+"E1882","Male",26,"cat",TRUE
+"B393","Female",27,"cat",TRUE
+"B458","Female",27,"cat",TRUE
+"B690","Female",27,"cat",TRUE
+"B736","Female",27,"cat",TRUE
+"C794","Female",27,"cat",TRUE
+"C807","Female",27,"cat",TRUE
+"C976","Female",27,"cat",TRUE
+"D1255","Female",27,"cat",TRUE
+"D1383","Female",27,"cat",TRUE
+"D1456","Female",27,"cat",TRUE
+"D1489","Female",27,"cat",TRUE
+"E1625","Female",27,"cat",TRUE
+"E1681","Female",27,"cat",TRUE
+"E1727","Female",27,"cat",TRUE
+"E1850","Female",27,"cat",TRUE
+"E1875","Female",27,"cat",TRUE
+"E1890","Female",27,"cat",TRUE
+"A113","Male",27,"cat",TRUE
+"B499","Male",27,"cat",TRUE
+"B603","Male",27,"cat",TRUE
+"B670","Male",27,"cat",TRUE
+"C914","Male",27,"cat",TRUE
+"C954","Male",27,"cat",TRUE
+"D1218","Male",27,"cat",TRUE
+"E1843","Male",27,"cat",TRUE
+"A127","Female",28,"cat",TRUE
+"A227","Female",28,"cat",TRUE
+"A24","Female",28,"cat",TRUE
+"A367","Female",28,"cat",TRUE
+"A37","Female",28,"cat",TRUE
+"A61","Female",28,"cat",TRUE
+"A74","Female",28,"cat",TRUE
+"B433","Female",28,"cat",TRUE
+"B481","Female",28,"cat",TRUE
+"B746","Female",28,"cat",TRUE
+"C1038","Female",28,"cat",TRUE
+"C1076","Female",28,"cat",TRUE
+"C1102","Female",28,"cat",TRUE
+"C1124","Female",28,"cat",TRUE
+"C1126","Female",28,"cat",TRUE
+"C768","Female",28,"cat",TRUE
+"C887","Female",28,"cat",TRUE
+"C955","Female",28,"cat",TRUE
+"D1242","Female",28,"cat",TRUE
+"D1273","Female",28,"cat",TRUE
+"D1284","Female",28,"cat",TRUE
+"D1286","Female",28,"cat",TRUE
+"D1332","Female",28,"cat",TRUE
+"D1466","Female",28,"cat",TRUE
+"E1549","Female",28,"cat",TRUE
+"E1670","Female",28,"cat",TRUE
+"E1699","Female",28,"cat",TRUE
+"E1729","Female",28,"cat",TRUE
+"E1824","Female",28,"cat",TRUE
+"A176","Male",28,"cat",TRUE
+"A22","Male",28,"cat",TRUE
+"A266","Male",28,"cat",TRUE
+"A45","Male",28,"cat",TRUE
+"B463","Male",28,"cat",TRUE
+"B520","Male",28,"cat",TRUE
+"B692","Male",28,"cat",TRUE
+"C800","Male",28,"cat",TRUE
+"C944","Male",28,"cat",TRUE
+"E1761","Male",28,"cat",TRUE
+"A103","Female",29,"cat",TRUE
+"A251","Female",29,"cat",TRUE
+"A254","Female",29,"cat",TRUE
+"A357","Female",29,"cat",TRUE
+"A44","Female",29,"cat",TRUE
+"A57","Female",29,"cat",TRUE
+"B371","Female",29,"cat",TRUE
+"B372","Female",29,"cat",TRUE
+"B430","Female",29,"cat",TRUE
+"B449","Female",29,"cat",TRUE
+"C1081","Female",29,"cat",TRUE
+"C842","Female",29,"cat",TRUE
+"C973","Female",29,"cat",TRUE
+"D1262","Female",29,"cat",TRUE
+"D1337","Female",29,"cat",TRUE
+"D1362","Female",29,"cat",TRUE
+"D1417","Female",29,"cat",TRUE
+"D1479","Female",29,"cat",TRUE
+"E1584","Female",29,"cat",TRUE
+"E1617","Female",29,"cat",TRUE
+"E1705","Female",29,"cat",TRUE
+"E1826","Female",29,"cat",TRUE
+"E1877","Female",29,"cat",TRUE
+"A166","Male",29,"cat",TRUE
+"A244","Male",29,"cat",TRUE
+"A291","Male",29,"cat",TRUE
+"A53","Male",29,"cat",TRUE
+"B395","Male",29,"cat",TRUE
+"D1149","Male",29,"cat",TRUE
+"D1513","Male",29,"cat",TRUE
+"E1774","Male",29,"cat",TRUE
+"E1883","Male",29,"cat",TRUE
+"A114","Female",30,"cat",TRUE
+"A236","Female",30,"cat",TRUE
+"A26","Female",30,"cat",TRUE
+"A334","Female",30,"cat",TRUE
+"A352","Female",30,"cat",TRUE
+"A6","Female",30,"cat",TRUE
+"A8","Female",30,"cat",TRUE
+"A89","Female",30,"cat",TRUE
+"B513","Female",30,"cat",TRUE
+"B661","Female",30,"cat",TRUE
+"B671","Female",30,"cat",TRUE
+"C776","Female",30,"cat",TRUE
+"C953","Female",30,"cat",TRUE
+"D1452","Female",30,"cat",TRUE
+"E1684","Female",30,"cat",TRUE
+"E1722","Female",30,"cat",TRUE
+"E1750","Female",30,"cat",TRUE
+"E1777","Female",30,"cat",TRUE
+"E1866","Female",30,"cat",TRUE
+"A274","Male",30,"cat",TRUE
+"A358","Male",30,"cat",TRUE
+"B432","Male",30,"cat",TRUE
+"B550","Male",30,"cat",TRUE
+"B708","Male",30,"cat",TRUE
+"C780","Male",30,"cat",TRUE
+"C882","Male",30,"cat",TRUE
+"C937","Male",30,"cat",TRUE
+"D1196","Male",30,"cat",TRUE
+"D1300","Male",30,"cat",TRUE
+"E1615","Male",30,"cat",TRUE
+"E1881","Male",30,"cat",TRUE
+"A199","Female",31,"cat",TRUE
+"A243","Female",31,"cat",TRUE
+"A273","Female",31,"cat",TRUE
+"A369","Female",31,"cat",TRUE
+"A56","Female",31,"cat",TRUE
+"B506","Female",31,"cat",TRUE
+"B562","Female",31,"cat",TRUE
+"B587","Female",31,"cat",TRUE
+"B606","Female",31,"cat",TRUE
+"B753","Female",31,"cat",TRUE
+"C1030","Female",31,"cat",TRUE
+"C802","Female",31,"cat",TRUE
+"C868","Female",31,"cat",TRUE
+"D1225","Female",31,"cat",TRUE
+"D1334","Female",31,"cat",TRUE
+"D1412","Female",31,"cat",TRUE
+"E1597","Female",31,"cat",TRUE
+"E1732","Female",31,"cat",TRUE
+"E1756","Female",31,"cat",TRUE
+"E1776","Female",31,"cat",TRUE
+"E1806","Female",31,"cat",TRUE
+"E1825","Female",31,"cat",TRUE
+"E1847","Female",31,"cat",TRUE
+"A107","Male",31,"cat",TRUE
+"A122","Male",31,"cat",TRUE
+"A212","Male",31,"cat",TRUE
+"A256","Male",31,"cat",TRUE
+"A315","Male",31,"cat",TRUE
+"A92","Male",31,"cat",TRUE
+"B541","Male",31,"cat",TRUE
+"B715","Male",31,"cat",TRUE
+"D1484","Male",31,"cat",TRUE
+"A148","Female",32,"cat",TRUE
+"A3","Female",32,"cat",TRUE
+"A370","Female",32,"cat",TRUE
+"B454","Female",32,"cat",TRUE
+"B549","Female",32,"cat",TRUE
+"B614","Female",32,"cat",TRUE
+"B617","Female",32,"cat",TRUE
+"B685","Female",32,"cat",TRUE
+"B724","Female",32,"cat",TRUE
+"C919","Female",32,"cat",TRUE
+"C972","Female",32,"cat",TRUE
+"C982","Female",32,"cat",TRUE
+"D1166","Female",32,"cat",TRUE
+"D1177","Female",32,"cat",TRUE
+"D1189","Female",32,"cat",TRUE
+"D1204","Female",32,"cat",TRUE
+"D1228","Female",32,"cat",TRUE
+"D1283","Female",32,"cat",TRUE
+"D1338","Female",32,"cat",TRUE
+"D1340","Female",32,"cat",TRUE
+"D1354","Female",32,"cat",TRUE
+"D1387","Female",32,"cat",TRUE
+"E1637","Female",32,"cat",TRUE
+"E1726","Female",32,"cat",TRUE
+"E1855","Female",32,"cat",TRUE
+"E1870","Female",32,"cat",TRUE
+"A137","Male",32,"cat",TRUE
+"A170","Male",32,"cat",TRUE
+"A174","Male",32,"cat",TRUE
+"A40","Male",32,"cat",TRUE
+"A70","Male",32,"cat",TRUE
+"B427","Male",32,"cat",TRUE
+"B646","Male",32,"cat",TRUE
+"B660","Male",32,"cat",TRUE
+"C1075","Male",32,"cat",TRUE
+"C1130","Male",32,"cat",TRUE
+"C755","Male",32,"cat",TRUE
+"C854","Male",32,"cat",TRUE
+"C978","Male",32,"cat",TRUE
+"D1439","Male",32,"cat",TRUE
+"D1453","Male",32,"cat",TRUE
+"E1763","Male",32,"cat",TRUE
+"A108","Female",33,"cat",TRUE
+"A226","Female",33,"cat",TRUE
+"A233","Female",33,"cat",TRUE
+"A257","Female",33,"cat",TRUE
+"A348","Female",33,"cat",TRUE
+"B419","Female",33,"cat",TRUE
+"B485","Female",33,"cat",TRUE
+"B540","Female",33,"cat",TRUE
+"B582","Female",33,"cat",TRUE
+"B622","Female",33,"cat",TRUE
+"C830","Female",33,"cat",TRUE
+"C886","Female",33,"cat",TRUE
+"C929","Female",33,"cat",TRUE
+"C931","Female",33,"cat",TRUE
+"C945","Female",33,"cat",TRUE
+"C977","Female",33,"cat",TRUE
+"D1247","Female",33,"cat",TRUE
+"D1254","Female",33,"cat",TRUE
+"D1270","Female",33,"cat",TRUE
+"D1309","Female",33,"cat",TRUE
+"E1541","Female",33,"cat",TRUE
+"E1619","Female",33,"cat",TRUE
+"E1797","Female",33,"cat",TRUE
+"B386","Male",33,"cat",TRUE
+"B462","Male",33,"cat",TRUE
+"B567","Male",33,"cat",TRUE
+"B588","Male",33,"cat",TRUE
+"B607","Male",33,"cat",TRUE
+"C1096","Male",33,"cat",TRUE
+"C1115","Male",33,"cat",TRUE
+"D1176","Male",33,"cat",TRUE
+"D1409","Male",33,"cat",TRUE
+"E1808","Male",33,"cat",TRUE
+"A118","Female",34,"cat",TRUE
+"A306","Female",34,"cat",TRUE
+"A346","Female",34,"cat",TRUE
+"A350","Female",34,"cat",TRUE
+"A354","Female",34,"cat",TRUE
+"B379","Female",34,"cat",TRUE
+"B440","Female",34,"cat",TRUE
+"B441","Female",34,"cat",TRUE
+"B510","Female",34,"cat",TRUE
+"B589","Female",34,"cat",TRUE
+"B654","Female",34,"cat",TRUE
+"B734","Female",34,"cat",TRUE
+"C1020","Female",34,"cat",TRUE
+"C763","Female",34,"cat",TRUE
+"C825","Female",34,"cat",TRUE
+"C850","Female",34,"cat",TRUE
+"C890","Female",34,"cat",TRUE
+"C964","Female",34,"cat",TRUE
+"C996","Female",34,"cat",TRUE
+"D1140","Female",34,"cat",TRUE
+"D1197","Female",34,"cat",TRUE
+"D1205","Female",34,"cat",TRUE
+"D1438","Female",34,"cat",TRUE
+"D1468","Female",34,"cat",TRUE
+"E1530","Female",34,"cat",TRUE
+"E1537","Female",34,"cat",TRUE
+"E1561","Female",34,"cat",TRUE
+"E1678","Female",34,"cat",TRUE
+"E1688","Female",34,"cat",TRUE
+"E1713","Female",34,"cat",TRUE
+"E1813","Female",34,"cat",TRUE
+"A15","Male",34,"cat",TRUE
+"B674","Male",34,"cat",TRUE
+"B676","Male",34,"cat",TRUE
+"C877","Male",34,"cat",TRUE
+"D1213","Male",34,"cat",TRUE
+"D1455","Male",34,"cat",TRUE
+"D1487","Male",34,"cat",TRUE
+"E1778","Male",34,"cat",TRUE
+"E1820","Male",34,"cat",TRUE
+"A293","Female",35,"cat",TRUE
+"A337","Female",35,"cat",TRUE
+"B518","Female",35,"cat",TRUE
+"B553","Female",35,"cat",TRUE
+"B596","Female",35,"cat",TRUE
+"B602","Female",35,"cat",TRUE
+"B635","Female",35,"cat",TRUE
+"B681","Female",35,"cat",TRUE
+"B751","Female",35,"cat",TRUE
+"C1012","Female",35,"cat",TRUE
+"C821","Female",35,"cat",TRUE
+"C995","Female",35,"cat",TRUE
+"D1188","Female",35,"cat",TRUE
+"D1271","Female",35,"cat",TRUE
+"D1391","Female",35,"cat",TRUE
+"D1471","Female",35,"cat",TRUE
+"E1622","Female",35,"cat",TRUE
+"E1627","Female",35,"cat",TRUE
+"E1683","Female",35,"cat",TRUE
+"E1687","Female",35,"cat",TRUE
+"E1710","Female",35,"cat",TRUE
+"E1848","Female",35,"cat",TRUE
+"E1885","Female",35,"cat",TRUE
+"A130","Male",35,"cat",TRUE
+"A152","Male",35,"cat",TRUE
+"A17","Male",35,"cat",TRUE
+"A205","Male",35,"cat",TRUE
+"A230","Male",35,"cat",TRUE
+"A72","Male",35,"cat",TRUE
+"B413","Male",35,"cat",TRUE
+"B470","Male",35,"cat",TRUE
+"B476","Male",35,"cat",TRUE
+"B557","Male",35,"cat",TRUE
+"B590","Male",35,"cat",TRUE
+"C1000","Male",35,"cat",TRUE
+"C1019","Male",35,"cat",TRUE
+"D1400","Male",35,"cat",TRUE
+"E1570","Male",35,"cat",TRUE
+"E1696","Male",35,"cat",TRUE
+"A102","Female",36,"cat",TRUE
+"A141","Female",36,"cat",TRUE
+"A27","Female",36,"cat",TRUE
+"A77","Female",36,"cat",TRUE
+"A95","Female",36,"cat",TRUE
+"B538","Female",36,"cat",TRUE
+"B544","Female",36,"cat",TRUE
+"B570","Female",36,"cat",TRUE
+"B702","Female",36,"cat",TRUE
+"C1007","Female",36,"cat",TRUE
+"C1035","Female",36,"cat",TRUE
+"C827","Female",36,"cat",TRUE
+"C835","Female",36,"cat",TRUE
+"C940","Female",36,"cat",TRUE
+"D1260","Female",36,"cat",TRUE
+"D1428","Female",36,"cat",TRUE
+"E1535","Female",36,"cat",TRUE
+"E1636","Female",36,"cat",TRUE
+"E1661","Female",36,"cat",TRUE
+"E1754","Female",36,"cat",TRUE
+"E1828","Female",36,"cat",TRUE
+"A211","Male",36,"cat",TRUE
+"A284","Male",36,"cat",TRUE
+"B407","Male",36,"cat",TRUE
+"B479","Male",36,"cat",TRUE
+"B537","Male",36,"cat",TRUE
+"C1089","Male",36,"cat",TRUE
+"C1101","Male",36,"cat",TRUE
+"C797","Male",36,"cat",TRUE
+"C861","Male",36,"cat",TRUE
+"D1252","Male",36,"cat",TRUE
+"D1264","Male",36,"cat",TRUE
+"D1266","Male",36,"cat",TRUE
+"D1408","Male",36,"cat",TRUE
+"D1429","Male",36,"cat",TRUE
+"E1611","Male",36,"cat",TRUE
+"A160","Female",37,"cat",TRUE
+"A245","Female",37,"cat",TRUE
+"A31","Female",37,"cat",TRUE
+"B542","Female",37,"cat",TRUE
+"B559","Female",37,"cat",TRUE
+"B687","Female",37,"cat",TRUE
+"C1113","Female",37,"cat",TRUE
+"C787","Female",37,"cat",TRUE
+"C875","Female",37,"cat",TRUE
+"C888","Female",37,"cat",TRUE
+"D1256","Female",37,"cat",TRUE
+"D1328","Female",37,"cat",TRUE
+"D1366","Female",37,"cat",TRUE
+"D1386","Female",37,"cat",TRUE
+"D1461","Female",37,"cat",TRUE
+"E1600","Female",37,"cat",TRUE
+"E1790","Female",37,"cat",TRUE
+"A208","Male",37,"cat",TRUE
+"A333","Male",37,"cat",TRUE
+"A65","Male",37,"cat",TRUE
+"B404","Male",37,"cat",TRUE
+"B693","Male",37,"cat",TRUE
+"C1087","Male",37,"cat",TRUE
+"C952","Male",37,"cat",TRUE
+"D1295","Male",37,"cat",TRUE
+"E1552","Male",37,"cat",TRUE
+"A192","Female",38,"cat",TRUE
+"A198","Female",38,"cat",TRUE
+"A246","Female",38,"cat",TRUE
+"A341","Female",38,"cat",TRUE
+"A36","Female",38,"cat",TRUE
+"B429","Female",38,"cat",TRUE
+"B477","Female",38,"cat",TRUE
+"C1060","Female",38,"cat",TRUE
+"C810","Female",38,"cat",TRUE
+"D1285","Female",38,"cat",TRUE
+"D1375","Female",38,"cat",TRUE
+"D1449","Female",38,"cat",TRUE
+"E1666","Female",38,"cat",TRUE
+"A324","Male",38,"cat",TRUE
+"B443","Male",38,"cat",TRUE
+"B482","Male",38,"cat",TRUE
+"B547","Male",38,"cat",TRUE
+"C1037","Male",38,"cat",TRUE
+"C1063","Male",38,"cat",TRUE
+"C834","Male",38,"cat",TRUE
+"C950","Male",38,"cat",TRUE
+"D1397","Male",38,"cat",TRUE
+"A110","Female",39,"cat",TRUE
+"A138","Female",39,"cat",TRUE
+"A216","Female",39,"cat",TRUE
+"A318","Female",39,"cat",TRUE
+"A332","Female",39,"cat",TRUE
+"A43","Female",39,"cat",TRUE
+"B460","Female",39,"cat",TRUE
+"B502","Female",39,"cat",TRUE
+"B581","Female",39,"cat",TRUE
+"B648","Female",39,"cat",TRUE
+"B733","Female",39,"cat",TRUE
+"C1123","Female",39,"cat",TRUE
+"C951","Female",39,"cat",TRUE
+"D1223","Female",39,"cat",TRUE
+"E1550","Female",39,"cat",TRUE
+"E1557","Female",39,"cat",TRUE
+"E1589","Female",39,"cat",TRUE
+"E1660","Female",39,"cat",TRUE
+"A311","Male",39,"cat",TRUE
+"E1588","Male",39,"cat",TRUE
+"A222","Female",40,"cat",TRUE
+"A242","Female",40,"cat",TRUE
+"A269","Female",40,"cat",TRUE
+"B466","Female",40,"cat",TRUE
+"B532","Female",40,"cat",TRUE
+"C1010","Female",40,"cat",TRUE
+"C1064","Female",40,"cat",TRUE
+"C1103","Female",40,"cat",TRUE
+"C781","Female",40,"cat",TRUE
+"C846","Female",40,"cat",TRUE
+"D1208","Female",40,"cat",TRUE
+"D1501","Female",40,"cat",TRUE
+"E1749","Female",40,"cat",TRUE
+"E1757","Female",40,"cat",TRUE
+"E1801","Female",40,"cat",TRUE
+"B555","Male",40,"cat",TRUE
+"B616","Male",40,"cat",TRUE
+"D1200","Male",40,"cat",TRUE
+"E1799","Male",40,"cat",TRUE
+"E1838","Male",40,"cat",TRUE
+"A10","Female",41,"cat",TRUE
+"A115","Female",41,"cat",TRUE
+"B484","Female",41,"cat",TRUE
+"B500","Female",41,"cat",TRUE
+"B625","Female",41,"cat",TRUE
+"B658","Female",41,"cat",TRUE
+"C1033","Female",41,"cat",TRUE
+"C1048","Female",41,"cat",TRUE
+"C774","Female",41,"cat",TRUE
+"C876","Female",41,"cat",TRUE
+"D1229","Female",41,"cat",TRUE
+"D1336","Female",41,"cat",TRUE
+"D1463","Female",41,"cat",TRUE
+"E1624","Female",41,"cat",TRUE
+"E1630","Female",41,"cat",TRUE
+"E1638","Female",41,"cat",TRUE
+"E1821","Female",41,"cat",TRUE
+"A344","Male",41,"cat",TRUE
+"B579","Male",41,"cat",TRUE
+"C791","Male",41,"cat",TRUE
+"E1805","Male",41,"cat",TRUE
+"A143","Female",42,"cat",TRUE
+"A265","Female",42,"cat",TRUE
+"A281","Female",42,"cat",TRUE
+"A34","Female",42,"cat",TRUE
+"B409","Female",42,"cat",TRUE
+"B416","Female",42,"cat",TRUE
+"B529","Female",42,"cat",TRUE
+"B659","Female",42,"cat",TRUE
+"C1106","Female",42,"cat",TRUE
+"C904","Female",42,"cat",TRUE
+"D1293","Female",42,"cat",TRUE
+"D1401","Female",42,"cat",TRUE
+"E1896","Female",42,"cat",TRUE
+"A14","Female",43,"cat",TRUE
+"A19","Female",43,"cat",TRUE
+"A25","Female",43,"cat",TRUE
+"B568","Female",43,"cat",TRUE
+"B698","Female",43,"cat",TRUE
+"B705","Female",43,"cat",TRUE
+"B728","Female",43,"cat",TRUE
+"C1028","Female",43,"cat",TRUE
+"D1326","Female",43,"cat",TRUE
+"D1437","Female",43,"cat",TRUE
+"D1442","Female",43,"cat",TRUE
+"E1564","Female",43,"cat",TRUE
+"E1665","Female",43,"cat",TRUE
+"E1789","Female",43,"cat",TRUE
+"E1860","Female",43,"cat",TRUE
+"A126","Male",43,"cat",TRUE
+"D1216","Male",43,"cat",TRUE
+"D1219","Male",43,"cat",TRUE
+"D1344","Male",43,"cat",TRUE
+"D1351","Male",43,"cat",TRUE
+"E1621","Male",43,"cat",TRUE
+"E1694","Male",43,"cat",TRUE
+"E1780","Male",43,"cat",TRUE
+"A275","Female",44,"cat",TRUE
+"A361","Female",44,"cat",TRUE
+"B527","Female",44,"cat",TRUE
+"D1251","Female",44,"cat",TRUE
+"D1331","Female",44,"cat",TRUE
+"E1532","Female",44,"cat",TRUE
+"E1579","Female",44,"cat",TRUE
+"E1704","Female",44,"cat",TRUE
+"E1759","Female",44,"cat",TRUE
+"A111","Male",44,"cat",TRUE
+"A218","Male",44,"cat",TRUE
+"A301","Male",44,"cat",TRUE
+"A345","Male",44,"cat",TRUE
+"A7","Male",44,"cat",TRUE
+"B414","Male",44,"cat",TRUE
+"A117","Female",45,"cat",TRUE
+"A32","Female",45,"cat",TRUE
+"A342","Female",45,"cat",TRUE
+"C782","Female",45,"cat",TRUE
+"C789","Female",45,"cat",TRUE
+"C935","Female",45,"cat",TRUE
+"D1259","Female",45,"cat",TRUE
+"E1540","Female",45,"cat",TRUE
+"E1668","Female",45,"cat",TRUE
+"E1675","Female",45,"cat",TRUE
+"E1712","Female",45,"cat",TRUE
+"A223","Female",46,"cat",TRUE
+"A231","Female",46,"cat",TRUE
+"A297","Female",46,"cat",TRUE
+"A90","Female",46,"cat",TRUE
+"B508","Female",46,"cat",TRUE
+"B524","Female",46,"cat",TRUE
+"B684","Female",46,"cat",TRUE
+"C1058","Female",46,"cat",TRUE
+"C927","Female",46,"cat",TRUE
+"D1137","Female",46,"cat",TRUE
+"D1379","Female",46,"cat",TRUE
+"E1601","Female",46,"cat",TRUE
+"A234","Male",46,"cat",TRUE
+"A250","Male",46,"cat",TRUE
+"A310","Male",46,"cat",TRUE
+"C1050","Male",46,"cat",TRUE
+"D1231","Male",46,"cat",TRUE
+"B402","Female",47,"cat",TRUE
+"B417","Female",47,"cat",TRUE
+"B620","Female",47,"cat",TRUE
+"B645","Female",47,"cat",TRUE
+"B649","Female",47,"cat",TRUE
+"C1046","Female",47,"cat",TRUE
+"C1057","Female",47,"cat",TRUE
+"C764","Female",47,"cat",TRUE
+"C870","Female",47,"cat",TRUE
+"C941","Female",47,"cat",TRUE
+"E1640","Female",47,"cat",TRUE
+"E1784","Female",47,"cat",TRUE
+"E1794","Female",47,"cat",TRUE
+"A295","Male",47,"cat",TRUE
+"B495","Male",47,"cat",TRUE
+"B612","Male",47,"cat",TRUE
+"E1560","Male",47,"cat",TRUE
+"E1703","Male",47,"cat",TRUE
+"A105","Female",48,"cat",TRUE
+"A194","Female",48,"cat",TRUE
+"A325","Female",48,"cat",TRUE
+"B392","Female",48,"cat",TRUE
+"B591","Female",48,"cat",TRUE
+"C1025","Female",48,"cat",TRUE
+"C756","Female",48,"cat",TRUE
+"C822","Female",48,"cat",TRUE
+"D1220","Female",48,"cat",TRUE
+"D1450","Female",48,"cat",TRUE
+"E1714","Female",48,"cat",TRUE
+"A157","Female",49,"cat",TRUE
+"A261","Female",49,"cat",TRUE
+"A353","Female",49,"cat",TRUE
+"B418","Female",49,"cat",TRUE
+"D1330","Female",49,"cat",TRUE
+"D1376","Female",49,"cat",TRUE
+"D1381","Female",49,"cat",TRUE
+"D1481","Female",49,"cat",TRUE
+"E1555","Female",49,"cat",TRUE
+"E1578","Female",49,"cat",TRUE
+"E1655","Female",49,"cat",TRUE
+"E1773","Female",49,"cat",TRUE
+"D1277","Male",49,"cat",TRUE
+"A220","Female",50,"cat",TRUE
+"A347","Female",50,"cat",TRUE
+"B380","Female",50,"cat",TRUE
+"B709","Female",50,"cat",TRUE
+"C838","Female",50,"cat",TRUE
+"C987","Female",50,"cat",TRUE
+"D1414","Female",50,"cat",TRUE
+"B633","Male",50,"cat",TRUE
+"B740","Male",50,"cat",TRUE
+"C796","Male",50,"cat",TRUE
+"D1404","Male",50,"cat",TRUE
+"E1816","Male",50,"cat",TRUE
+"B575","Female",51,"cat",TRUE
+"C1107","Female",51,"cat",TRUE
+"C909","Female",51,"cat",TRUE
+"D1358","Female",51,"cat",TRUE
+"D1483","Female",51,"cat",TRUE
+"E1539","Female",51,"cat",TRUE
+"E1548","Female",51,"cat",TRUE
+"E1753","Female",51,"cat",TRUE
+"E1836","Female",51,"cat",TRUE
+"E1869","Female",51,"cat",TRUE
+"A49","Male",51,"cat",TRUE
+"B533","Male",51,"cat",TRUE
+"B725","Male",51,"cat",TRUE
+"C798","Male",51,"cat",TRUE
+"D1353","Male",51,"cat",TRUE
+"A309","Female",52,"cat",TRUE
+"B718","Female",52,"cat",TRUE
+"D1258","Female",52,"cat",TRUE
+"D1315","Female",52,"cat",TRUE
+"D1341","Female",52,"cat",TRUE
+"E1526","Female",52,"cat",TRUE
+"E1879","Female",52,"cat",TRUE
+"E1884","Female",52,"cat",TRUE
+"E1583","Male",52,"cat",TRUE
+"E1700","Male",52,"cat",TRUE
+"D1316","Female",53,"cat",TRUE
+"D1346","Female",53,"cat",TRUE
+"E1772","Female",53,"cat",TRUE
+"A298","Male",53,"cat",TRUE
+"A81","Female",54,"cat",TRUE
+"C871","Female",54,"cat",TRUE
+"C906","Female",54,"cat",TRUE
+"E1536","Female",54,"cat",TRUE
+"E1672","Female",54,"cat",TRUE
+"E1857","Female",54,"cat",TRUE
+"C853","Male",54,"cat",TRUE
+"D1172","Male",54,"cat",TRUE
+"B403","Female",55,"cat",TRUE
+"B738","Female",55,"cat",TRUE
+"C1077","Female",55,"cat",TRUE
+"C855","Female",55,"cat",TRUE
+"C897","Female",55,"cat",TRUE
+"C962","Female",55,"cat",TRUE
+"D1364","Female",55,"cat",TRUE
+"D1396","Female",55,"cat",TRUE
+"A193","Female",56,"cat",TRUE
+"A349","Female",56,"cat",TRUE
+"B629","Female",56,"cat",TRUE
+"B748","Female",56,"cat",TRUE
+"C1065","Female",56,"cat",TRUE
+"C771","Female",56,"cat",TRUE
+"D1421","Female",56,"cat",TRUE
+"E1575","Female",56,"cat",TRUE
+"E1887","Female",56,"cat",TRUE
+"C889","Male",56,"cat",TRUE
+"D1395","Male",56,"cat",TRUE
+"B666","Female",57,"cat",TRUE
+"B749","Female",57,"cat",TRUE
+"C1121","Female",57,"cat",TRUE
+"D1152","Female",57,"cat",TRUE
+"D1187","Female",57,"cat",TRUE
+"D1514","Female",57,"cat",TRUE
+"E1568","Female",57,"cat",TRUE
+"E1810","Female",57,"cat",TRUE
+"C956","Male",57,"cat",TRUE
+"D1318","Male",57,"cat",TRUE
+"E1669","Male",57,"cat",TRUE
+"E1858","Male",57,"cat",TRUE
+"A64","Female",58,"cat",TRUE
+"E1631","Female",58,"cat",TRUE
+"E1809","Male",58,"cat",TRUE
+"A330","Female",59,"cat",TRUE
+"B592","Female",59,"cat",TRUE
+"D1347","Female",59,"cat",TRUE
+"D1465","Female",59,"cat",TRUE
+"E1830","Female",59,"cat",TRUE
+"A343","Female",60,"cat",TRUE
+"B631","Female",60,"cat",TRUE
+"D1415","Female",60,"cat",TRUE
+"E1871","Female",60,"cat",TRUE
+"E1698","Male",60,"cat",TRUE
+"C1118","Female",61,"cat",TRUE
+"B554","Male",61,"cat",TRUE
+"A142","Female",62,"cat",TRUE
+"B412","Female",62,"cat",TRUE
+"B447","Female",62,"cat",TRUE
+"B564","Female",62,"cat",TRUE
+"D1282","Female",62,"cat",TRUE
+"E1594","Female",62,"cat",TRUE
+"E1602","Female",62,"cat",TRUE
+"E1715","Female",62,"cat",TRUE
+"D1265","Male",62,"cat",TRUE
+"A322","Female",63,"cat",TRUE
+"B626","Male",63,"cat",TRUE
+"B637","Female",64,"cat",TRUE
+"B691","Female",64,"cat",TRUE
+"C813","Female",64,"cat",TRUE
+"E1707","Female",64,"cat",TRUE
+"B394","Male",64,"cat",TRUE
+"D1186","Male",64,"cat",TRUE
+"B401","Female",65,"cat",TRUE
+"C975","Female",65,"cat",TRUE
+"A42","Female",66,"cat",TRUE
+"C765","Female",66,"cat",TRUE
+"D1201","Female",66,"cat",TRUE
+"A283","Male",66,"cat",TRUE
+"D1289","Male",66,"cat",TRUE
+"A164","Female",67,"cat",TRUE
+"C949","Female",67,"cat",TRUE
+"E1518","Female",67,"cat",TRUE
+"E1598","Female",67,"cat",TRUE
+"E1748","Female",67,"cat",TRUE
+"B548","Female",68,"cat",TRUE
+"D1441","Male",68,"cat",TRUE
+"D1368","Female",70,"cat",TRUE
+"E1735","Female",70,"cat",TRUE
+"D1360","Female",71,"cat",TRUE
+"E1656","Female",71,"cat",TRUE
+"C1080","Female",73,"cat",TRUE
+"D1168","Female",74,"cat",TRUE
+"C761","Female",79,"cat",TRUE
+"A161","Female",19,"dog",FALSE
+"B471","Female",19,"dog",FALSE
+"B486","Female",19,"dog",FALSE
+"C1015","Female",19,"dog",FALSE
+"C960","Female",19,"dog",FALSE
+"D1207","Male",19,"dog",FALSE
+"D1241","Male",19,"dog",FALSE
+"D1371","Male",19,"dog",FALSE
+"E1606","Male",19,"dog",FALSE
+"C843","Female",20,"dog",FALSE
+"D1261","Female",20,"dog",FALSE
+"D1407","Female",20,"dog",FALSE
+"A235","Male",20,"dog",FALSE
+"C1053","Male",20,"dog",FALSE
+"A156","Female",21,"dog",FALSE
+"C1086","Female",21,"dog",FALSE
+"D1339","Female",21,"dog",FALSE
+"D1440","Female",21,"dog",FALSE
+"E1835","Female",21,"dog",FALSE
+"A365","Male",21,"dog",FALSE
+"B459","Male",21,"dog",FALSE
+"B689","Male",21,"dog",FALSE
+"C1093","Male",21,"dog",FALSE
+"C773","Male",21,"dog",FALSE
+"C933","Male",21,"dog",FALSE
+"D1322","Male",21,"dog",FALSE
+"D1504","Male",21,"dog",FALSE
+"E1590","Male",21,"dog",FALSE
+"E1644","Male",21,"dog",FALSE
+"E1693","Male",21,"dog",FALSE
+"E1837","Male",21,"dog",FALSE
+"A355","Female",22,"dog",FALSE
+"B618","Female",22,"dog",FALSE
+"C1006","Female",22,"dog",FALSE
+"C930","Female",22,"dog",FALSE
+"D1144","Female",22,"dog",FALSE
+"D1321","Female",22,"dog",FALSE
+"D1427","Female",22,"dog",FALSE
+"E1768","Female",22,"dog",FALSE
+"E1842","Female",22,"dog",FALSE
+"A153","Male",22,"dog",FALSE
+"A282","Male",22,"dog",FALSE
+"A4","Male",22,"dog",FALSE
+"B653","Male",22,"dog",FALSE
+"C1031","Male",22,"dog",FALSE
+"C943","Male",22,"dog",FALSE
+"D1132","Male",22,"dog",FALSE
+"D1345","Male",22,"dog",FALSE
+"E1724","Male",22,"dog",FALSE
+"E1747","Male",22,"dog",FALSE
+"A224","Female",23,"dog",FALSE
+"B389","Female",23,"dog",FALSE
+"C1082","Female",23,"dog",FALSE
+"C785","Female",23,"dog",FALSE
+"E1574","Female",23,"dog",FALSE
+"E1639","Female",23,"dog",FALSE
+"E1654","Female",23,"dog",FALSE
+"E1664","Female",23,"dog",FALSE
+"E1674","Female",23,"dog",FALSE
+"E1782","Female",23,"dog",FALSE
+"E1873","Female",23,"dog",FALSE
+"A131","Male",23,"dog",FALSE
+"A172","Male",23,"dog",FALSE
+"A364","Male",23,"dog",FALSE
+"B428","Male",23,"dog",FALSE
+"B528","Male",23,"dog",FALSE
+"B594","Male",23,"dog",FALSE
+"B598","Male",23,"dog",FALSE
+"B678","Male",23,"dog",FALSE
+"C1036","Male",23,"dog",FALSE
+"C1045","Male",23,"dog",FALSE
+"C1062","Male",23,"dog",FALSE
+"C1112","Male",23,"dog",FALSE
+"C775","Male",23,"dog",FALSE
+"C858","Male",23,"dog",FALSE
+"D1163","Male",23,"dog",FALSE
+"D1202","Male",23,"dog",FALSE
+"D1319","Male",23,"dog",FALSE
+"E1648","Male",23,"dog",FALSE
+"E1723","Male",23,"dog",FALSE
+"A145","Female",24,"dog",FALSE
+"B420","Female",24,"dog",FALSE
+"B701","Female",24,"dog",FALSE
+"C1127","Female",24,"dog",FALSE
+"C772","Female",24,"dog",FALSE
+"C804","Female",24,"dog",FALSE
+"C880","Female",24,"dog",FALSE
+"C891","Female",24,"dog",FALSE
+"D1211","Female",24,"dog",FALSE
+"D1369","Female",24,"dog",FALSE
+"E1618","Female",24,"dog",FALSE
+"E1709","Female",24,"dog",FALSE
+"A178","Male",24,"dog",FALSE
+"B374","Male",24,"dog",FALSE
+"B385","Male",24,"dog",FALSE
+"B425","Male",24,"dog",FALSE
+"B426","Male",24,"dog",FALSE
+"B493","Male",24,"dog",FALSE
+"B497","Male",24,"dog",FALSE
+"B563","Male",24,"dog",FALSE
+"B585","Male",24,"dog",FALSE
+"C1110","Male",24,"dog",FALSE
+"C859","Male",24,"dog",FALSE
+"C991","Male",24,"dog",FALSE
+"D1244","Male",24,"dog",FALSE
+"D1290","Male",24,"dog",FALSE
+"D1335","Male",24,"dog",FALSE
+"D1367","Male",24,"dog",FALSE
+"D1374","Male",24,"dog",FALSE
+"E1522","Male",24,"dog",FALSE
+"E1565","Male",24,"dog",FALSE
+"E1580","Male",24,"dog",FALSE
+"E1612","Male",24,"dog",FALSE
+"E1652","Male",24,"dog",FALSE
+"E1744","Male",24,"dog",FALSE
+"E1792","Male",24,"dog",FALSE
+"B487","Female",25,"dog",FALSE
+"B619","Female",25,"dog",FALSE
+"C1073","Female",25,"dog",FALSE
+"C864","Female",25,"dog",FALSE
+"C902","Female",25,"dog",FALSE
+"D1418","Female",25,"dog",FALSE
+"D1493","Female",25,"dog",FALSE
+"E1634","Female",25,"dog",FALSE
+"E1731","Female",25,"dog",FALSE
+"E1891","Female",25,"dog",FALSE
+"B668","Male",25,"dog",FALSE
+"B694","Male",25,"dog",FALSE
+"B750","Male",25,"dog",FALSE
+"C985","Male",25,"dog",FALSE
+"C992","Male",25,"dog",FALSE
+"D1169","Male",25,"dog",FALSE
+"D1171","Male",25,"dog",FALSE
+"D1292","Male",25,"dog",FALSE
+"D1388","Male",25,"dog",FALSE
+"D1444","Male",25,"dog",FALSE
+"E1566","Male",25,"dog",FALSE
+"E1614","Male",25,"dog",FALSE
+"E1676","Male",25,"dog",FALSE
+"E1730","Male",25,"dog",FALSE
+"B503","Female",26,"dog",FALSE
+"B546","Female",26,"dog",FALSE
+"B613","Female",26,"dog",FALSE
+"B726","Female",26,"dog",FALSE
+"C1084","Female",26,"dog",FALSE
+"C1085","Female",26,"dog",FALSE
+"C754","Female",26,"dog",FALSE
+"C793","Female",26,"dog",FALSE
+"C984","Female",26,"dog",FALSE
+"D1195","Female",26,"dog",FALSE
+"D1222","Female",26,"dog",FALSE
+"D1248","Female",26,"dog",FALSE
+"D1308","Female",26,"dog",FALSE
+"D1512","Female",26,"dog",FALSE
+"D1515","Female",26,"dog",FALSE
+"E1596","Female",26,"dog",FALSE
+"E1607","Female",26,"dog",FALSE
+"E1692","Female",26,"dog",FALSE
+"E1695","Female",26,"dog",FALSE
+"E1716","Female",26,"dog",FALSE
+"E1752","Female",26,"dog",FALSE
+"E1791","Female",26,"dog",FALSE
+"A106","Male",26,"dog",FALSE
+"A124","Male",26,"dog",FALSE
+"A139","Male",26,"dog",FALSE
+"A151","Male",26,"dog",FALSE
+"A179","Male",26,"dog",FALSE
+"A20","Male",26,"dog",FALSE
+"A258","Male",26,"dog",FALSE
+"A287","Male",26,"dog",FALSE
+"A30","Male",26,"dog",FALSE
+"A59","Male",26,"dog",FALSE
+"A99","Male",26,"dog",FALSE
+"B446","Male",26,"dog",FALSE
+"B483","Male",26,"dog",FALSE
+"B505","Male",26,"dog",FALSE
+"B565","Male",26,"dog",FALSE
+"B688","Male",26,"dog",FALSE
+"B700","Male",26,"dog",FALSE
+"B747","Male",26,"dog",FALSE
+"C1097","Male",26,"dog",FALSE
+"C823","Male",26,"dog",FALSE
+"C874","Male",26,"dog",FALSE
+"C970","Male",26,"dog",FALSE
+"C986","Male",26,"dog",FALSE
+"D1298","Male",26,"dog",FALSE
+"D1431","Male",26,"dog",FALSE
+"E1534","Male",26,"dog",FALSE
+"E1635","Male",26,"dog",FALSE
+"E1647","Male",26,"dog",FALSE
+"E1819","Male",26,"dog",FALSE
+"A134","Female",27,"dog",FALSE
+"A173","Female",27,"dog",FALSE
+"A206","Female",27,"dog",FALSE
+"A228","Female",27,"dog",FALSE
+"A73","Female",27,"dog",FALSE
+"A91","Female",27,"dog",FALSE
+"B543","Female",27,"dog",FALSE
+"D1210","Female",27,"dog",FALSE
+"E1523","Female",27,"dog",FALSE
+"E1862","Female",27,"dog",FALSE
+"A185","Male",27,"dog",FALSE
+"A217","Male",27,"dog",FALSE
+"A229","Male",27,"dog",FALSE
+"A271","Male",27,"dog",FALSE
+"A366","Male",27,"dog",FALSE
+"A52","Male",27,"dog",FALSE
+"A80","Male",27,"dog",FALSE
+"B464","Male",27,"dog",FALSE
+"B641","Male",27,"dog",FALSE
+"B679","Male",27,"dog",FALSE
+"B707","Male",27,"dog",FALSE
+"B714","Male",27,"dog",FALSE
+"C1039","Male",27,"dog",FALSE
+"C1043","Male",27,"dog",FALSE
+"C1061","Male",27,"dog",FALSE
+"C814","Male",27,"dog",FALSE
+"C851","Male",27,"dog",FALSE
+"C901","Male",27,"dog",FALSE
+"C969","Male",27,"dog",FALSE
+"D1157","Male",27,"dog",FALSE
+"D1276","Male",27,"dog",FALSE
+"D1303","Male",27,"dog",FALSE
+"D1402","Male",27,"dog",FALSE
+"E1551","Male",27,"dog",FALSE
+"E1558","Male",27,"dog",FALSE
+"E1852","Male",27,"dog",FALSE
+"A259","Female",28,"dog",FALSE
+"A33","Female",28,"dog",FALSE
+"A85","Female",28,"dog",FALSE
+"A98","Female",28,"dog",FALSE
+"B390","Female",28,"dog",FALSE
+"B605","Female",28,"dog",FALSE
+"B697","Female",28,"dog",FALSE
+"C1047","Female",28,"dog",FALSE
+"C769","Female",28,"dog",FALSE
+"C957","Female",28,"dog",FALSE
+"D1294","Female",28,"dog",FALSE
+"D1372","Female",28,"dog",FALSE
+"D1377","Female",28,"dog",FALSE
+"D1384","Female",28,"dog",FALSE
+"D1410","Female",28,"dog",FALSE
+"D1423","Female",28,"dog",FALSE
+"E1543","Female",28,"dog",FALSE
+"E1585","Female",28,"dog",FALSE
+"E1742","Female",28,"dog",FALSE
+"E1746","Female",28,"dog",FALSE
+"E1846","Female",28,"dog",FALSE
+"E1854","Female",28,"dog",FALSE
+"E1861","Female",28,"dog",FALSE
+"A129","Male",28,"dog",FALSE
+"A191","Male",28,"dog",FALSE
+"A41","Male",28,"dog",FALSE
+"A76","Male",28,"dog",FALSE
+"A94","Male",28,"dog",FALSE
+"B398","Male",28,"dog",FALSE
+"B442","Male",28,"dog",FALSE
+"B515","Male",28,"dog",FALSE
+"B644","Male",28,"dog",FALSE
+"B672","Male",28,"dog",FALSE
+"C1067","Male",28,"dog",FALSE
+"C1088","Male",28,"dog",FALSE
+"C826","Male",28,"dog",FALSE
+"C837","Male",28,"dog",FALSE
+"C946","Male",28,"dog",FALSE
+"D1240","Male",28,"dog",FALSE
+"D1302","Male",28,"dog",FALSE
+"D1424","Male",28,"dog",FALSE
+"D1434","Male",28,"dog",FALSE
+"E1563","Male",28,"dog",FALSE
+"E1616","Male",28,"dog",FALSE
+"E1642","Male",28,"dog",FALSE
+"E1682","Male",28,"dog",FALSE
+"E1697","Male",28,"dog",FALSE
+"E1745","Male",28,"dog",FALSE
+"A280","Female",29,"dog",FALSE
+"A299","Female",29,"dog",FALSE
+"B373","Female",29,"dog",FALSE
+"B383","Female",29,"dog",FALSE
+"B396","Female",29,"dog",FALSE
+"B421","Female",29,"dog",FALSE
+"B431","Female",29,"dog",FALSE
+"B576","Female",29,"dog",FALSE
+"B624","Female",29,"dog",FALSE
+"B657","Female",29,"dog",FALSE
+"B743","Female",29,"dog",FALSE
+"C1068","Female",29,"dog",FALSE
+"C895","Female",29,"dog",FALSE
+"C979","Female",29,"dog",FALSE
+"C993","Female",29,"dog",FALSE
+"D1145","Female",29,"dog",FALSE
+"D1243","Female",29,"dog",FALSE
+"D1287","Female",29,"dog",FALSE
+"D1394","Female",29,"dog",FALSE
+"D1445","Female",29,"dog",FALSE
+"D1459","Female",29,"dog",FALSE
+"D1492","Female",29,"dog",FALSE
+"E1581","Female",29,"dog",FALSE
+"A16","Male",29,"dog",FALSE
+"A294","Male",29,"dog",FALSE
+"A320","Male",29,"dog",FALSE
+"A338","Male",29,"dog",FALSE
+"B397","Male",29,"dog",FALSE
+"B453","Male",29,"dog",FALSE
+"B461","Male",29,"dog",FALSE
+"B584","Male",29,"dog",FALSE
+"C1055","Male",29,"dog",FALSE
+"C1109","Male",29,"dog",FALSE
+"C966","Male",29,"dog",FALSE
+"D1135","Male",29,"dog",FALSE
+"D1420","Male",29,"dog",FALSE
+"D1426","Male",29,"dog",FALSE
+"D1432","Male",29,"dog",FALSE
+"D1477","Male",29,"dog",FALSE
+"E1628","Male",29,"dog",FALSE
+"E1786","Male",29,"dog",FALSE
+"E1800","Male",29,"dog",FALSE
+"E1892","Male",29,"dog",FALSE
+"A119","Female",30,"dog",FALSE
+"A253","Female",30,"dog",FALSE
+"A268","Female",30,"dog",FALSE
+"A312","Female",30,"dog",FALSE
+"B501","Female",30,"dog",FALSE
+"B551","Female",30,"dog",FALSE
+"B572","Female",30,"dog",FALSE
+"B573","Female",30,"dog",FALSE
+"B662","Female",30,"dog",FALSE
+"C1003","Female",30,"dog",FALSE
+"C1098","Female",30,"dog",FALSE
+"C811","Female",30,"dog",FALSE
+"C829","Female",30,"dog",FALSE
+"C903","Female",30,"dog",FALSE
+"C913","Female",30,"dog",FALSE
+"C936","Female",30,"dog",FALSE
+"D1151","Female",30,"dog",FALSE
+"D1234","Female",30,"dog",FALSE
+"D1380","Female",30,"dog",FALSE
+"D1413","Female",30,"dog",FALSE
+"D1495","Female",30,"dog",FALSE
+"E1576","Female",30,"dog",FALSE
+"E1610","Female",30,"dog",FALSE
+"E1690","Female",30,"dog",FALSE
+"E1708","Female",30,"dog",FALSE
+"E1740","Female",30,"dog",FALSE
+"E1839","Female",30,"dog",FALSE
+"A123","Male",30,"dog",FALSE
+"A260","Male",30,"dog",FALSE
+"A278","Male",30,"dog",FALSE
+"A360","Male",30,"dog",FALSE
+"A84","Male",30,"dog",FALSE
+"B526","Male",30,"dog",FALSE
+"C819","Male",30,"dog",FALSE
+"C910","Male",30,"dog",FALSE
+"C916","Male",30,"dog",FALSE
+"C963","Male",30,"dog",FALSE
+"D1178","Male",30,"dog",FALSE
+"D1398","Male",30,"dog",FALSE
+"E1613","Male",30,"dog",FALSE
+"E1737","Male",30,"dog",FALSE
+"E1804","Male",30,"dog",FALSE
+"E1833","Male",30,"dog",FALSE
+"A221","Female",31,"dog",FALSE
+"A23","Female",31,"dog",FALSE
+"A47","Female",31,"dog",FALSE
+"B509","Female",31,"dog",FALSE
+"B722","Female",31,"dog",FALSE
+"C917","Female",31,"dog",FALSE
+"D1180","Female",31,"dog",FALSE
+"D1253","Female",31,"dog",FALSE
+"D1257","Female",31,"dog",FALSE
+"D1269","Female",31,"dog",FALSE
+"D1275","Female",31,"dog",FALSE
+"D1502","Female",31,"dog",FALSE
+"D1511","Female",31,"dog",FALSE
+"E1520","Female",31,"dog",FALSE
+"E1599","Female",31,"dog",FALSE
+"E1650","Female",31,"dog",FALSE
+"E1657","Female",31,"dog",FALSE
+"E1767","Female",31,"dog",FALSE
+"E1849","Female",31,"dog",FALSE
+"A104","Male",31,"dog",FALSE
+"A249","Male",31,"dog",FALSE
+"A277","Male",31,"dog",FALSE
+"A279","Male",31,"dog",FALSE
+"A292","Male",31,"dog",FALSE
+"A304","Male",31,"dog",FALSE
+"B411","Male",31,"dog",FALSE
+"B436","Male",31,"dog",FALSE
+"B448","Male",31,"dog",FALSE
+"B490","Male",31,"dog",FALSE
+"B536","Male",31,"dog",FALSE
+"B609","Male",31,"dog",FALSE
+"B634","Male",31,"dog",FALSE
+"B680","Male",31,"dog",FALSE
+"B696","Male",31,"dog",FALSE
+"C1069","Male",31,"dog",FALSE
+"C1078","Male",31,"dog",FALSE
+"C1079","Male",31,"dog",FALSE
+"C1092","Male",31,"dog",FALSE
+"C831","Male",31,"dog",FALSE
+"D1161","Male",31,"dog",FALSE
+"D1212","Male",31,"dog",FALSE
+"D1278","Male",31,"dog",FALSE
+"D1301","Male",31,"dog",FALSE
+"D1505","Male",31,"dog",FALSE
+"E1593","Male",31,"dog",FALSE
+"E1865","Male",31,"dog",FALSE
+"E1889","Male",31,"dog",FALSE
+"A262","Female",32,"dog",FALSE
+"A55","Female",32,"dog",FALSE
+"B457","Female",32,"dog",FALSE
+"B604","Female",32,"dog",FALSE
+"C1049","Female",32,"dog",FALSE
+"C1104","Female",32,"dog",FALSE
+"C1117","Female",32,"dog",FALSE
+"D1238","Female",32,"dog",FALSE
+"D1399","Female",32,"dog",FALSE
+"D1454","Female",32,"dog",FALSE
+"E1659","Female",32,"dog",FALSE
+"E1667","Female",32,"dog",FALSE
+"E1711","Female",32,"dog",FALSE
+"E1758","Female",32,"dog",FALSE
+"E1874","Female",32,"dog",FALSE
+"A11","Male",32,"dog",FALSE
+"A120","Male",32,"dog",FALSE
+"A155","Male",32,"dog",FALSE
+"A232","Male",32,"dog",FALSE
+"A327","Male",32,"dog",FALSE
+"B376","Male",32,"dog",FALSE
+"B406","Male",32,"dog",FALSE
+"B423","Male",32,"dog",FALSE
+"B494","Male",32,"dog",FALSE
+"B507","Male",32,"dog",FALSE
+"B556","Male",32,"dog",FALSE
+"B611","Male",32,"dog",FALSE
+"B682","Male",32,"dog",FALSE
+"C1070","Male",32,"dog",FALSE
+"C1125","Male",32,"dog",FALSE
+"C926","Male",32,"dog",FALSE
+"C980","Male",32,"dog",FALSE
+"D1147","Male",32,"dog",FALSE
+"D1179","Male",32,"dog",FALSE
+"D1181","Male",32,"dog",FALSE
+"D1206","Male",32,"dog",FALSE
+"D1268","Male",32,"dog",FALSE
+"D1311","Male",32,"dog",FALSE
+"D1470","Male",32,"dog",FALSE
+"E1544","Male",32,"dog",FALSE
+"E1685","Male",32,"dog",FALSE
+"E1795","Male",32,"dog",FALSE
+"A100","Female",33,"dog",FALSE
+"A116","Female",33,"dog",FALSE
+"A188","Female",33,"dog",FALSE
+"A237","Female",33,"dog",FALSE
+"A272","Female",33,"dog",FALSE
+"A38","Female",33,"dog",FALSE
+"A97","Female",33,"dog",FALSE
+"B424","Female",33,"dog",FALSE
+"B561","Female",33,"dog",FALSE
+"B580","Female",33,"dog",FALSE
+"B640","Female",33,"dog",FALSE
+"B675","Female",33,"dog",FALSE
+"C783","Female",33,"dog",FALSE
+"C841","Female",33,"dog",FALSE
+"C844","Female",33,"dog",FALSE
+"C857","Female",33,"dog",FALSE
+"C900","Female",33,"dog",FALSE
+"C920","Female",33,"dog",FALSE
+"D1150","Female",33,"dog",FALSE
+"D1333","Female",33,"dog",FALSE
+"D1509","Female",33,"dog",FALSE
+"E1546","Female",33,"dog",FALSE
+"E1658","Female",33,"dog",FALSE
+"E1822","Female",33,"dog",FALSE
+"A300","Male",33,"dog",FALSE
+"A329","Male",33,"dog",FALSE
+"B639","Male",33,"dog",FALSE
+"B699","Male",33,"dog",FALSE
+"C767","Male",33,"dog",FALSE
+"C856","Male",33,"dog",FALSE
+"C884","Male",33,"dog",FALSE
+"C983","Male",33,"dog",FALSE
+"D1215","Male",33,"dog",FALSE
+"D1245","Male",33,"dog",FALSE
+"D1378","Male",33,"dog",FALSE
+"D1497","Male",33,"dog",FALSE
+"E1572","Male",33,"dog",FALSE
+"E1653","Male",33,"dog",FALSE
+"E1764","Male",33,"dog",FALSE
+"E1785","Male",33,"dog",FALSE
+"E1815","Male",33,"dog",FALSE
+"A136","Female",34,"dog",FALSE
+"A248","Female",34,"dog",FALSE
+"A263","Female",34,"dog",FALSE
+"A67","Female",34,"dog",FALSE
+"C1041","Female",34,"dog",FALSE
+"C1100","Female",34,"dog",FALSE
+"C757","Female",34,"dog",FALSE
+"C828","Female",34,"dog",FALSE
+"C852","Female",34,"dog",FALSE
+"C999","Female",34,"dog",FALSE
+"D1133","Female",34,"dog",FALSE
+"D1389","Female",34,"dog",FALSE
+"D1433","Female",34,"dog",FALSE
+"D1447","Female",34,"dog",FALSE
+"E1853","Female",34,"dog",FALSE
+"A180","Male",34,"dog",FALSE
+"A240","Male",34,"dog",FALSE
+"A286","Male",34,"dog",FALSE
+"A29","Male",34,"dog",FALSE
+"B375","Male",34,"dog",FALSE
+"B472","Male",34,"dog",FALSE
+"B735","Male",34,"dog",FALSE
+"C1034","Male",34,"dog",FALSE
+"C762","Male",34,"dog",FALSE
+"C786","Male",34,"dog",FALSE
+"C805","Male",34,"dog",FALSE
+"C971","Male",34,"dog",FALSE
+"D1162","Male",34,"dog",FALSE
+"D1230","Male",34,"dog",FALSE
+"D1235","Male",34,"dog",FALSE
+"D1349","Male",34,"dog",FALSE
+"D1390","Male",34,"dog",FALSE
+"D1478","Male",34,"dog",FALSE
+"D1482","Male",34,"dog",FALSE
+"D1516","Male",34,"dog",FALSE
+"E1525","Male",34,"dog",FALSE
+"E1531","Male",34,"dog",FALSE
+"A168","Female",35,"dog",FALSE
+"A264","Female",35,"dog",FALSE
+"A82","Female",35,"dog",FALSE
+"B382","Female",35,"dog",FALSE
+"B437","Female",35,"dog",FALSE
+"B504","Female",35,"dog",FALSE
+"B516","Female",35,"dog",FALSE
+"B663","Female",35,"dog",FALSE
+"B731","Female",35,"dog",FALSE
+"C1105","Female",35,"dog",FALSE
+"C1128","Female",35,"dog",FALSE
+"C832","Female",35,"dog",FALSE
+"C965","Female",35,"dog",FALSE
+"D1306","Female",35,"dog",FALSE
+"D1500","Female",35,"dog",FALSE
+"D1508","Female",35,"dog",FALSE
+"E1527","Female",35,"dog",FALSE
+"E1643","Female",35,"dog",FALSE
+"E1679","Female",35,"dog",FALSE
+"E1728","Female",35,"dog",FALSE
+"E1783","Female",35,"dog",FALSE
+"E1876","Female",35,"dog",FALSE
+"A128","Male",35,"dog",FALSE
+"A181","Male",35,"dog",FALSE
+"A187","Male",35,"dog",FALSE
+"A340","Male",35,"dog",FALSE
+"A83","Male",35,"dog",FALSE
+"B408","Male",35,"dog",FALSE
+"B475","Male",35,"dog",FALSE
+"B489","Male",35,"dog",FALSE
+"B534","Male",35,"dog",FALSE
+"B560","Male",35,"dog",FALSE
+"B586","Male",35,"dog",FALSE
+"B610","Male",35,"dog",FALSE
+"B655","Male",35,"dog",FALSE
+"B669","Male",35,"dog",FALSE
+"B716","Male",35,"dog",FALSE
+"C928","Male",35,"dog",FALSE
+"C939","Male",35,"dog",FALSE
+"C947","Male",35,"dog",FALSE
+"D1419","Male",35,"dog",FALSE
+"E1662","Male",35,"dog",FALSE
+"E1743","Male",35,"dog",FALSE
+"E1771","Male",35,"dog",FALSE
+"E1787","Male",35,"dog",FALSE
+"E1817","Male",35,"dog",FALSE
+"A323","Female",36,"dog",FALSE
+"A363","Female",36,"dog",FALSE
+"B473","Female",36,"dog",FALSE
+"B530","Female",36,"dog",FALSE
+"B601","Female",36,"dog",FALSE
+"B615","Female",36,"dog",FALSE
+"B632","Female",36,"dog",FALSE
+"B636","Female",36,"dog",FALSE
+"B677","Female",36,"dog",FALSE
+"C1051","Female",36,"dog",FALSE
+"C1052","Female",36,"dog",FALSE
+"C803","Female",36,"dog",FALSE
+"C934","Female",36,"dog",FALSE
+"D1143","Female",36,"dog",FALSE
+"D1198","Female",36,"dog",FALSE
+"D1209","Female",36,"dog",FALSE
+"D1279","Female",36,"dog",FALSE
+"D1342","Female",36,"dog",FALSE
+"D1496","Female",36,"dog",FALSE
+"D1499","Female",36,"dog",FALSE
+"E1577","Female",36,"dog",FALSE
+"E1706","Female",36,"dog",FALSE
+"E1781","Female",36,"dog",FALSE
+"A112","Male",36,"dog",FALSE
+"A169","Male",36,"dog",FALSE
+"A197","Male",36,"dog",FALSE
+"A215","Male",36,"dog",FALSE
+"A303","Male",36,"dog",FALSE
+"A51","Male",36,"dog",FALSE
+"B434","Male",36,"dog",FALSE
+"B474","Male",36,"dog",FALSE
+"B577","Male",36,"dog",FALSE
+"B578","Male",36,"dog",FALSE
+"B608","Male",36,"dog",FALSE
+"B642","Male",36,"dog",FALSE
+"B656","Male",36,"dog",FALSE
+"B703","Male",36,"dog",FALSE
+"C863","Male",36,"dog",FALSE
+"D1359","Male",36,"dog",FALSE
+"D1365","Male",36,"dog",FALSE
+"E1587","Male",36,"dog",FALSE
+"E1604","Male",36,"dog",FALSE
+"E1798","Male",36,"dog",FALSE
+"E1818","Male",36,"dog",FALSE
+"A154","Female",37,"dog",FALSE
+"A28","Female",37,"dog",FALSE
+"A339","Female",37,"dog",FALSE
+"B399","Female",37,"dog",FALSE
+"B450","Female",37,"dog",FALSE
+"B531","Female",37,"dog",FALSE
+"B566","Female",37,"dog",FALSE
+"C770","Female",37,"dog",FALSE
+"C820","Female",37,"dog",FALSE
+"C833","Female",37,"dog",FALSE
+"C840","Female",37,"dog",FALSE
+"C878","Female",37,"dog",FALSE
+"C885","Female",37,"dog",FALSE
+"C942","Female",37,"dog",FALSE
+"C988","Female",37,"dog",FALSE
+"D1141","Female",37,"dog",FALSE
+"D1160","Female",37,"dog",FALSE
+"D1217","Female",37,"dog",FALSE
+"D1430","Female",37,"dog",FALSE
+"D1491","Female",37,"dog",FALSE
+"D1506","Female",37,"dog",FALSE
+"E1812","Female",37,"dog",FALSE
+"E1894","Female",37,"dog",FALSE
+"A121","Male",37,"dog",FALSE
+"A162","Male",37,"dog",FALSE
+"A21","Male",37,"dog",FALSE
+"A289","Male",37,"dog",FALSE
+"A296","Male",37,"dog",FALSE
+"A35","Male",37,"dog",FALSE
+"A39","Male",37,"dog",FALSE
+"A69","Male",37,"dog",FALSE
+"A71","Male",37,"dog",FALSE
+"B422","Male",37,"dog",FALSE
+"B445","Male",37,"dog",FALSE
+"B451","Male",37,"dog",FALSE
+"B452","Male",37,"dog",FALSE
+"B647","Male",37,"dog",FALSE
+"C1122","Male",37,"dog",FALSE
+"D1183","Male",37,"dog",FALSE
+"D1203","Male",37,"dog",FALSE
+"D1226","Male",37,"dog",FALSE
+"D1304","Male",37,"dog",FALSE
+"D1422","Male",37,"dog",FALSE
+"E1569","Male",37,"dog",FALSE
+"E1571","Male",37,"dog",FALSE
+"E1603","Male",37,"dog",FALSE
+"E1646","Male",37,"dog",FALSE
+"E1762","Male",37,"dog",FALSE
+"E1814","Male",37,"dog",FALSE
+"A140","Female",38,"dog",FALSE
+"A247","Female",38,"dog",FALSE
+"B737","Female",38,"dog",FALSE
+"C1005","Female",38,"dog",FALSE
+"C824","Female",38,"dog",FALSE
+"C925","Female",38,"dog",FALSE
+"D1320","Female",38,"dog",FALSE
+"D1392","Female",38,"dog",FALSE
+"D1473","Female",38,"dog",FALSE
+"D1474","Female",38,"dog",FALSE
+"A5","Male",38,"dog",FALSE
+"B387","Male",38,"dog",FALSE
+"B574","Male",38,"dog",FALSE
+"B595","Male",38,"dog",FALSE
+"C1008","Male",38,"dog",FALSE
+"C1011","Male",38,"dog",FALSE
+"C848","Male",38,"dog",FALSE
+"C911","Male",38,"dog",FALSE
+"C998","Male",38,"dog",FALSE
+"D1184","Male",38,"dog",FALSE
+"E1586","Male",38,"dog",FALSE
+"E1592","Male",38,"dog",FALSE
+"E1609","Male",38,"dog",FALSE
+"E1851","Male",38,"dog",FALSE
+"B439","Female",39,"dog",FALSE
+"B650","Female",39,"dog",FALSE
+"C801","Female",39,"dog",FALSE
+"D1148","Female",39,"dog",FALSE
+"D1327","Female",39,"dog",FALSE
+"D1411","Female",39,"dog",FALSE
+"E1649","Female",39,"dog",FALSE
+"E1719","Female",39,"dog",FALSE
+"E1741","Female",39,"dog",FALSE
+"E1766","Female",39,"dog",FALSE
+"E1880","Female",39,"dog",FALSE
+"A210","Male",39,"dog",FALSE
+"A336","Male",39,"dog",FALSE
+"B729","Male",39,"dog",FALSE
+"C1004","Male",39,"dog",FALSE
+"C766","Male",39,"dog",FALSE
+"C918","Male",39,"dog",FALSE
+"C961","Male",39,"dog",FALSE
+"D1173","Male",39,"dog",FALSE
+"D1267","Male",39,"dog",FALSE
+"D1357","Male",39,"dog",FALSE
+"D1498","Male",39,"dog",FALSE
+"E1562","Male",39,"dog",FALSE
+"E1702","Male",39,"dog",FALSE
+"B491","Female",40,"dog",FALSE
+"B558","Female",40,"dog",FALSE
+"B571","Female",40,"dog",FALSE
+"C817","Female",40,"dog",FALSE
+"C908","Female",40,"dog",FALSE
+"C938","Female",40,"dog",FALSE
+"E1663","Female",40,"dog",FALSE
+"E1680","Female",40,"dog",FALSE
+"B391","Male",40,"dog",FALSE
+"B535","Male",40,"dog",FALSE
+"C777","Male",40,"dog",FALSE
+"C866","Male",40,"dog",FALSE
+"D1382","Male",40,"dog",FALSE
+"D1446","Male",40,"dog",FALSE
+"E1521","Male",40,"dog",FALSE
+"E1856","Male",40,"dog",FALSE
+"B415","Female",41,"dog",FALSE
+"B664","Female",41,"dog",FALSE
+"C1018","Female",41,"dog",FALSE
+"C869","Female",41,"dog",FALSE
+"D1224","Female",41,"dog",FALSE
+"D1490","Female",41,"dog",FALSE
+"E1524","Female",41,"dog",FALSE
+"E1673","Female",41,"dog",FALSE
+"E1775","Female",41,"dog",FALSE
+"A135","Male",41,"dog",FALSE
+"A182","Male",41,"dog",FALSE
+"A204","Male",41,"dog",FALSE
+"A62","Male",41,"dog",FALSE
+"A88","Male",41,"dog",FALSE
+"B435","Male",41,"dog",FALSE
+"B638","Male",41,"dog",FALSE
+"C1114","Male",41,"dog",FALSE
+"C1129","Male",41,"dog",FALSE
+"C799","Male",41,"dog",FALSE
+"C862","Male",41,"dog",FALSE
+"C893","Male",41,"dog",FALSE
+"C921","Male",41,"dog",FALSE
+"C989","Male",41,"dog",FALSE
+"D1142","Male",41,"dog",FALSE
+"E1863","Male",41,"dog",FALSE
+"A288","Female",42,"dog",FALSE
+"B706","Female",42,"dog",FALSE
+"C1016","Female",42,"dog",FALSE
+"C1056","Female",42,"dog",FALSE
+"C990","Female",42,"dog",FALSE
+"E1573","Female",42,"dog",FALSE
+"E1591","Female",42,"dog",FALSE
+"E1895","Female",42,"dog",FALSE
+"A75","Male",42,"dog",FALSE
+"B523","Male",42,"dog",FALSE
+"C1091","Male",42,"dog",FALSE
+"C779","Male",42,"dog",FALSE
+"C881","Male",42,"dog",FALSE
+"E1632","Male",42,"dog",FALSE
+"E1736","Male",42,"dog",FALSE
+"A175","Female",43,"dog",FALSE
+"A225","Female",43,"dog",FALSE
+"A86","Female",43,"dog",FALSE
+"B665","Female",43,"dog",FALSE
+"C1108","Female",43,"dog",FALSE
+"D1131","Female",43,"dog",FALSE
+"D1246","Female",43,"dog",FALSE
+"D1472","Female",43,"dog",FALSE
+"E1770","Female",43,"dog",FALSE
+"A163","Male",43,"dog",FALSE
+"A2","Male",43,"dog",FALSE
+"B517","Male",43,"dog",FALSE
+"B600","Male",43,"dog",FALSE
+"B652","Male",43,"dog",FALSE
+"C784","Male",43,"dog",FALSE
+"D1158","Male",43,"dog",FALSE
+"D1460","Male",43,"dog",FALSE
+"E1651","Male",43,"dog",FALSE
+"E1832","Male",43,"dog",FALSE
+"A356","Female",44,"dog",FALSE
+"B583","Female",44,"dog",FALSE
+"B741","Female",44,"dog",FALSE
+"C1017","Female",44,"dog",FALSE
+"C1029","Female",44,"dog",FALSE
+"C1059","Female",44,"dog",FALSE
+"C758","Female",44,"dog",FALSE
+"C923","Female",44,"dog",FALSE
+"D1139","Female",44,"dog",FALSE
+"D1167","Female",44,"dog",FALSE
+"D1214","Female",44,"dog",FALSE
+"D1467","Female",44,"dog",FALSE
+"E1725","Female",44,"dog",FALSE
+"E1769","Female",44,"dog",FALSE
+"E1868","Female",44,"dog",FALSE
+"A48","Male",44,"dog",FALSE
+"B511","Male",44,"dog",FALSE
+"C1116","Male",44,"dog",FALSE
+"D1164","Male",44,"dog",FALSE
+"D1233","Male",44,"dog",FALSE
+"E1796","Male",44,"dog",FALSE
+"A239","Female",45,"dog",FALSE
+"B623","Female",45,"dog",FALSE
+"B742","Female",45,"dog",FALSE
+"C896","Female",45,"dog",FALSE
+"D1313","Female",45,"dog",FALSE
+"D1469","Female",45,"dog",FALSE
+"E1554","Female",45,"dog",FALSE
+"E1793","Female",45,"dog",FALSE
+"E1878","Female",45,"dog",FALSE
+"A60","Male",45,"dog",FALSE
+"C1040","Male",45,"dog",FALSE
+"C898","Male",45,"dog",FALSE
+"D1194","Male",45,"dog",FALSE
+"D1393","Male",45,"dog",FALSE
+"E1788","Male",45,"dog",FALSE
+"A276","Female",46,"dog",FALSE
+"C778","Female",46,"dog",FALSE
+"C905","Female",46,"dog",FALSE
+"D1348","Female",46,"dog",FALSE
+"D1458","Female",46,"dog",FALSE
+"E1811","Female",46,"dog",FALSE
+"A308","Male",46,"dog",FALSE
+"A68","Male",46,"dog",FALSE
+"B444","Male",46,"dog",FALSE
+"B712","Male",46,"dog",FALSE
+"C790","Male",46,"dog",FALSE
+"D1138","Male",46,"dog",FALSE
+"D1288","Male",46,"dog",FALSE
+"E1720","Male",46,"dog",FALSE
+"A149","Female",47,"dog",FALSE
+"A171","Female",47,"dog",FALSE
+"A177","Female",47,"dog",FALSE
+"C1001","Female",47,"dog",FALSE
+"C867","Female",47,"dog",FALSE
+"C907","Female",47,"dog",FALSE
+"D1403","Female",47,"dog",FALSE
+"D1475","Female",47,"dog",FALSE
+"E1519","Female",47,"dog",FALSE
+"E1567","Female",47,"dog",FALSE
+"E1629","Female",47,"dog",FALSE
+"E1844","Female",47,"dog",FALSE
+"D1192","Male",47,"dog",FALSE
+"D1237","Male",47,"dog",FALSE
+"D1457","Male",47,"dog",FALSE
+"E1803","Male",47,"dog",FALSE
+"A109","Female",48,"dog",FALSE
+"A255","Female",48,"dog",FALSE
+"B492","Female",48,"dog",FALSE
+"C760","Female",48,"dog",FALSE
+"C892","Female",48,"dog",FALSE
+"D1280","Female",48,"dog",FALSE
+"E1827","Female",48,"dog",FALSE
+"E1841","Female",48,"dog",FALSE
+"A270","Male",48,"dog",FALSE
+"A307","Male",48,"dog",FALSE
+"B673","Male",48,"dog",FALSE
+"C1023","Male",48,"dog",FALSE
+"C912","Male",48,"dog",FALSE
+"E1717","Male",48,"dog",FALSE
+"A147","Female",49,"dog",FALSE
+"A150","Female",49,"dog",FALSE
+"A285","Female",49,"dog",FALSE
+"B455","Female",49,"dog",FALSE
+"B730","Female",49,"dog",FALSE
+"B384","Male",49,"dog",FALSE
+"B405","Male",49,"dog",FALSE
+"B498","Male",49,"dog",FALSE
+"A186","Female",50,"dog",FALSE
+"A214","Female",50,"dog",FALSE
+"C1022","Female",50,"dog",FALSE
+"C809","Female",50,"dog",FALSE
+"D1155","Female",50,"dog",FALSE
+"D1174","Female",50,"dog",FALSE
+"D1236","Female",50,"dog",FALSE
+"B488","Male",50,"dog",FALSE
+"B593","Male",50,"dog",FALSE
+"C1027","Male",50,"dog",FALSE
+"C1119","Male",50,"dog",FALSE
+"C959","Male",50,"dog",FALSE
+"C997","Male",50,"dog",FALSE
+"E1547","Male",50,"dog",FALSE
+"A203","Female",51,"dog",FALSE
+"A362","Female",51,"dog",FALSE
+"A368","Female",51,"dog",FALSE
+"C788","Female",51,"dog",FALSE
+"C795","Female",51,"dog",FALSE
+"D1263","Female",51,"dog",FALSE
+"D1317","Female",51,"dog",FALSE
+"E1645","Female",51,"dog",FALSE
+"E1633","Male",51,"dog",FALSE
+"A133","Female",52,"dog",FALSE
+"A305","Female",52,"dog",FALSE
+"C1083","Female",52,"dog",FALSE
+"D1480","Female",52,"dog",FALSE
+"A144","Male",52,"dog",FALSE
+"A319","Male",52,"dog",FALSE
+"B400","Male",52,"dog",FALSE
+"B456","Male",52,"dog",FALSE
+"C883","Male",52,"dog",FALSE
+"D1153","Male",52,"dog",FALSE
+"D1170","Male",52,"dog",FALSE
+"D1343","Male",52,"dog",FALSE
+"A167","Female",53,"dog",FALSE
+"A184","Female",53,"dog",FALSE
+"B496","Female",53,"dog",FALSE
+"C1066","Female",53,"dog",FALSE
+"C1099","Female",53,"dog",FALSE
+"C815","Female",53,"dog",FALSE
+"C879","Female",53,"dog",FALSE
+"D1193","Female",53,"dog",FALSE
+"D1435","Female",53,"dog",FALSE
+"D1476","Female",53,"dog",FALSE
+"E1608","Female",53,"dog",FALSE
+"E1734","Female",53,"dog",FALSE
+"E1807","Female",53,"dog",FALSE
+"A213","Male",53,"dog",FALSE
+"C924","Male",53,"dog",FALSE
+"A195","Female",54,"dog",FALSE
+"C1032","Female",54,"dog",FALSE
+"D1227","Female",54,"dog",FALSE
+"D1352","Female",54,"dog",FALSE
+"D1488","Female",54,"dog",FALSE
+"E1733","Female",54,"dog",FALSE
+"A50","Male",54,"dog",FALSE
+"D1405","Male",54,"dog",FALSE
+"E1595","Male",54,"dog",FALSE
+"E1623","Male",54,"dog",FALSE
+"E1886","Male",54,"dog",FALSE
+"A183","Female",55,"dog",FALSE
+"B469","Female",55,"dog",FALSE
+"C894","Female",55,"dog",FALSE
+"C948","Female",55,"dog",FALSE
+"D1154","Female",55,"dog",FALSE
+"D1190","Female",55,"dog",FALSE
+"D1416","Female",55,"dog",FALSE
+"C967","Male",55,"dog",FALSE
+"D1165","Male",55,"dog",FALSE
+"E1605","Male",55,"dog",FALSE
+"A201","Female",56,"dog",FALSE
+"A66","Female",56,"dog",FALSE
+"B721","Female",56,"dog",FALSE
+"B745","Female",56,"dog",FALSE
+"C1013","Female",56,"dog",FALSE
+"C860","Female",56,"dog",FALSE
+"D1136","Female",56,"dog",FALSE
+"D1199","Female",56,"dog",FALSE
+"D1221","Female",56,"dog",FALSE
+"D1299","Female",56,"dog",FALSE
+"D1462","Female",56,"dog",FALSE
+"D1324","Male",56,"dog",FALSE
+"B643","Female",57,"dog",FALSE
+"C1072","Female",57,"dog",FALSE
+"C845","Female",57,"dog",FALSE
+"C847","Female",57,"dog",FALSE
+"C994","Female",57,"dog",FALSE
+"D1356","Female",57,"dog",FALSE
+"E1528","Female",57,"dog",FALSE
+"E1765","Female",57,"dog",FALSE
+"B519","Male",57,"dog",FALSE
+"B713","Male",57,"dog",FALSE
+"C958","Male",57,"dog",FALSE
+"E1872","Male",57,"dog",FALSE
+"A159","Female",58,"dog",FALSE
+"A313","Female",58,"dog",FALSE
+"C1014","Female",58,"dog",FALSE
+"E1671","Female",58,"dog",FALSE
+"A314","Male",58,"dog",FALSE
+"D1296","Male",58,"dog",FALSE
+"D1494","Male",58,"dog",FALSE
+"B723","Female",59,"dog",FALSE
+"C1042","Female",59,"dog",FALSE
+"E1626","Female",59,"dog",FALSE
+"C836","Male",59,"dog",FALSE
+"D1134","Male",59,"dog",FALSE
+"B467","Female",60,"dog",FALSE
+"B719","Female",60,"dog",FALSE
+"D1175","Female",60,"dog",FALSE
+"D1448","Female",60,"dog",FALSE
+"E1831","Female",60,"dog",FALSE
+"A331","Male",60,"dog",FALSE
+"A78","Male",60,"dog",FALSE
+"B545","Male",60,"dog",FALSE
+"A146","Female",61,"dog",FALSE
+"C1120","Female",61,"dog",FALSE
+"D1361","Female",61,"dog",FALSE
+"E1760","Female",61,"dog",FALSE
+"B720","Male",61,"dog",FALSE
+"D1355","Male",61,"dog",FALSE
+"A209","Female",62,"dog",FALSE
+"B512","Female",62,"dog",FALSE
+"C792","Female",62,"dog",FALSE
+"D1464","Female",62,"dog",FALSE
+"C808","Male",62,"dog",FALSE
+"E1677","Male",62,"dog",FALSE
+"B525","Female",63,"dog",FALSE
+"D1436","Female",63,"dog",FALSE
+"E1867","Female",63,"dog",FALSE
+"A125","Male",63,"dog",FALSE
+"A189","Male",63,"dog",FALSE
+"A302","Male",63,"dog",FALSE
+"C1021","Male",63,"dog",FALSE
+"D1312","Male",63,"dog",FALSE
+"E1553","Male",63,"dog",FALSE
+"A9","Female",64,"dog",FALSE
+"E1641","Female",64,"dog",FALSE
+"B599","Male",64,"dog",FALSE
+"C839","Male",64,"dog",FALSE
+"D1281","Male",64,"dog",FALSE
+"E1859","Male",64,"dog",FALSE
+"B710","Female",65,"dog",FALSE
+"D1363","Female",65,"dog",FALSE
+"E1686","Female",65,"dog",FALSE
+"E1739","Female",65,"dog",FALSE
+"A316","Male",65,"dog",FALSE
+"A46","Male",65,"dog",FALSE
+"B539","Female",66,"dog",FALSE
+"C974","Female",66,"dog",FALSE
+"E1864","Female",66,"dog",FALSE
+"B630","Male",66,"dog",FALSE
+"D1272","Male",66,"dog",FALSE
+"A267","Female",67,"dog",FALSE
+"B704","Female",67,"dog",FALSE
+"C968","Female",67,"dog",FALSE
+"A238","Male",67,"dog",FALSE
+"C899","Female",68,"dog",FALSE
+"D1291","Female",68,"dog",FALSE
+"D1191","Female",69,"dog",FALSE
+"E1538","Female",69,"dog",FALSE
+"A202","Male",69,"dog",FALSE
+"B597","Male",70,"dog",FALSE
+"B478","Female",72,"dog",FALSE
+"D1239","Female",72,"dog",FALSE
+"A58","Male",73,"dog",FALSE
+"D1443","Male",73,"dog",FALSE
+"B727","Male",74,"dog",FALSE
