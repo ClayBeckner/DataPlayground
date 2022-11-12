@@ -1,0 +1,1603 @@
+"subject","peerCondition","alignedVoc","item","preWord","peerWord","peerWordProb","postWord","gender","age","agree","open","conscientious","extravert","stability"
+"p10085","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"dirt","OTHER","gravel",0.052,"gravel","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"knife","knife","dagger",0.074,"dagger","female",45,4,4.5,5,4,5
+"p10085","human",FALSE,"boot","boot","shoe",0.086,"boot","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"artist","OTHER","painter",0.31,"painter","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"microbes","bugs","microorganisms",0.052,"microorganisms","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"wedge","cement","pizza slice",0.017,"pizza slice","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"city","buildings","town",0,"town","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"socket","OTHER","socket",0.091,"socket","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"people","people","crowd",0.291,"crowd","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"road","road","avenue",0,"avenue","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"rabbit","rabbit","bunny",0.14,"bunny","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"cattle","cows","cattle",0.138,"cattle","female",45,4,4.5,5,4,5
+"p10085","human",FALSE,"baby","baby","sprog",0,"baby","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"touchpad","ipad","tablet",0.569,"tablet","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"thief","robber","thief",0.121,"thief","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"alligator","alligator","crocodile",0.709,"crocodile","female",45,4,4.5,5,4,5
+"p10085","human",FALSE,"recycling","rubbish bin","recycling bin",0.055,"OTHER","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"cook","cook","chef",0.564,"chef","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"factory","factory","pollution",0.017,"pollution","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"dog","dog","wolf",0,"wolf","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"drugs","pills","medicine",0.207,"medicine","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"laptop","computer","laptop",0.667,"laptop","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"USB","memory stick","usb stick",0.418,"usb stick","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"sphere","OTHER","sphere",0.328,"sphere","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"ship","boat","ship",0.448,"ship","female",45,4,4.5,5,4,5
+"p10085","human",TRUE,"marijuana","marijuana","leaf",0.404,"leaf","female",45,4,4.5,5,4,5
+"p104915","human",TRUE,"wedge","OTHER","concrete",0.017,"concrete","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"knife","knife","dagger",0.074,"dagger","male",40,4.5,6,6,3.5,3.5
+"p104915","human",FALSE,"recycling","rubbish bin","recycling bin",0.055,"rubbish bin","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"snake","snake","serpent",0.055,"serpent","male",40,4.5,6,6,3.5,3.5
+"p104915","human",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"cup","tea cup","cup",0.379,"cup","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"priest","OTHER","priest",0.491,"priest","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"socket","OTHER","socket",0.091,"socket","male",40,4.5,6,6,3.5,3.5
+"p104915","human",FALSE,"ship","ship","boat",0.517,"ship","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"couch","couch","sofa",0.2,"sofa","male",40,4.5,6,6,3.5,3.5
+"p104915","human",FALSE,"USB","usb drive","memory stick",0.055,"flash drive","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"woman","female","woman",0.586,"woman","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"people","people","crowd",0.291,"crowd","male",40,4.5,6,6,3.5,3.5
+"p104915","human",FALSE,"marijuana","leaf","weed",0.077,"leaf","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"mouse","mouse","rat",0.211,"mouse","male",40,4.5,6,6,3.5,3.5
+"p104915","human",FALSE,"road","ladder","highway",0,"OTHER","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"drugs","pills","medicine",0.207,"medicine","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"dirt","OTHER","sand",0,"sand","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","male",40,4.5,6,6,3.5,3.5
+"p104915","human",FALSE,"teacher","instructor","lecturer",0.055,"instructor","male",40,4.5,6,6,3.5,3.5
+"p104915","human",FALSE,"artist","OTHER","artist",0.569,"OTHER","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"microbes","germs","microorganisms",0.052,"microorganisms","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"boot","boot","shoe",0.086,"shoe","male",40,4.5,6,6,3.5,3.5
+"p104915","human",FALSE,"baby","child","sprog",0,"toddler","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"money","money","coins",0.404,"coins","male",40,4.5,6,6,3.5,3.5
+"p104915","human",TRUE,"laptop","OTHER","computer",0.316,"computer","male",40,4.5,6,6,3.5,3.5
+"p104915","human",FALSE,"church","church","cathedral",0,"church","male",40,4.5,6,6,3.5,3.5
+"p116583","robot",TRUE,"people","crowd","people",0.473,"people","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"road","road","highway",0,"road","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","female",23,4,4,4,4,4
+"p116583","robot",TRUE,"cup","tea","cup",0.379,"cup","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"money","coins","money",0.544,"coins","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"dog","dog","wolf",0,"dog","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"priest","priest","pastor",0.018,"priest","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"factory","factory","pollution",0.017,"factory","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"microbes","bacteria","microorganisms",0.052,"bacteria","female",23,4,4,4,4,4
+"p116583","robot",TRUE,"recycling","bin","recycling bin",0.055,"recycling bin","female",23,4,4,4,4,4
+"p116583","robot",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"baby","baby","sprog",0,"baby","female",23,4,4,4,4,4
+"p116583","robot",TRUE,"king","OTHER","king",0.204,"king","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"dirt","OTHER","sand",0,"OTHER","female",23,4,4,4,4,4
+"p116583","robot",TRUE,"laptop","computer","laptop",0.667,"laptop","female",23,4,4,4,4,4
+"p116583","robot",TRUE,"wedge","OTHER","pizza slice",0.017,"pizza slice","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"thief","robber","thief",0.121,"robber","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"robot","robot","android",0,"robot","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"cook","chef","cook",0.164,"chef","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"city","city","buildings",0.276,"city","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"socket","socket","face",0.164,"socket","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"woman","lady","woman",0.586,"lady","female",23,4,4,4,4,4
+"p116583","robot",TRUE,"cattle","cows","cattle",0.138,"cattle","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"knife","knife","dagger",0.074,"knife","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"drugs","pills","medicine",0.207,"pills","female",23,4,4,4,4,4
+"p116583","robot",FALSE,"boot","boot","shoe",0.086,"boot","female",23,4,4,4,4,4
+"p13925","robot",TRUE,"laptop","laptop","computer",0.316,"computer","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"factory","factory","pollution",0.017,"factory","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"dog","dog","wolf",0,"dog","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"road","road","avenue",0,"road","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"marijuana","marijuana","leaf",0.404,"marijuana","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"drugs","drugs","medicine",0.207,"pills","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"microbes","germs","microorganisms",0.052,"germs","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",TRUE,"people","people","crowd",0.291,"crowd","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"USB","usb stick","memory stick",0.055,"usb stick","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"cup","tea cup","mug",0.121,"OTHER","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"cook","OTHER","cook",0.164,"OTHER","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",TRUE,"socket","OTHER","socket",0.091,"socket","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"baby","baby","sprog",0,"baby","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",TRUE,"sphere","OTHER","sphere",0.328,"sphere","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",TRUE,"recycling","recycling bin","rubbish bin",0.527,"rubbish bin","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"thief","thief","robber",0.586,"thief","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"house","house","home",0.018,"house","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"boot","OTHER","shoe",0.086,"OTHER","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"ship","boat","ship",0.448,"boat","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",TRUE,"woman","female","lady",0.241,"lady","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",TRUE,"alligator","crocodile","alligator",0.291,"alligator","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"knife","knife","dagger",0.074,"knife","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"touchpad","ipad","tablet",0.569,"ipad","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"city","cityscape","buildings",0.276,"cityscape","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"wedge","grout","pizza slice",0.017,"grout","male",25,5,5.5,5.5,6.5,5
+"p13925","robot",FALSE,"cattle","cows","cattle",0.138,"cows","male",25,5,5.5,5.5,6.5,5
+"p149537","robot",FALSE,"recycling","wheely bin","rubbish bin",0.527,"wheely bin","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"thief","OTHER","robber",0.586,"OTHER","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"church","church","cathedral",0,"church","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"woman","woman","lady",0.241,"woman","male",30,4,7,2.5,4,3
+"p149537","robot",TRUE,"couch","sofa","couch",0.745,"couch","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"socket","socket","face",0.164,"socket","male",30,4,7,2.5,4,3
+"p149537","robot",TRUE,"ship","boat","ship",0.448,"ship","male",30,4,7,2.5,4,3
+"p149537","robot",TRUE,"drugs","tablets","medicine",0.207,"medicine","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"boot","boot","shoe",0.086,"boot","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"wedge","OTHER","concrete",0.017,"OTHER","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","male",30,4,7,2.5,4,3
+"p149537","robot",TRUE,"city","high-rise buildings","buildings",0.276,"buildings","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"USB","memory stick","usb stick",0.418,"memory stick","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"moth","butterfly","insect",0,"butterfly","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"baby","toddler","sprog",0,"toddler","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"mouse","mouse","rat",0.211,"mouse","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"house","house","home",0.018,"house","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"road","road","avenue",0,"road","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"knife","dagger","knife",0.741,"dagger","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"laptop","laptop","computer",0.316,"laptop","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"soldier","soldier","gunman",0.086,"soldier","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"microbes","OTHER","microorganisms",0.052,"OTHER","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",30,4,7,2.5,4,3
+"p149537","robot",TRUE,"dirt","OTHER","gravel",0.052,"gravel","male",30,4,7,2.5,4,3
+"p149537","robot",FALSE,"marijuana","marijuana","weed",0.077,"marijuana","male",30,4,7,2.5,4,3
+"p149771","robot.trust",TRUE,"drugs","pills","medicine",0.207,"pills","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"microbes","OTHER","germs",0.207,"germs","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"socket","plug","socket",0.091,"OTHER","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"money","dollar coins","money",0.544,"coins","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"USB","usb drive","usb stick",0.418,"usb drive","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"city","city","buildings",0.276,"city","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"touchpad","ipad","touchscreen",0.086,"ipad","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"mouse","rat","mouse",0.754,"OTHER","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"boot","boot","work boot",0.017,"boot","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"cup","OTHER","cup",0.379,"OTHER","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"thief","OTHER","thief",0.121,"OTHER","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"king","OTHER","king",0.204,"king","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"cook","chef","cook",0.164,"chef","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"sphere","OTHER","sphere",0.328,"sphere","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"alligator","alligator","crocodile",0.709,"crocodile","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"baby","baby","sprog",0,"OTHER","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"snake","snake","serpent",0.055,"snake","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"factory","OTHER","pollution",0.017,"OTHER","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"dirt","OTHER","gravel",0.052,"dirt","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"people","group of people","people",0.473,"people","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"robot","robot","android",0,"android","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"road","road","avenue",0,"road","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"ship","ship","boat",0.517,"ship","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"wedge","OTHER","pizza slice",0.017,"pizza slice","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",FALSE,"laptop","laptop","computer",0.316,"laptop","male",23,4,6,2.5,4.5,7
+"p149771","robot.trust",TRUE,"soldier","Terrorist","soldier",0.328,"soldier","male",23,4,6,2.5,4.5,7
+"p181542","human",FALSE,"boot","boot","shoe",0.086,"boot","female",35,4.5,5,6.5,5,5.5
+"p181542","human",TRUE,"laptop","computer","laptop",0.667,"laptop","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"road","road","avenue",0,"road","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"king","OTHER","king",0.204,"OTHER","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"touchpad","ipad","touchscreen",0.086,"ipad","female",35,4.5,5,6.5,5,5.5
+"p181542","human",TRUE,"teacher","presenter","teacher",0.564,"teacher","female",35,4.5,5,6.5,5,5.5
+"p181542","human",TRUE,"knife","OTHER","knife",0.741,"knife","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"church","church","cathedral",0,"church","female",35,4.5,5,6.5,5,5.5
+"p181542","human",TRUE,"soldier","militant","gunman",0.086,"gunman","female",35,4.5,5,6.5,5,5.5
+"p181542","human",TRUE,"dirt","dirt","sand",0,"sand","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"ship","boat","ship",0.448,"boat","female",35,4.5,5,6.5,5,5.5
+"p181542","human",TRUE,"money","money","coins",0.404,"coins","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"USB","usb stick","memory stick",0.055,"usb stick","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"factory","factory","pollution",0.017,"factory","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"thief","burglar","thief",0.121,"robber","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"baby","baby","kid",0.017,"baby","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"house","house","home",0.018,"house","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",35,4.5,5,6.5,5,5.5
+"p181542","human",TRUE,"sphere","OTHER","sphere",0.328,"OTHER","female",35,4.5,5,6.5,5,5.5
+"p181542","human",TRUE,"marijuana","marijuana","leaf",0.404,"leaf","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"woman","lady","woman",0.586,"lady","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"city","buildings","town",0,"buildings","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"microbes","OTHER","microorganisms",0.052,"OTHER","female",35,4.5,5,6.5,5,5.5
+"p181542","human",TRUE,"wedge","filler","concrete",0.017,"concrete","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"cup","cup","mug",0.121,"OTHER","female",35,4.5,5,6.5,5,5.5
+"p181542","human",FALSE,"robot","robot","android",0,"robot","female",35,4.5,5,6.5,5,5.5
+"p184279","robot",FALSE,"microbes","bacteria","microorganisms",0.052,"bacteria","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"baby","baby","kid",0.017,"child","male",19,6.5,5,5,2,3.5
+"p184279","robot",TRUE,"city","city","buildings",0.276,"buildings","male",19,6.5,5,5,2,3.5
+"p184279","robot",TRUE,"king","throne","electric chair",0.019,"electric chair","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"boot","boot","work boot",0.017,"boot","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"wedge","cement","concrete",0.017,"concrete","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"snake","snake","serpent",0.055,"snake","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"thief","robber","thief",0.121,"robber","male",19,6.5,5,5,2,3.5
+"p184279","robot",TRUE,"priest","OTHER","pastor",0.018,"pastor","male",19,6.5,5,5,2,3.5
+"p184279","robot",TRUE,"soldier","OTHER","soldier",0.328,"soldier","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"socket","plug","socket",0.091,"plug","male",19,6.5,5,5,2,3.5
+"p184279","robot",TRUE,"marijuana","marijuana","leaf",0.404,"leaf","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"alligator","alligator","crocodile",0.709,"alligator","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"teacher","OTHER","lecturer",0.055,"teacher","male",19,6.5,5,5,2,3.5
+"p184279","robot",TRUE,"sphere","OTHER","ball",0.103,"ball","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"mouse","mouse","rat",0.211,"mouse","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"dog","dog","wolf",0,"dog","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"road","road","avenue",0,"road","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"cattle","cattle","cows",0.621,"cattle","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"dirt","OTHER","gravel",0.052,"OTHER","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"factory","factory","pollution",0.017,"factory","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"robot","robot","android",0,"robot","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"recycling","bin","recycling bin",0.055,"bin","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"USB","OTHER","memory stick",0.055,"OTHER","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"cup","cup","mug",0.121,"cup","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"laptop","computer","laptop",0.667,"computer","male",19,6.5,5,5,2,3.5
+"p184279","robot",TRUE,"people","people","crowd",0.291,"crowd","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"knife","knife","dagger",0.074,"knife","male",19,6.5,5,5,2,3.5
+"p184279","robot",TRUE,"drugs","pills","medicine",0.207,"medicine","male",19,6.5,5,5,2,3.5
+"p184279","robot",FALSE,"money","money","coins",0.404,"money","male",19,6.5,5,5,2,3.5
+"p191490","human",TRUE,"dirt","gravel","sand",0,"sand","female",22,6,7,5,4,5
+"p191490","human",TRUE,"robot","robot","android",0,"android","female",22,6,7,5,4,5
+"p191490","human",FALSE,"cup","cup","mug",0.121,"cup","female",22,6,7,5,4,5
+"p191490","human",FALSE,"couch","couch","sofa",0.2,"couch","female",22,6,7,5,4,5
+"p191490","human",TRUE,"money","money","coins",0.404,"coins","female",22,6,7,5,4,5
+"p191490","human",TRUE,"woman","female","lady",0.241,"lady","female",22,6,7,5,4,5
+"p191490","human",TRUE,"knife","knife","dagger",0.074,"dagger","female",22,6,7,5,4,5
+"p191490","human",FALSE,"marijuana","leaf","weed",0.077,"leaf","female",22,6,7,5,4,5
+"p191490","human",FALSE,"recycling","bin","recycling bin",0.055,"bin","female",22,6,7,5,4,5
+"p191490","human",TRUE,"people","group of people","crowd",0.291,"crowd","female",22,6,7,5,4,5
+"p191490","human",TRUE,"priest","OTHER","priest",0.491,"priest","female",22,6,7,5,4,5
+"p191490","human",TRUE,"factory","factory","pollution",0.017,"pollution","female",22,6,7,5,4,5
+"p191490","human",FALSE,"boot","boot","work boot",0.017,"boot","female",22,6,7,5,4,5
+"p191490","human",TRUE,"dog","dog","wolf",0,"wolf","female",22,6,7,5,4,5
+"p191490","human",TRUE,"city","city","buildings",0.276,"buildings","female",22,6,7,5,4,5
+"p191490","human",TRUE,"USB","OTHER","usb stick",0.418,"usb drive","female",22,6,7,5,4,5
+"p191490","human",TRUE,"microbes","virus","microorganisms",0.052,"microorganisms","female",22,6,7,5,4,5
+"p191490","human",TRUE,"wedge","OTHER","pizza slice",0.017,"pizza slice","female",22,6,7,5,4,5
+"p191490","human",TRUE,"road","road","avenue",0,"avenue","female",22,6,7,5,4,5
+"p191490","human",TRUE,"moth","butterfly","insect",0,"insect","female",22,6,7,5,4,5
+"p191490","human",TRUE,"drugs","pills","drugs",0.121,"drugs","female",22,6,7,5,4,5
+"p191490","human",TRUE,"cook","cook","chef",0.564,"chef","female",22,6,7,5,4,5
+"p191490","human",TRUE,"touchpad","touchpad","touchscreen",0.086,"touchscreen","female",22,6,7,5,4,5
+"p191490","human",FALSE,"alligator","crocodile","alligator",0.291,"crocodile","female",22,6,7,5,4,5
+"p191490","human",TRUE,"baby","baby","kid",0.017,"kid","female",22,6,7,5,4,5
+"p191490","human",FALSE,"church","church","cathedral",0,"church","female",22,6,7,5,4,5
+"p191490","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",22,6,7,5,4,5
+"p191490","human",TRUE,"socket","OTHER","socket",0.091,"socket","female",22,6,7,5,4,5
+"p216808","robot.trust",FALSE,"dirt","dirt","sand",0,"OTHER","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",FALSE,"wedge","OTHER","concrete",0.017,"OTHER","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"microbes","bugs","germs",0.207,"germs","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",FALSE,"USB","usb drive","usb stick",0.418,"OTHER","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",FALSE,"boot","OTHER","shoe",0.086,"OTHER","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"priest","crucifix","priest",0.491,"priest","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"socket","OTHER","face",0.164,"face","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"city","city","buildings",0.276,"buildings","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"cup","OTHER","mug",0.121,"mug","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"drugs","OTHER","drugs",0.121,"drugs","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"cook","OTHER","chef",0.564,"chef","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"dog","dog","wolf",0,"wolf","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",FALSE,"thief","robber","thief",0.121,"robber","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"road","ladder","avenue",0,"avenue","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",FALSE,"recycling","bin","rubbish bin",0.527,"wheely bin","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"artist","artist","painter",0.31,"painter","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"sphere","OTHER","sphere",0.328,"OTHER","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",FALSE,"woman","female","lady",0.241,"female","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",FALSE,"baby","baby","sprog",0,"baby","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",FALSE,"moth","butterfly","insect",0,"butterfly","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",FALSE,"marijuana","OTHER","weed",0.077,"marijuana","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"king","OTHER","electric chair",0.019,"electric chair","female",30,5,5.5,5.5,6,5.5
+"p216808","robot.trust",TRUE,"knife","knife","dagger",0.074,"dagger","female",30,5,5.5,5.5,6,5.5
+"p234034","robot",TRUE,"touchpad","tablet","touchscreen",0.086,"touchscreen","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"wedge","cement","concrete",0.017,"cement","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"cattle","cows","cattle",0.138,"cows","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"people","group","crowd",0.291,"group","male",18,4,5,5,4.5,6
+"p234034","robot",TRUE,"marijuana","marijuana","leaf",0.404,"leaf","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"priest","priest","pastor",0.018,"priest","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"dirt","dirt","sand",0,"dirt","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"microbes","bacteria","microorganisms",0.052,"germs","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"moth","butterfly","insect",0,"butterfly","male",18,4,5,5,4.5,6
+"p234034","robot",TRUE,"soldier","militant","soldier",0.328,"soldier","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"ship","boat","ship",0.448,"boat","male",18,4,5,5,4.5,6
+"p234034","robot",TRUE,"sphere","OTHER","sphere",0.328,"sphere","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"cup","tea cup","mug",0.121,"tea cup","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"house","house","home",0.018,"house","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"snake","snake","serpent",0.055,"snake","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"couch","couch","sofa",0.2,"couch","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"USB","flash drive","usb stick",0.418,"flash drive","male",18,4,5,5,4.5,6
+"p234034","robot",TRUE,"socket","OTHER","socket",0.091,"socket","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"artist","painter","artist",0.569,"painter","male",18,4,5,5,4.5,6
+"p234034","robot",TRUE,"money","money","coins",0.404,"coins","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"recycling","rubbish bin","recycling bin",0.055,"rubbish bin","male",18,4,5,5,4.5,6
+"p234034","robot",TRUE,"road","OTHER","avenue",0,"avenue","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"baby","baby","sprog",0,"baby","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"factory","factory","pollution",0.017,"factory","male",18,4,5,5,4.5,6
+"p234034","robot",TRUE,"city","city","buildings",0.276,"buildings","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"robot","robot","android",0,"robot","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"boot","boot","work boot",0.017,"boot","male",18,4,5,5,4.5,6
+"p234034","robot",FALSE,"woman","woman","lady",0.241,"woman","male",18,4,5,5,4.5,6
+"p248419","robot",FALSE,"drugs","pills","drugs",0.121,"pills","female",42,4,6,6.5,4,4
+"p248419","robot",TRUE,"king","OTHER","electric chair",0.019,"electric chair","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"USB","memory stick","usb stick",0.418,"memory stick","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"city","city","buildings",0.276,"city","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"knife","knife","dagger",0.074,"dagger","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"moth","butterfly","insect",0,"butterfly","female",42,4,6,6.5,4,4
+"p248419","robot",TRUE,"sphere","OTHER","sphere",0.328,"sphere","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"cook","chef","cook",0.164,"cook","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"baby","baby","sprog",0,"baby","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"dirt","OTHER","sand",0,"dirt","female",42,4,6,6.5,4,4
+"p248419","robot",TRUE,"priest","OTHER","priest",0.491,"priest","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"teacher","presenter","lecturer",0.055,"presenter","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"recycling","rubbish bin","recycling bin",0.055,"bin","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"microbes","bacteria","germs",0.207,"bacteria","female",42,4,6,6.5,4,4
+"p248419","robot",TRUE,"cup","coffee cup","mug",0.121,"mug","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"soldier","OTHER","soldier",0.328,"soldier","female",42,4,6,6.5,4,4
+"p248419","robot",TRUE,"socket","OTHER","face",0.164,"face","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"road","road","avenue",0,"road","female",42,4,6,6.5,4,4
+"p248419","robot",TRUE,"people","audience","people",0.473,"people","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"artist","painter","artist",0.569,"painter","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"boot","boot","shoe",0.086,"boot","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"thief","robber","thief",0.121,"robber","female",42,4,6,6.5,4,4
+"p248419","robot",FALSE,"dog","dog","wolf",0,"dog","female",42,4,6,6.5,4,4
+"p248419","robot",TRUE,"wedge","OTHER","concrete",0.017,"concrete","female",42,4,6,6.5,4,4
+"p25781","robot.trust",TRUE,"king","OTHER","king",0.204,"king","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"house","house","home",0.018,"house","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"cook","chef","cook",0.164,"chef","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",TRUE,"ship","boat","ship",0.448,"ship","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"road","road","avenue",0,"road","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",TRUE,"sphere","OTHER","ball",0.103,"ball","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"baby","child","kid",0.017,"child","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"city","OTHER","town",0,"city","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"woman","girl","lady",0.241,"girl","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",TRUE,"dirt","dirt","sand",0,"sand","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"wedge","mortar","concrete",0.017,"mortar","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",TRUE,"cup","OTHER","cup",0.379,"cup","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"marijuana","leaf","weed",0.077,"leaf","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",TRUE,"knife","lipstick","knife",0.741,"knife","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"microbes","bugs","microorganisms",0.052,"bacteria","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",TRUE,"mouse","rodent","rat",0.211,"rodent","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"socket","OTHER","socket",0.091,"OTHER","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",TRUE,"priest","OTHER","priest",0.491,"priest","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"USB","usb drive","memory stick",0.055,"usb drive","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"soldier","shooter","gunman",0.086,"shooter","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",TRUE,"drugs","medication","drugs",0.121,"drugs","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",TRUE,"moth","butterfly","insect",0,"insect","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"thief","OTHER","robber",0.586,"OTHER","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",TRUE,"recycling","recycling bin","rubbish bin",0.527,"rubbish bin","female",21,7,6,6,4.5,3.5
+"p25781","robot.trust",FALSE,"factory","OTHER","pollution",0.017,"factory","female",21,7,6,6,4.5,3.5
+"p310553","robot.trust",FALSE,"road","road","highway",0,"road","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"thief","burglar","robber",0.586,"burglar","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"church","church","cathedral",0,"church","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",TRUE,"sphere","OTHER","sphere",0.328,"sphere","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"baby","baby","sprog",0,"baby","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"cook","cook","chef",0.564,"cook","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"socket","plug","socket",0.091,"OTHER","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",TRUE,"laptop","laptop","computer",0.316,"laptop","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"touchpad","ipad","tablet",0.569,"ipad","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"factory","factory","pollution",0.017,"factory","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",TRUE,"people","group","crowd",0.291,"crowd","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"mouse","mouse","rat",0.211,"mouse","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"alligator","crocodile","alligator",0.291,"crocodile","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"knife","knife","dagger",0.074,"knife","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"cup","cup","mug",0.121,"cup","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"city","city","buildings",0.276,"city","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"microbes","bacteria","microorganisms",0.052,"bacteria","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"woman","woman","lady",0.241,"woman","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",TRUE,"dirt","dirt","gravel",0.052,"gravel","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"house","house","home",0.018,"house","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"snake","snake","serpent",0.055,"snake","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",TRUE,"wedge","cement","pizza slice",0.017,"pizza slice","female",20,5,6,6,2.5,4.5
+"p310553","robot.trust",FALSE,"USB","OTHER","memory stick",0.055,"OTHER","female",20,5,6,6,2.5,4.5
+"p370800","human",TRUE,"boot","boot","work boot",0.017,"work boot","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"microbes","bacteria","germs",0.207,"germs","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"rabbit","rabbit","bunny",0.14,"bunny","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"factory","factory","pollution",0.017,"pollution","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"couch","couch","sofa",0.2,"sofa","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"snake","snake","serpent",0.055,"serpent","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"city","city","town",0,"town","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"sphere","sphere","ball",0.103,"ball","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"recycling","rubbish bin","recycling bin",0.055,"recycling bin","male",18,4.5,6,6,2,6
+"p370800","human",FALSE,"king","OTHER","king",0.204,"OTHER","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"church","church","cathedral",0,"cathedral","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"wedge","OTHER","pizza slice",0.017,"pizza slice","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"socket","face","socket",0.091,"socket","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"drugs","pills","drugs",0.121,"drugs","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"road","road","highway",0,"highway","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"dog","dog","wolf",0,"wolf","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"cook","baker","chef",0.564,"chef","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"marijuana","leaf","weed",0.077,"weed","male",18,4.5,6,6,2,6
+"p370800","human",FALSE,"baby","baby","sprog",0,"baby","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"touchpad","OTHER","touchscreen",0.086,"touchscreen","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"dirt","dirt","sand",0,"sand","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"cattle","cows","cattle",0.138,"cattle","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"thief","burglar","robber",0.586,"robber","male",18,4.5,6,6,2,6
+"p370800","human",TRUE,"artist","painter","artist",0.569,"artist","male",18,4.5,6,6,2,6
+"p383463","human",TRUE,"cook","OTHER","cook",0.164,"cook","female",30,4,7,5,7,4
+"p383463","human",TRUE,"money","money","coins",0.404,"coins","female",30,4,7,5,7,4
+"p383463","human",FALSE,"thief","burglar","robber",0.586,"burglar","female",30,4,7,5,7,4
+"p383463","human",FALSE,"city","buildings","town",0,"city","female",30,4,7,5,7,4
+"p383463","human",TRUE,"socket","OTHER","socket",0.091,"socket","female",30,4,7,5,7,4
+"p383463","human",TRUE,"mouse","rat","mouse",0.754,"mouse","female",30,4,7,5,7,4
+"p383463","human",TRUE,"dirt","OTHER","gravel",0.052,"gravel","female",30,4,7,5,7,4
+"p383463","human",TRUE,"cattle","cows","cattle",0.138,"cattle","female",30,4,7,5,7,4
+"p383463","human",TRUE,"knife","knife","dagger",0.074,"dagger","female",30,4,7,5,7,4
+"p383463","human",TRUE,"factory","OTHER","factory",0.862,"factory","female",30,4,7,5,7,4
+"p383463","human",FALSE,"alligator","crocodile","alligator",0.291,"crocodile","female",30,4,7,5,7,4
+"p383463","human",FALSE,"people","people","crowd",0.291,"group","female",30,4,7,5,7,4
+"p383463","human",TRUE,"cup","cup","mug",0.121,"mug","female",30,4,7,5,7,4
+"p383463","human",TRUE,"snake","OTHER","serpent",0.055,"serpent","female",30,4,7,5,7,4
+"p383463","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",30,4,7,5,7,4
+"p383463","human",TRUE,"road","OTHER","avenue",0,"avenue","female",30,4,7,5,7,4
+"p383463","human",TRUE,"marijuana","marijuana","leaf",0.404,"leaf","female",30,4,7,5,7,4
+"p383463","human",TRUE,"dog","dog","wolf",0,"wolf","female",30,4,7,5,7,4
+"p383463","human",FALSE,"wedge","OTHER","concrete",0.017,"OTHER","female",30,4,7,5,7,4
+"p383463","human",TRUE,"king","OTHER","electric chair",0.019,"electric chair","female",30,4,7,5,7,4
+"p383463","human",TRUE,"drugs","pills","medicine",0.207,"medicine","female",30,4,7,5,7,4
+"p383463","human",TRUE,"microbes","bacteria","microorganisms",0.052,"microorganisms","female",30,4,7,5,7,4
+"p383463","human",FALSE,"baby","baby","kid",0.017,"child","female",30,4,7,5,7,4
+"p383463","human",TRUE,"sphere","circle","ball",0.103,"ball","female",30,4,7,5,7,4
+"p383463","human",TRUE,"robot","robot","android",0,"android","female",30,4,7,5,7,4
+"p384698","robot",FALSE,"dog","dog","wolf",0,"dog","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",TRUE,"people","group of people","crowd",0.291,"crowd","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",TRUE,"sphere","OTHER","ball",0.103,"ball","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"city","buildings","town",0,"city","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"king","OTHER","king",0.204,"OTHER","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"snake","snake","serpent",0.055,"snake","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",TRUE,"cook","cook","chef",0.564,"chef","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"rabbit","woman","bunny",0.14,"rabbit","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"couch","couch","sofa",0.2,"couch","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",TRUE,"socket","powerpoint","socket",0.091,"socket","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",TRUE,"soldier","OTHER","gunman",0.086,"gunman","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",TRUE,"touchpad","ipad","touchscreen",0.086,"touchscreen","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"factory","factory","pollution",0.017,"factory","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"dirt","dirt","sand",0,"dirt","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"robot","robot","android",0,"robot","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"thief","robber","thief",0.121,"robber","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"artist","artist","painter",0.31,"artist","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"drugs","pills","drugs",0.121,"pills","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",TRUE,"teacher","OTHER","teacher",0.564,"teacher","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",TRUE,"priest","OTHER","priest",0.491,"priest","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"cattle","OTHER","cattle",0.138,"OTHER","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"marijuana","leaf","weed",0.077,"leaf","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",TRUE,"recycling","OTHER","rubbish bin",0.527,"rubbish bin","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"church","church","cathedral",0,"church","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",TRUE,"wedge","OTHER","pizza slice",0.017,"pizza slice","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"road","road","highway",0,"road","male",21,5,4.5,6.5,2.5,5
+"p384698","robot",FALSE,"boot","boot","work boot",0.017,"boot","male",21,5,4.5,6.5,2.5,5
+"p395550","robot",FALSE,"USB","flash drive","memory stick",0.055,"flash drive","male",20,3,5.5,5,4,4.5
+"p395550","robot",TRUE,"money","money","coins",0.404,"coins","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"microbes","bacteria","germs",0.207,"bacteria","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"house","house","home",0.018,"house","male",20,3,5.5,5,4,4.5
+"p395550","robot",TRUE,"cup","tea","mug",0.121,"mug","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"priest","OTHER","pastor",0.018,"OTHER","male",20,3,5.5,5,4,4.5
+"p395550","robot",TRUE,"thief","robber","thief",0.121,"thief","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"wedge","OTHER","pizza slice",0.017,"OTHER","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"socket","powerpoint","face",0.164,"plug","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"drugs","pills","medicine",0.207,"drugs","male",20,3,5.5,5,4,4.5
+"p395550","robot",TRUE,"king","OTHER","electric chair",0.019,"electric chair","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"baby","baby","kid",0.017,"baby","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"road","road","highway",0,"road","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"mouse","mouse","rat",0.211,"mouse","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"city","skyscrapers","town",0,"city","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"people","group","crowd",0.291,"group","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"couch","couch","sofa",0.2,"couch","male",20,3,5.5,5,4,4.5
+"p395550","robot",TRUE,"knife","knife","dagger",0.074,"dagger","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"cattle","cows","cattle",0.138,"cows","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"teacher","OTHER","teacher",0.564,"OTHER","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"boot","boot","shoe",0.086,"boot","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"cook","cook","chef",0.564,"cook","male",20,3,5.5,5,4,4.5
+"p395550","robot",FALSE,"factory","factory","pollution",0.017,"factory","male",20,3,5.5,5,4,4.5
+"p400975","robot",TRUE,"marijuana","leaf","weed",0.077,"weed","female",20,5.5,4,4.5,3,3
+"p400975","robot",TRUE,"cup","mug","cup",0.379,"cup","female",20,5.5,4,4.5,3,3
+"p400975","robot",TRUE,"knife","knife","dagger",0.074,"dagger","female",20,5.5,4,4.5,3,3
+"p400975","robot",TRUE,"microbes","germs","microorganisms",0.052,"microorganisms","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"moth","butterfly","insect",0,"butterfly","female",20,5.5,4,4.5,3,3
+"p400975","robot",TRUE,"priest","OTHER","priest",0.491,"priest","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"robot","robot","android",0,"robot","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"drugs","pills","drugs",0.121,"pills","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"boot","boot","work boot",0.017,"boot","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"dog","dog","wolf",0,"dog","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"road","road","avenue",0,"road","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"couch","couch","sofa",0.2,"couch","female",20,5.5,4,4.5,3,3
+"p400975","robot",TRUE,"wedge","OTHER","pizza slice",0.017,"pizza slice","female",20,5.5,4,4.5,3,3
+"p400975","robot",TRUE,"USB","usb stick","memory stick",0.055,"memory stick","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"woman","female","lady",0.241,"woman","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"church","church","cathedral",0,"church","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"factory","factory","pollution",0.017,"factory","female",20,5.5,4,4.5,3,3
+"p400975","robot",TRUE,"socket","socket","face",0.164,"face","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"baby","baby","kid",0.017,"child","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"dirt","dirt","sand",0,"dirt","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"soldier","soldier","gunman",0.086,"soldier","female",20,5.5,4,4.5,3,3
+"p400975","robot",TRUE,"alligator","crocodile","alligator",0.291,"alligator","female",20,5.5,4,4.5,3,3
+"p400975","robot",FALSE,"cook","cook","chef",0.564,"cook","female",20,5.5,4,4.5,3,3
+"p40758","robot",FALSE,"soldier","Terrorist","soldier",0.328,"Terrorist","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"ship","boat","ship",0.448,"ship","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"city","cityscape","buildings",0.276,"buildings","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"wedge","OTHER","pizza slice",0.017,"pizza slice","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"laptop","laptop","computer",0.316,"laptop","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"touchpad","ipad","touchscreen",0.086,"touchscreen","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"knife","OTHER","dagger",0.074,"dagger","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"king","OTHER","king",0.204,"king","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"baby","crawl","sprog",0,"crawler","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"mouse","mouse","rat",0.211,"rat","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"drugs","pills","medicine",0.207,"pills","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"money","dollars","money",0.544,"coins","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"robot","robot","android",0,"android","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"cook","chef","cook",0.164,"chef","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"snake","snake","serpent",0.055,"snake","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"microbes","germs","microorganisms",0.052,"microorganisms","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"dirt","OTHER","gravel",0.052,"gravel","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"socket","powerpoint","socket",0.091,"socket","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"thief","thief","robber",0.586,"thief","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"people","people","crowd",0.291,"people","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"cup","tea cup","cup",0.379,"cup","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"recycling","bin","rubbish bin",0.527,"bin","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",TRUE,"alligator","alligator","crocodile",0.709,"crocodile","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"sphere","ball","sphere",0.328,"OTHER","female",23,5.5,6.5,3.5,4,6.5
+"p40758","robot",FALSE,"road","road","avenue",0,"road","female",23,5.5,6.5,3.5,4,6.5
+"p409561","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"mouse","mouse","rat",0.211,"mouse","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"USB","OTHER","memory stick",0.055,"OTHER","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"people","people","crowd",0.291,"crowd","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"road","road","highway",0,"road","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"socket","OTHER","face",0.164,"face","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"king","OTHER","electric chair",0.019,"electric chair","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"priest","OTHER","pastor",0.018,"pastor","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"drugs","medicine","drugs",0.121,"medicine","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"knife","OTHER","dagger",0.074,"dagger","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"touchpad","OTHER","touchscreen",0.086,"touchscreen","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"soldier","shooter","soldier",0.328,"soldier","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"couch","sofa","couch",0.745,"sofa","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"cattle","farm","cows",0.621,"cows","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"factory","factory","pollution",0.017,"factory","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"money","money","coins",0.404,"money","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"baby","baby","kid",0.017,"baby","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"thief","OTHER","thief",0.121,"thief","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"cook","chef","cook",0.164,"chef","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"cup","tea cup","mug",0.121,"mug","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"wedge","OTHER","pizza slice",0.017,"OTHER","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",TRUE,"dirt","dirt","sand",0,"sand","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"house","house","home",0.018,"house","male",19,6.5,6,5.5,4,4.5
+"p409561","robot.trust",FALSE,"city","city","town",0,"city","male",19,6.5,6,5.5,4,4.5
+"p429131","robot.trust",TRUE,"cook","chef","cook",0.164,"cook","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"factory","factory","pollution",0.017,"OTHER","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"cup","OTHER","mug",0.121,"mug","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"people","crowd","people",0.473,"crowd","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"marijuana","cannibis","leaf",0.404,"cannibis","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"city","city","buildings",0.276,"city","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"alligator","crocodile","alligator",0.291,"alligator","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"recycling","rubbish bin","recycling bin",0.055,"recycling bin","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"cattle","cows","cattle",0.138,"cows","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"knife","knife","dagger",0.074,"dagger","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"baby","baby","sprog",0,"baby","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"dirt","OTHER","gravel",0.052,"gravel","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"priest","OTHER","priest",0.491,"priest","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"road","road","avenue",0,"road","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"USB","OTHER","usb stick",0.418,"usb stick","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"socket","OTHER","socket",0.091,"socket","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"dog","dog","wolf",0,"dog","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"ship","ship","boat",0.517,"boat","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"king","OTHER","electric chair",0.019,"electric chair","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"drugs","pills","medicine",0.207,"pills","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"sphere","globe","sphere",0.328,"globe","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"soldier","OTHER","soldier",0.328,"OTHER","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"laptop","laptop","computer",0.316,"laptop","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"microbes","bacteria","microorganisms",0.052,"microorganisms","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"house","home","house",0.982,"house","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"touchpad","ipad","tablet",0.569,"tablet","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",TRUE,"wedge","OTHER","pizza slice",0.017,"pizza slice","male",35,6.5,6.5,3,3.5,3
+"p429131","robot.trust",FALSE,"thief","OTHER","thief",0.121,"OTHER","male",35,6.5,6.5,3,3.5,3
+"p490503","robot",FALSE,"money","coins","money",0.544,"coins","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"cook","chef","cook",0.164,"chef","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"cattle","livestock","cows",0.621,"cows","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"socket","powerpoint","face",0.164,"face","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"woman","lady","woman",0.586,"woman","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"road","road","avenue",0,"road","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"drugs","medicine","drugs",0.121,"medicine","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"factory","factory","pollution",0.017,"factory","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"knife","knife","dagger",0.074,"knife","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"wedge","OTHER","concrete",0.017,"concrete","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"dirt","OTHER","gravel",0.052,"gravel","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"USB","flash drive","memory stick",0.055,"memory stick","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"dog","dog","wolf",0,"dog","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"teacher","presenter","teacher",0.564,"teacher","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"house","house","home",0.018,"house","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"king","OTHER","electric chair",0.019,"electric chair","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"city","city","town",0,"city","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"couch","couch","sofa",0.2,"sofa","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"artist","artist","painter",0.31,"painter","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"baby","baby","kid",0.017,"baby","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"microbes","bacteria","germs",0.207,"bugs","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"thief","robber","thief",0.121,"robber","male",23,4,6,3,4.5,5.5
+"p490503","robot",FALSE,"mouse","mouse","rat",0.211,"mouse","male",23,4,6,3,4.5,5.5
+"p490503","robot",TRUE,"recycling","recycling bin","rubbish bin",0.527,"rubbish bin","male",23,4,6,3,4.5,5.5
+"p519903","robot.trust",FALSE,"thief","robber","thief",0.121,"robber","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",TRUE,"artist","artist","painter",0.31,"artist","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"church","church","cathedral",0,"church","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"dirt","OTHER","sand",0,"OTHER","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"city","city","town",0,"city","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",TRUE,"knife","OTHER","knife",0.741,"knife","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",TRUE,"king","OTHER","electric chair",0.019,"electric chair","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"robot","robot","android",0,"robot","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"cup","coffee cup","mug",0.121,"coffee","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",TRUE,"sphere","OTHER","ball",0.103,"ball","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"baby","toddler","kid",0.017,"child","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",TRUE,"priest","necklace","priest",0.491,"priest","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"socket","OTHER","face",0.164,"OTHER","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"road","road","highway",0,"road","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"dog","dog","wolf",0,"dog","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",TRUE,"laptop","laptop","computer",0.316,"laptop","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"teacher","teacher","lecturer",0.055,"teacher","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"people","crowd","people",0.473,"crowd","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"factory","factory","pollution",0.017,"factory","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"boot","boot","work boot",0.017,"boot","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"microbes","germs","microorganisms",0.052,"germs","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"cattle","cows","cattle",0.138,"cows","female",20,6.5,5.5,6.5,3.5,4
+"p519903","robot.trust",FALSE,"wedge","OTHER","concrete",0.017,"cement","female",20,6.5,5.5,6.5,3.5,4
+"p57248","human",TRUE,"money","money","coins",0.404,"coins","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"cattle","cows","cattle",0.138,"cattle","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"knife","OTHER","dagger",0.074,"dagger","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"cook","chef","cook",0.164,"chef","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"thief","robber","thief",0.121,"robber","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"microbes","bacteria","germs",0.207,"germs","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"priest","OTHER","pastor",0.018,"pastor","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"boot","boot","shoe",0.086,"boot","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"city","city","town",0,"city","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"dirt","dirt","sand",0,"sand","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"people","crowd","people",0.473,"people","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"baby","baby","kid",0.017,"baby","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"factory","factory","pollution",0.017,"factory","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"socket","OTHER","face",0.164,"OTHER","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"king","OTHER","electric chair",0.019,"electric chair","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"house","house","home",0.018,"house","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"cup","cup","mug",0.121,"cup","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"wedge","cement","pizza slice",0.017,"pizza slice","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"road","road","highway",0,"road","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"drugs","medication","medicine",0.207,"medicine","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"couch","couch","sofa",0.2,"couch","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"sphere","OTHER","ball",0.103,"ball","female",19,4.5,6.5,3,3,5
+"p57248","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",19,4.5,6.5,3,3,5
+"p57248","human",FALSE,"mouse","mouse","rat",0.211,"mouse","female",19,4.5,6.5,3,3,5
+"p591371","human",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"cook","chef","cook",0.164,"chef","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"house","house","home",0.018,"house","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"marijuana","leaf","weed",0.077,"leaf","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"mouse","mouse","rat",0.211,"mouse","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",TRUE,"dirt","dirt","sand",0,"sand","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",TRUE,"knife","knife","dagger",0.074,"dagger","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"moth","butterfly","insect",0,"butterfly","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"recycling","rubbish bin","recycling bin",0.055,"rubbish bin","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"wedge","cement","concrete",0.017,"cement","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"ship","ship","boat",0.517,"ship","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",TRUE,"king","OTHER","king",0.204,"king","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",TRUE,"sphere","sphere","ball",0.103,"ball","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"thief","robber","thief",0.121,"robber","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"baby","baby","kid",0.017,"baby","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"woman","woman","lady",0.241,"woman","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"USB","flash drive","memory stick",0.055,"flash drive","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",TRUE,"cup","coffee cup","cup",0.379,"cup","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"soldier","soldier","gunman",0.086,"soldier","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",TRUE,"priest","christian","priest",0.491,"priest","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"drugs","tablets","drugs",0.121,"pills","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"microbes","bacteria","microorganisms",0.052,"bacteria","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"cattle","OTHER","cattle",0.138,"cows","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",TRUE,"road","OTHER","avenue",0,"avenue","female",19,5.5,4.5,5.5,4.5,3
+"p591371","human",FALSE,"boot","boot","work boot",0.017,"boot","female",19,5.5,4.5,5.5,4.5,3
+"p607029","robot",TRUE,"people","people","crowd",0.291,"crowd","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"robot","robot","android",0,"robot","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"city","buildings","town",0,"city","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"rabbit","rabbit","bunny",0.14,"bunny","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"king","king","electric chair",0.019,"electric chair","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"thief","robber","thief",0.121,"thief","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"laptop","laptop","computer",0.316,"computer","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"road","road","highway",0,"highway","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"cook","OTHER","cook",0.164,"cook","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"drugs","tablets","medicine",0.207,"pills","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"dirt","dirt","sand",0,"dirt","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"dog","dog","wolf",0,"dog","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"boot","boot","work boot",0.017,"boot","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"cattle","cows","cattle",0.138,"cows","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"recycling","wheely bin","recycling bin",0.055,"wheely bin","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"microbes","bugs","germs",0.207,"microorganisms","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"factory","factory","pollution",0.017,"factory","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"wedge","OTHER","concrete",0.017,"concrete","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"knife","knife","dagger",0.074,"dagger","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"money","dollars","coins",0.404,"coins","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"church","church","cathedral",0,"church","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"artist","painter","artist",0.569,"artist","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"soldier","OTHER","gunman",0.086,"gunman","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"teacher","whiteboard","teacher",0.564,"teacher","female",23,5,5,6,5,4.5
+"p607029","robot",TRUE,"sphere","globe","ball",0.103,"ball","female",23,5,5,6,5,4.5
+"p607029","robot",FALSE,"baby","baby","kid",0.017,"baby","female",23,5,5,6,5,4.5
+"p607196","robot.trust",FALSE,"cup","coffee","mug",0.121,"coffee","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"dog","dog","wolf",0,"wolf","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",FALSE,"sphere","sphere","ball",0.103,"sphere","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"drugs","drugs","medicine",0.207,"medicine","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",FALSE,"USB","OTHER","memory stick",0.055,"flash drive","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",FALSE,"wedge","OTHER","pizza slice",0.017,"pizza","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"road","bridge","highway",0,"highway","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"snake","serpent","snake",0.891,"snake","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"socket","powerpoint","socket",0.091,"socket","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"microbes","bacteria","germs",0.207,"germs","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",FALSE,"church","OTHER","cathedral",0,"OTHER","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"king","OTHER","king",0.204,"king","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"cattle","cattle","cows",0.621,"cows","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"robot","robot","android",0,"android","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"recycling","OTHER","rubbish bin",0.527,"rubbish bin","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"dirt","OTHER","sand",0,"sand","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",FALSE,"baby","child","sprog",0,"baby","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"marijuana","OTHER","weed",0.077,"weed","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"boot","OTHER","work boot",0.017,"work boot","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",FALSE,"city","city","town",0,"city","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"couch","couch","sofa",0.2,"sofa","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",FALSE,"thief","thief","robber",0.586,"thief","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",FALSE,"cook","cook","chef",0.564,"cook","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"artist","OTHER","artist",0.569,"artist","male",26,4,5.5,5.5,3,5.5
+"p607196","robot.trust",TRUE,"factory","factory","pollution",0.017,"pollution","male",26,4,5.5,5.5,3,5.5
+"p618707","human",TRUE,"teacher","OTHER","lecturer",0.055,"lecturer","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"priest","OTHER","priest",0.491,"priest","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"boot","boot","shoe",0.086,"shoe","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"thief","robber","thief",0.121,"thief","female",18,6,5.5,4.5,6,6.5
+"p618707","human",FALSE,"city","buildings","town",0,"city","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"microbes","OTHER","germs",0.207,"germs","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"touchpad","OTHER","tablet",0.569,"tablet","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"knife","knife","dagger",0.074,"dagger","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"wedge","cement","concrete",0.017,"concrete","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"cup","coffee cup","mug",0.121,"mug","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"sphere","sphere","ball",0.103,"ball","female",18,6,5.5,4.5,6,6.5
+"p618707","human",FALSE,"baby","baby","sprog",0,"baby","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"socket","face","socket",0.091,"socket","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"people","group of people","people",0.473,"people","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"moth","butterfly","insect",0,"insect","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"dog","dog","wolf",0,"wolf","female",18,6,5.5,4.5,6,6.5
+"p618707","human",FALSE,"USB","usb stick","memory stick",0.055,"usb stick","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"road","OTHER","avenue",0,"avenue","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"marijuana","cannibis","weed",0.077,"weed","female",18,6,5.5,4.5,6,6.5
+"p618707","human",FALSE,"recycling","rubbish bin","recycling bin",0.055,"rubbish bin","female",18,6,5.5,4.5,6,6.5
+"p618707","human",FALSE,"church","OTHER","church",0.948,"OTHER","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"cook","woman","chef",0.564,"chef","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"king","OTHER","electric chair",0.019,"electric chair","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"rabbit","hare","bunny",0.14,"bunny","female",18,6,5.5,4.5,6,6.5
+"p618707","human",FALSE,"artist","artist","painter",0.31,"artist","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"drugs","pills","drugs",0.121,"drugs","female",18,6,5.5,4.5,6,6.5
+"p618707","human",TRUE,"dirt","dirt","sand",0,"sand","female",18,6,5.5,4.5,6,6.5
+"p620985","human",FALSE,"cattle","cows","cattle",0.138,"cows","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"city","city","buildings",0.276,"city","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",TRUE,"factory","factory","pollution",0.017,"pollution","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",TRUE,"dirt","dirt","sand",0,"sand","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"woman","lady","woman",0.586,"lady","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",TRUE,"touchpad","ipad","touchscreen",0.086,"touchscreen","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"robot","robot","android",0,"robot","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"priest","priest","pastor",0.018,"priest","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"boot","boot","work boot",0.017,"boot","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"artist","artist","painter",0.31,"artist","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",TRUE,"money","coins","money",0.544,"money","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"road","road","avenue",0,"road","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"moth","butterfly","insect",0,"butterfly","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"snake","snake","serpent",0.055,"snake","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",TRUE,"socket","powerpoint","socket",0.091,"socket","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"baby","baby","sprog",0,"baby","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"soldier","soldier","gunman",0.086,"soldier","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"house","house","home",0.018,"house","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"ship","ship","boat",0.517,"ship","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"microbes","bacteria","microorganisms",0.052,"bacteria","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"recycling","wheely bin","recycling bin",0.055,"wheely bin","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",FALSE,"sphere","globe","sphere",0.328,"globe","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",TRUE,"couch","chair","couch",0.745,"couch","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",TRUE,"wedge","cement","concrete",0.017,"concrete","female",22,5.5,3.5,5.5,2.5,3.5
+"p620985","human",TRUE,"drugs","pills","drugs",0.121,"drugs","female",22,5.5,3.5,5.5,2.5,3.5
+"p627947","robot",FALSE,"priest","OTHER","pastor",0.018,"priest","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"woman","female","lady",0.241,"woman","male",19,4.5,4.5,5,4,4
+"p627947","robot",TRUE,"cup","coffee cup","mug",0.121,"mug","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"snake","snake","serpent",0.055,"snake","male",19,4.5,4.5,5,4,4
+"p627947","robot",TRUE,"sphere","globe","sphere",0.328,"sphere","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"microbes","virus","germs",0.207,"bacteria","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"city","city","town",0,"city","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"money","money","coins",0.404,"money","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"ship","boat","ship",0.448,"boat","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"baby","baby","sprog",0,"baby","male",19,4.5,4.5,5,4,4
+"p627947","robot",TRUE,"dog","dog","wolf",0,"wolf","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"knife","knife","dagger",0.074,"knife","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"factory","factory","pollution",0.017,"factory","male",19,4.5,4.5,5,4,4
+"p627947","robot",TRUE,"marijuana","plant","leaf",0.404,"leaf","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"house","house","home",0.018,"house","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"laptop","laptop","computer",0.316,"laptop","male",19,4.5,4.5,5,4,4
+"p627947","robot",TRUE,"road","road","avenue",0,"avenue","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"boot","boot","shoe",0.086,"boot","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"people","people","crowd",0.291,"people","male",19,4.5,4.5,5,4,4
+"p627947","robot",TRUE,"alligator","crocodile","alligator",0.291,"alligator","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"soldier","OTHER","gunman",0.086,"OTHER","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"dirt","dirt","sand",0,"dirt","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"wedge","OTHER","pizza slice",0.017,"concrete","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"couch","couch","sofa",0.2,"chair","male",19,4.5,4.5,5,4,4
+"p627947","robot",TRUE,"king","OTHER","king",0.204,"king","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"artist","artist","painter",0.31,"artist","male",19,4.5,4.5,5,4,4
+"p627947","robot",FALSE,"USB","usb stick","memory stick",0.055,"usb stick","male",19,4.5,4.5,5,4,4
+"p644409","robot",TRUE,"rabbit","rabbit","bunny",0.14,"bunny","male",24,4.5,6,4.5,2,6
+"p644409","robot",FALSE,"baby","baby","kid",0.017,"kid","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"wedge","mortar","concrete",0.017,"concrete","male",24,4.5,6,4.5,2,6
+"p644409","robot",FALSE,"cook","chef","cook",0.164,"chef","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"house","house","home",0.018,"home","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"sphere","globe","ball",0.103,"ball","male",24,4.5,6,4.5,2,6
+"p644409","robot",FALSE,"woman","woman","lady",0.241,"woman","male",24,4.5,6,4.5,2,6
+"p644409","robot",FALSE,"thief","robber","thief",0.121,"thief","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"microbes","bacteria","microorganisms",0.052,"microorganisms","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"city","OTHER","town",0,"town","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"marijuana","marijuana","weed",0.077,"weed","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"USB","flash drive","memory stick",0.055,"memory stick","male",24,4.5,6,4.5,2,6
+"p644409","robot",FALSE,"moth","butterfly","insect",0,"butterfly","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"boot","boot","work boot",0.017,"work boot","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"king","throne","king",0.204,"king","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"drugs","drugs","medicine",0.207,"medicine","male",24,4.5,6,4.5,2,6
+"p644409","robot",FALSE,"recycling","bin","rubbish bin",0.527,"bin","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"mouse","mouse","rat",0.211,"rat","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"cup","cup","mug",0.121,"mug","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"road","road","avenue",0,"avenue","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"dirt","dirt","sand",0,"sand","male",24,4.5,6,4.5,2,6
+"p644409","robot",FALSE,"ship","boat","ship",0.448,"boat","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"socket","OTHER","socket",0.091,"socket","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"touchpad","tablet","touchscreen",0.086,"touchscreen","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"knife","knife","dagger",0.074,"dagger","male",24,4.5,6,4.5,2,6
+"p644409","robot",TRUE,"soldier","soldier","gunman",0.086,"gunman","male",24,4.5,6,4.5,2,6
+"p652815","robot.trust",TRUE,"touchpad","tablet","touchscreen",0.086,"touchscreen","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"king","OTHER","king",0.204,"king","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",FALSE,"boot","boot","work boot",0.017,"boot","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"dirt","OTHER","gravel",0.052,"gravel","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"microbes","bacteria","microorganisms",0.052,"microorganisms","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",FALSE,"moth","butterfly","insect",0,"butterfly","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"thief","robber","thief",0.121,"thief","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"socket","powerpoint","face",0.164,"face","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"city","OTHER","buildings",0.276,"buildings","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"soldier","OTHER","soldier",0.328,"soldier","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"cup","OTHER","mug",0.121,"mug","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"recycling","wheely bin","recycling bin",0.055,"recycling bin","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"wedge","concrete","pizza slice",0.017,"pizza slice","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"cook","OTHER","chef",0.564,"chef","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"baby","baby","kid",0.017,"kid","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"people","group of people","people",0.473,"people","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"road","OTHER","highway",0,"highway","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"USB","OTHER","usb stick",0.418,"usb stick","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"cattle","OTHER","cattle",0.138,"cattle","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",FALSE,"snake","snake","serpent",0.055,"snake","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"ship","ship","boat",0.517,"boat","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"couch","arm chair","sofa",0.2,"sofa","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",FALSE,"factory","factory","pollution",0.017,"factory","male",27,4.5,4,5,2.5,3.5
+"p652815","robot.trust",TRUE,"sphere","OTHER","ball",0.103,"ball","male",27,4.5,4,5,2.5,3.5
+"p655590","robot.trust",FALSE,"microbes","bacteria","microorganisms",0.052,"bacteria","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"people","people","crowd",0.291,"crowd","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"king","OTHER","electric chair",0.019,"OTHER","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"touchpad","OTHER","touchscreen",0.086,"OTHER","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"marijuana","weed","leaf",0.404,"marijuana","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"thief","robber","thief",0.121,"thief","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"factory","pollution","factory",0.862,"factory","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"drugs","pills","medicine",0.207,"medicine","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"baby","baby","kid",0.017,"baby","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"wedge","mortar","concrete",0.017,"mortar","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"laptop","computer","laptop",0.667,"laptop","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"alligator","crocodile","alligator",0.291,"alligator","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"money","coins","money",0.544,"money","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"cup","cup","mug",0.121,"cup","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"city","skyscrapers","buildings",0.276,"buildings","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"priest","OTHER","pastor",0.018,"pastor","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"road","road","avenue",0,"avenue","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"knife","knife","dagger",0.074,"OTHER","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"dog","dog","wolf",0,"dog","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"USB","OTHER","memory stick",0.055,"OTHER","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"socket","plug","socket",0.091,"socket","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"cattle","beef","cows",0.621,"cows","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"mouse","mouse","rat",0.211,"mouse","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"snake","serpent","snake",0.891,"snake","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"cook","baker","cook",0.164,"chef","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"dirt","OTHER","gravel",0.052,"gravel","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"robot","robot","android",0,"robot","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",TRUE,"sphere","sphere","ball",0.103,"ball","male",32,4.5,6,3.5,6,2.5
+"p655590","robot.trust",FALSE,"boot","OTHER","work boot",0.017,"boot","male",32,4.5,6,3.5,6,2.5
+"p667888","human",TRUE,"cattle","farm","cows",0.621,"cows","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"ship","ship","boat",0.517,"boat","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"king","king","electric chair",0.019,"electric chair","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"church","church","cathedral",0,"cathedral","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"microbes","bacteria","germs",0.207,"germs","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"house","house","home",0.018,"home","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"USB","flash drive","memory stick",0.055,"memory stick","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"artist","artist","painter",0.31,"painter","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"rabbit","rabbit","bunny",0.14,"bunny","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"marijuana","marijuana","weed",0.077,"weed","male",23,4.5,6,2.5,4,5.5
+"p667888","human",FALSE,"city","city","town",0,"city","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"dirt","OTHER","sand",0,"sand","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"socket","OTHER","face",0.164,"face","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"priest","priest","pastor",0.018,"pastor","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"woman","woman","lady",0.241,"lady","male",23,4.5,6,2.5,4,5.5
+"p667888","human",FALSE,"boot","boot","shoe",0.086,"boot","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"cup","mug","cup",0.379,"cup","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"drugs","medicine","drugs",0.121,"drugs","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"road","road","avenue",0,"avenue","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"touchpad","touchscreen","tablet",0.569,"tablet","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"dog","dog","wolf",0,"wolf","male",23,4.5,6,2.5,4,5.5
+"p667888","human",FALSE,"factory","factory","pollution",0.017,"factory","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"wedge","OTHER","concrete",0.017,"concrete","male",23,4.5,6,2.5,4,5.5
+"p667888","human",TRUE,"baby","baby","sprog",0,"sprog","male",23,4.5,6,2.5,4,5.5
+"p67154","robot.trust",FALSE,"city","city","town",0,"city","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",TRUE,"teacher","OTHER","teacher",0.564,"teacher","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",TRUE,"knife","OTHER","knife",0.741,"knife","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"USB","usb stick","memory stick",0.055,"OTHER","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"microbes","bacteria","microorganisms",0.052,"germs","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"dirt","dirt","gravel",0.052,"dirt","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",TRUE,"factory","OTHER","factory",0.862,"factory","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"cup","tea cup","mug",0.121,"cup","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"money","coins","money",0.544,"coins","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",TRUE,"alligator","alligator","crocodile",0.709,"crocodile","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",TRUE,"marijuana","OTHER","leaf",0.404,"leaf","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"moth","butterfly","insect",0,"butterfly","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"cook","baker","cook",0.164,"chef","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",TRUE,"socket","plug","socket",0.091,"socket","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"thief","robber","thief",0.121,"robber","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",TRUE,"sphere","OTHER","sphere",0.328,"sphere","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"drugs","pills","drugs",0.121,"pills","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",TRUE,"wedge","OTHER","concrete",0.017,"concrete","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"woman","woman","lady",0.241,"woman","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"soldier","OTHER","gunman",0.086,"OTHER","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"church","church","cathedral",0,"church","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"baby","baby","kid",0.017,"baby","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"dog","dog","wolf",0,"dog","female",24,6,6,6,5.5,4.5
+"p67154","robot.trust",FALSE,"house","house","home",0.018,"house","female",24,6,6,6,5.5,4.5
+"p690205","human",TRUE,"king","OTHER","electric chair",0.019,"electric chair","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"knife","knife","dagger",0.074,"dagger","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"microbes","bacteria","germs",0.207,"germs","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"marijuana","marijuana","weed",0.077,"weed","male",20,5,4.5,6,3.5,4
+"p690205","human",FALSE,"road","road","avenue",0,"road","male",20,5,4.5,6,3.5,4
+"p690205","human",FALSE,"dirt","OTHER","gravel",0.052,"OTHER","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"cattle","OTHER","cows",0.621,"cows","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"thief","thief","robber",0.586,"robber","male",20,5,4.5,6,3.5,4
+"p690205","human",FALSE,"drugs","medicine","drugs",0.121,"medicine","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"sphere","OTHER","ball",0.103,"ball","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"wedge","OTHER","concrete",0.017,"concrete","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"recycling","rubbish bin","recycling bin",0.055,"recycling bin","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"city","skyscrapers","town",0,"town","male",20,5,4.5,6,3.5,4
+"p690205","human",FALSE,"baby","toddler","kid",0.017,"toddler","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"socket","OTHER","face",0.164,"face","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"dog","dog","wolf",0,"wolf","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"money","money","coins",0.404,"coins","male",20,5,4.5,6,3.5,4
+"p690205","human",FALSE,"mouse","mouse","rat",0.211,"mouse","male",20,5,4.5,6,3.5,4
+"p690205","human",FALSE,"boot","boot","shoe",0.086,"boot","male",20,5,4.5,6,3.5,4
+"p690205","human",FALSE,"house","house","home",0.018,"house","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","male",20,5,4.5,6,3.5,4
+"p690205","human",FALSE,"couch","couch","sofa",0.2,"couch","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"factory","factory","pollution",0.017,"pollution","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"touchpad","touchscreen","tablet",0.569,"tablet","male",20,5,4.5,6,3.5,4
+"p690205","human",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"woman","OTHER","woman",0.586,"woman","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"cook","woman","cook",0.164,"cook","male",20,5,4.5,6,3.5,4
+"p690205","human",TRUE,"artist","artist","painter",0.31,"painter","male",20,5,4.5,6,3.5,4
+"p702270","robot.trust",TRUE,"USB","OTHER","memory stick",0.055,"memory stick","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"artist","painter","artist",0.569,"artist","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"church","church","cathedral",0,"cathedral","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"socket","OTHER","socket",0.091,"socket","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",FALSE,"couch","chair","couch",0.745,"chair","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"dirt","OTHER","sand",0,"sand","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"knife","dagger","knife",0.741,"knife","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",FALSE,"snake","snake","serpent",0.055,"snake","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"drugs","pills","medicine",0.207,"medicine","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"money","money","coins",0.404,"coins","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",FALSE,"ship","boat","ship",0.448,"boat","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"recycling","wheely bin","rubbish bin",0.527,"rubbish bin","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",FALSE,"baby","baby","sprog",0,"baby","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"road","road","highway",0,"highway","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"microbes","germs","microorganisms",0.052,"microorganisms","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",FALSE,"mouse","rat","mouse",0.754,"rat","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"teacher","OTHER","lecturer",0.055,"lecturer","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"cup","OTHER","cup",0.379,"cup","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"marijuana","marijuana","leaf",0.404,"leaf","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",FALSE,"woman","woman","lady",0.241,"woman","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"wedge","OTHER","concrete",0.017,"concrete","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"people","crowd","people",0.473,"people","female",18,3,4.5,6,3.5,2.5
+"p702270","robot.trust",TRUE,"city","city","buildings",0.276,"buildings","female",18,3,4.5,6,3.5,2.5
+"p755289","robot",FALSE,"factory","OTHER","pollution",0.017,"factory","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"priest","OTHER","priest",0.491,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"socket","OTHER","socket",0.091,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"USB","usb drive","usb stick",0.418,"flash drive","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"money","coins","money",0.544,"coins","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"teacher","OTHER","teacher",0.564,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"robot","robot","android",0,"robot","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",TRUE,"woman","OTHER","woman",0.586,"woman","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"soldier","OTHER","gunman",0.086,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"church","church","cathedral",0,"church","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"wedge","OTHER","concrete",0.017,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"laptop","laptop","computer",0.316,"laptop","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"mouse","OTHER","rat",0.211,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",TRUE,"king","OTHER","king",0.204,"king","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"recycling","OTHER","rubbish bin",0.527,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"sphere","sphere","ball",0.103,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"baby","baby","kid",0.017,"baby","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",TRUE,"dirt","OTHER","sand",0,"sand","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"cup","cup","mug",0.121,"cup","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"house","house","home",0.018,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"microbes","microorganisms","germs",0.207,"microorganisms","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"ship","ship","boat",0.517,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"boot","boot","shoe",0.086,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"drugs","pills","drugs",0.121,"pills","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"road","road","avenue",0,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p755289","robot",FALSE,"city","high-rise buildings","town",0,"OTHER","male",25,1.5,4,4.5,1.5,5.5
+"p780407","human",TRUE,"church","OTHER","cathedral",0,"cathedral","male",21,7,5.5,4.5,6,5
+"p780407","human",FALSE,"baby","baby","sprog",0,"baby","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"soldier","soldier","gunman",0.086,"gunman","male",21,7,5.5,4.5,6,5
+"p780407","human",FALSE,"boot","boot","work boot",0.017,"boot","male",21,7,5.5,4.5,6,5
+"p780407","human",FALSE,"mouse","mouse","rat",0.211,"mouse","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"recycling","bin","rubbish bin",0.527,"rubbish bin","male",21,7,5.5,4.5,6,5
+"p780407","human",FALSE,"cook","chef","cook",0.164,"chef","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"wedge","grout","pizza slice",0.017,"pizza slice","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"thief","burglar","thief",0.121,"thief","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"drugs","medicine","drugs",0.121,"drugs","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"laptop","laptop","computer",0.316,"computer","male",21,7,5.5,4.5,6,5
+"p780407","human",FALSE,"road","road","avenue",0,"road","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"king","OTHER","king",0.204,"king","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"alligator","alligator","crocodile",0.709,"crocodile","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"microbes","bacteria","germs",0.207,"germs","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"USB","OTHER","usb stick",0.418,"usb stick","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"dirt","soil","gravel",0.052,"gravel","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"cup","cup","mug",0.121,"mug","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"ship","boat","ship",0.448,"ship","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"sphere","OTHER","sphere",0.328,"sphere","male",21,7,5.5,4.5,6,5
+"p780407","human",FALSE,"people","people","crowd",0.291,"people","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"teacher","OTHER","teacher",0.564,"teacher","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"touchpad","ipad","touchscreen",0.086,"touchscreen","male",21,7,5.5,4.5,6,5
+"p780407","human",FALSE,"snake","snake","serpent",0.055,"snake","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"robot","robot","android",0,"android","male",21,7,5.5,4.5,6,5
+"p780407","human",TRUE,"city","cityscape","buildings",0.276,"buildings","male",21,7,5.5,4.5,6,5
+"p78253","robot.trust",TRUE,"ship","OTHER","ship",0.448,"ship","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",TRUE,"couch","sofa","couch",0.745,"couch","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"woman","woman","lady",0.241,"woman","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"road","road","avenue",0,"road","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"church","church","cathedral",0,"church","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"city","city","buildings",0.276,"city","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"mouse","mouse","rat",0.211,"mouse","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"wedge","cement","concrete",0.017,"cement","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"baby","baby","sprog",0,"baby","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"dog","OTHER","wolf",0,"dog","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"soldier","soldier","gunman",0.086,"soldier","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"house","house","home",0.018,"house","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"moth","butterfly","insect",0,"butterfly","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"laptop","laptop","computer",0.316,"laptop","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"cup","OTHER","mug",0.121,"OTHER","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",TRUE,"socket","OTHER","socket",0.091,"socket","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",TRUE,"sphere","globe","ball",0.103,"ball","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",TRUE,"touchpad","tablet","touchscreen",0.086,"touchscreen","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"knife","knife","dagger",0.074,"knife","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",TRUE,"dirt","dirt","gravel",0.052,"gravel","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"cattle","OTHER","cattle",0.138,"OTHER","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"microbes","bacteria","microorganisms",0.052,"bacteria","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"USB","usb drive","memory stick",0.055,"usb drive","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","male",19,6.5,4.5,2.5,5,7
+"p78253","robot.trust",FALSE,"recycling","rubbish bin","recycling bin",0.055,"rubbish bin","male",19,6.5,4.5,2.5,5,7
+"p788262","human",TRUE,"USB","flash drive","memory stick",0.055,"memory stick","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"thief","robber","thief",0.121,"thief","male",24,5,4.5,5.5,3,4
+"p788262","human",FALSE,"soldier","soldier","gunman",0.086,"soldier","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"knife","knife","dagger",0.074,"dagger","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"priest","OTHER","priest",0.491,"priest","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"socket","OTHER","socket",0.091,"socket","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"king","OTHER","king",0.204,"king","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"woman","woman","lady",0.241,"lady","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"recycling","rubbish bin","recycling bin",0.055,"recycling bin","male",24,5,4.5,5.5,3,4
+"p788262","human",FALSE,"house","house","home",0.018,"house","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"microbes","bacteria","microorganisms",0.052,"microorganisms","male",24,5,4.5,5.5,3,4
+"p788262","human",FALSE,"road","road","avenue",0,"OTHER","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"moth","butterfly","insect",0,"insect","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"cup","coffee","cup",0.379,"cup","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"touchpad","touchscreen","tablet",0.569,"tablet","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"dirt","dirt","sand",0,"sand","male",24,5,4.5,5.5,3,4
+"p788262","human",FALSE,"baby","toddler","kid",0.017,"child","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"sphere","sphere","ball",0.103,"ball","male",24,5,4.5,5.5,3,4
+"p788262","human",FALSE,"marijuana","cannibis","weed",0.077,"OTHER","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"rabbit","rabbit","bunny",0.14,"bunny","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"cook","baker","cook",0.164,"cook","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"teacher","OTHER","lecturer",0.055,"lecturer","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"artist","OTHER","painter",0.31,"painter","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"mouse","mouse","rat",0.211,"rat","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"boot","boot","work boot",0.017,"work boot","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"ship","ship","boat",0.517,"boat","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"wedge","cement","concrete",0.017,"concrete","male",24,5,4.5,5.5,3,4
+"p788262","human",TRUE,"drugs","drugs","medicine",0.207,"medicine","male",24,5,4.5,5.5,3,4
+"p806487","robot",TRUE,"cattle","herd","cattle",0.138,"cattle","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"dirt","dirt","gravel",0.052,"gravel","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",FALSE,"king","OTHER","electric chair",0.019,"electric chair","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",FALSE,"church","church","cathedral",0,"church","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"soldier","OTHER","gunman",0.086,"gunman","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"microbes","bacteria","microorganisms",0.052,"microorganisms","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",FALSE,"boot","shoe","work boot",0.017,"boot","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"alligator","crocodile","alligator",0.291,"alligator","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"city","city","town",0,"town","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",FALSE,"woman","woman","lady",0.241,"woman","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"touchpad","tablet","touchscreen",0.086,"touchscreen","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"drugs","pills","drugs",0.121,"drugs","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"moth","butterfly","insect",0,"insect","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",FALSE,"USB","usb stick","memory stick",0.055,"usb stick","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"recycling","bin","rubbish bin",0.527,"rubbish bin","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"knife","knife","dagger",0.074,"dagger","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"money","coins","money",0.544,"money","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"cook","chef","cook",0.164,"cook","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"thief","thief","robber",0.586,"robber","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",FALSE,"factory","factory","pollution",0.017,"factory","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"house","house","home",0.018,"home","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"dog","OTHER","wolf",0,"wolf","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"socket","powerpoint","socket",0.091,"socket","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"wedge","OTHER","concrete",0.017,"concrete","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"priest","OTHER","pastor",0.018,"pastor","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",TRUE,"sphere","sphere","ball",0.103,"ball","female",20,4.5,5.5,4.5,5.5,6
+"p806487","robot",FALSE,"baby","baby","kid",0.017,"baby","female",20,4.5,5.5,4.5,5.5,6
+"p806611","robot.trust",TRUE,"sphere","OTHER","sphere",0.328,"sphere","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"alligator","crocodile","alligator",0.291,"crocodile","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"wedge","cement","pizza slice",0.017,"pizza slice","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"drugs","pills","drugs",0.121,"drugs","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"snake","snake","serpent",0.055,"snake","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"knife","dagger","knife",0.741,"knife","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"ship","boat","ship",0.448,"ship","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"money","money","coins",0.404,"coins","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"thief","burglar","robber",0.586,"burglar","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"recycling","wheely bin","rubbish bin",0.527,"wheely bin","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"dog","OTHER","dog",0.914,"dog","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"cattle","stock","cows",0.621,"cows","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"king","OTHER","king",0.204,"king","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"road","road","avenue",0,"highway","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"marijuana","marijuana","leaf",0.404,"pot","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"laptop","laptop","computer",0.316,"computer","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"priest","OTHER","pastor",0.018,"OTHER","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"USB","usb stick","memory stick",0.055,"usb stick","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"cup","OTHER","mug",0.121,"mug","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"dirt","OTHER","sand",0,"sand","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"factory","factory","pollution",0.017,"factory","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"people","group of people","crowd",0.291,"crowd","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"couch","couch","sofa",0.2,"couch","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"city","city","town",0,"city","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"artist","painter","artist",0.569,"artist","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","male",36,5,5.5,4,3,6
+"p806611","robot.trust",TRUE,"baby","baby","sprog",0,"sprog","male",36,5,5.5,4,3,6
+"p806611","robot.trust",FALSE,"house","house","home",0.018,"house","male",36,5,5.5,4,3,6
+"p819229","robot.trust",TRUE,"dirt","OTHER","sand",0,"sand","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"USB","OTHER","memory stick",0.055,"memory stick","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"cup","coffee","mug",0.121,"mug","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"artist","painter","artist",0.569,"painter","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"thief","OTHER","robber",0.586,"OTHER","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"sphere","circle","sphere",0.328,"sphere","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"king","king","electric chair",0.019,"electric chair","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"ship","ship","boat",0.517,"ship","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"church","church","cathedral",0,"church","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"house","house","home",0.018,"house","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"priest","priest","pastor",0.018,"priest","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"wedge","OTHER","concrete",0.017,"concrete","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"microbes","cells","germs",0.207,"germs","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"baby","baby","sprog",0,"baby","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"road","OTHER","avenue",0,"avenue","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"cattle","cows","cattle",0.138,"cattle","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"touchpad","touchscreen","tablet",0.569,"tablet","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"factory","factory","pollution",0.017,"pollution","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"dog","dog","wolf",0,"wolf","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"woman","woman","lady",0.241,"woman","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"drugs","medication","medicine",0.207,"medication","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",FALSE,"city","buildings","town",0,"buildings","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"socket","OTHER","face",0.164,"face","female",19,4.5,5,4.5,4,4.5
+"p819229","robot.trust",TRUE,"marijuana","plant","weed",0.077,"weed","female",19,4.5,5,4.5,4,4.5
+"p854812","human",FALSE,"church","church","cathedral",0,"church","female",22,3,4,6,1,6
+"p854812","human",FALSE,"house","house","home",0.018,"house","female",22,3,4,6,1,6
+"p854812","human",FALSE,"boot","boot","shoe",0.086,"boot","female",22,3,4,6,1,6
+"p854812","human",FALSE,"dirt","OTHER","gravel",0.052,"dirt","female",22,3,4,6,1,6
+"p854812","human",TRUE,"woman","woman","lady",0.241,"lady","female",22,3,4,6,1,6
+"p854812","human",TRUE,"touchpad","tablet","touchscreen",0.086,"touchscreen","female",22,3,4,6,1,6
+"p854812","human",FALSE,"drugs","pills","drugs",0.121,"medicine","female",22,3,4,6,1,6
+"p854812","human",TRUE,"sphere","ball","sphere",0.328,"sphere","female",22,3,4,6,1,6
+"p854812","human",TRUE,"dog","canine","wolf",0,"wolf","female",22,3,4,6,1,6
+"p854812","human",TRUE,"cup","tea","mug",0.121,"mug","female",22,3,4,6,1,6
+"p854812","human",FALSE,"knife","knife","dagger",0.074,"knife","female",22,3,4,6,1,6
+"p854812","human",FALSE,"factory","factory","pollution",0.017,"factory","female",22,3,4,6,1,6
+"p854812","human",TRUE,"rabbit","rabbit","bunny",0.14,"bunny","female",22,3,4,6,1,6
+"p854812","human",FALSE,"USB","usb stick","memory stick",0.055,"usb stick","female",22,3,4,6,1,6
+"p854812","human",FALSE,"baby","baby","kid",0.017,"baby","female",22,3,4,6,1,6
+"p854812","human",FALSE,"thief","robber","thief",0.121,"robber","female",22,3,4,6,1,6
+"p854812","human",FALSE,"alligator","crocodile","alligator",0.291,"crocodile","female",22,3,4,6,1,6
+"p854812","human",TRUE,"money","money","coins",0.404,"money","female",22,3,4,6,1,6
+"p854812","human",TRUE,"ship","OTHER","boat",0.517,"boat","female",22,3,4,6,1,6
+"p854812","human",FALSE,"cook","chef","cook",0.164,"chef","female",22,3,4,6,1,6
+"p854812","human",TRUE,"soldier","soldier","gunman",0.086,"gunman","female",22,3,4,6,1,6
+"p854812","human",FALSE,"priest","minister","pastor",0.018,"minister","female",22,3,4,6,1,6
+"p854812","human",TRUE,"wedge","OTHER","concrete",0.017,"concrete","female",22,3,4,6,1,6
+"p854812","human",TRUE,"microbes","bacteria","microorganisms",0.052,"microorganisms","female",22,3,4,6,1,6
+"p854812","human",TRUE,"recycling","wheely bin","rubbish bin",0.527,"rubbish bin","female",22,3,4,6,1,6
+"p854812","human",TRUE,"marijuana","marijuana","leaf",0.404,"leaf","female",22,3,4,6,1,6
+"p854812","human",TRUE,"city","city","town",0,"town","female",22,3,4,6,1,6
+"p854812","human",FALSE,"moth","butterfly","insect",0,"butterfly","female",22,3,4,6,1,6
+"p854812","human",TRUE,"king","monarch","electric chair",0.019,"electric chair","female",22,3,4,6,1,6
+"p863623","human",TRUE,"socket","plug","face",0.164,"face","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"sphere","sphere","ball",0.103,"ball","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"king","OTHER","electric chair",0.019,"electric chair","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"robot","robot","android",0,"android","female",30,6,7,5,4,4.5
+"p863623","human",FALSE,"cook","OTHER","cook",0.164,"chef","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"boot","boot","work boot",0.017,"work boot","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"dog","kangaroo","dog",0.914,"dog","female",30,6,7,5,4,4.5
+"p863623","human",FALSE,"teacher","whiteboard","teacher",0.564,"whiteboard","female",30,6,7,5,4,4.5
+"p863623","human",FALSE,"people","people","crowd",0.291,"people","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"drugs","tablets","medicine",0.207,"medicine","female",30,6,7,5,4,4.5
+"p863623","human",FALSE,"baby","baby","kid",0.017,"baby","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"rabbit","bunny","rabbit",0.807,"rabbit","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"wedge","OTHER","concrete",0.017,"concrete","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"factory","factory","pollution",0.017,"pollution","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"laptop","laptop","computer",0.316,"computer","female",30,6,7,5,4,4.5
+"p863623","human",FALSE,"church","church","cathedral",0,"church","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"road","OTHER","highway",0,"highway","female",30,6,7,5,4,4.5
+"p863623","human",FALSE,"cattle","cows","cattle",0.138,"cows","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"dirt","dirt","sand",0,"sand","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"knife","OTHER","knife",0.741,"knife","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"thief","burglar","robber",0.586,"robber","female",30,6,7,5,4,4.5
+"p863623","human",FALSE,"artist","painter","artist",0.569,"painter","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"touchpad","OTHER","touchscreen",0.086,"touchscreen","female",30,6,7,5,4,4.5
+"p863623","human",TRUE,"microbes","germs","microorganisms",0.052,"microorganisms","female",30,6,7,5,4,4.5
+"p863623","human",FALSE,"city","buildings","town",0,"city","female",30,6,7,5,4,4.5
+"p877813","human",TRUE,"mouse","mouse","rat",0.211,"rat","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"church","church","cathedral",0,"church","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"king","OTHER","electric chair",0.019,"electric chair","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"house","house","home",0.018,"house","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"snake","OTHER","serpent",0.055,"serpent","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"woman","woman","lady",0.241,"lady","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"marijuana","marijuana","weed",0.077,"marijuana","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"road","road","avenue",0,"road","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"USB","usb stick","memory stick",0.055,"memory stick","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"recycling","bin","rubbish bin",0.527,"bin","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"teacher","teacher","lecturer",0.055,"lecturer","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"drugs","medication","medicine",0.207,"medication","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"people","group of people","people",0.473,"group of people","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"touchpad","ipad","tablet",0.569,"ipad","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"socket","face","socket",0.091,"socket","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"microbes","cells","microorganisms",0.052,"microorganisms","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"couch","couch","sofa",0.2,"couch","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"ship","boat","ship",0.448,"ship","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"dirt","dirt","gravel",0.052,"gravel","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"baby","baby","sprog",0,"baby","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"laptop","laptop","computer",0.316,"laptop","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"moth","butterfly","insect",0,"butterfly","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","male",18,4.5,6.5,6,5.5,6
+"p877813","human",FALSE,"boot","boot","shoe",0.086,"boot","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"knife","knife","dagger",0.074,"dagger","male",18,4.5,6.5,6,5.5,6
+"p877813","human",TRUE,"city","cityscape","buildings",0.276,"buildings","male",18,4.5,6.5,6,5.5,6
+"p887007","robot.trust",FALSE,"cook","chef","cook",0.164,"chef","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",TRUE,"knife","OTHER","knife",0.741,"knife","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",TRUE,"mouse","rat","mouse",0.754,"mouse","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",TRUE,"priest","OTHER","priest",0.491,"priest","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",TRUE,"city","city","town",0,"town","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"dog","dog","wolf",0,"dog","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"money","money","coins",0.404,"money","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"couch","couch","sofa",0.2,"couch","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"recycling","rubbish bin","recycling bin",0.055,"rubbish bin","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"road","ladder","avenue",0,"ladder","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"thief","robber","thief",0.121,"robber","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"wedge","OTHER","concrete",0.017,"OTHER","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"dirt","dirt","gravel",0.052,"dirt","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"house","house","home",0.018,"house","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"factory","factory","pollution",0.017,"factory","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",TRUE,"king","OTHER","electric chair",0.019,"electric chair","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"drugs","pills","drugs",0.121,"pills","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"woman","woman","lady",0.241,"woman","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"microbes","bacteria","germs",0.207,"bacteria","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"artist","painter","artist",0.569,"painter","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",TRUE,"socket","OTHER","face",0.164,"face","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"baby","baby","kid",0.017,"baby","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"cup","tea","mug",0.121,"tea","female",18,4.5,5.5,5,5,4.5
+"p887007","robot.trust",FALSE,"teacher","teacher","lecturer",0.055,"teacher","female",18,4.5,5.5,5,5,4.5
+"p896142","robot",TRUE,"soldier","OTHER","gunman",0.086,"gunman","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",TRUE,"mouse","rat","mouse",0.754,"mouse","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"rabbit","bunny","rabbit",0.807,"bunny","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"moth","butterfly","insect",0,"butterfly","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"wedge","OTHER","concrete",0.017,"cement","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"house","house","home",0.018,"house","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"cook","chef","cook",0.164,"chef","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",TRUE,"knife","knife","dagger",0.074,"dagger","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"ship","boat","ship",0.448,"boat","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",TRUE,"marijuana","OTHER","weed",0.077,"weed","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",TRUE,"socket","OTHER","socket",0.091,"socket","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"boot","boot","work boot",0.017,"boot","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",TRUE,"sphere","OTHER","ball",0.103,"ball","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",TRUE,"king","OTHER","king",0.204,"king","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"road","ladder","avenue",0,"street","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",TRUE,"teacher","OTHER","lecturer",0.055,"lecturer","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"thief","robber","thief",0.121,"robber","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",TRUE,"cup","cup","mug",0.121,"mug","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"recycling","rubbish bin","recycling bin",0.055,"rubbish bin","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"drugs","pills","drugs",0.121,"pills","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"dirt","dirt","sand",0,"dirt","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"woman","woman","lady",0.241,"woman","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"USB","OTHER","memory stick",0.055,"usb stick","male",22,5.5,5.5,5.5,2,6
+"p896142","robot",FALSE,"baby","baby","kid",0.017,"baby","male",22,5.5,5.5,5.5,2,6
+"p907596","robot.trust",TRUE,"king","OTHER","king",0.204,"king","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"money","money","coins",0.404,"coins","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",FALSE,"rabbit","OTHER","bunny",0.14,"rabbit","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"soldier","OTHER","gunman",0.086,"gunman","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"robot","robot","android",0,"android","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"road","road","avenue",0,"avenue","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",FALSE,"USB","usb drive","usb stick",0.418,"usb drive","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",FALSE,"laptop","laptop","computer",0.316,"laptop","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"drugs","pills","drugs",0.121,"drugs","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"microbes","cells","microorganisms",0.052,"microorganisms","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"city","buildings","town",0,"town","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"sphere","OTHER","sphere",0.328,"sphere","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"dirt","OTHER","sand",0,"sand","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",FALSE,"wedge","OTHER","concrete",0.017,"cement","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",FALSE,"house","house","home",0.018,"house","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"woman","lady","woman",0.586,"woman","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"factory","factory","pollution",0.017,"pollution","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"socket","OTHER","socket",0.091,"socket","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",FALSE,"baby","baby","kid",0.017,"child","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"ship","ship","boat",0.517,"boat","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",FALSE,"church","church","cathedral",0,"church","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"people","OTHER","people",0.473,"people","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"thief","OTHER","thief",0.121,"thief","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"teacher","OTHER","teacher",0.564,"teacher","female",19,4.5,5.5,6,4,5.5
+"p907596","robot.trust",TRUE,"cup","coffee cup","cup",0.379,"cup","female",19,4.5,5.5,6,4,5.5
+"p931664","human",FALSE,"baby","baby","sprog",0,"baby","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"sphere","OTHER","sphere",0.328,"sphere","female",23,4,5.5,5,7,5
+"p931664","human",FALSE,"cup","mug","cup",0.379,"mug","female",23,4,5.5,5,7,5
+"p931664","human",FALSE,"church","church","cathedral",0,"church","female",23,4,5.5,5,7,5
+"p931664","human",FALSE,"microbes","bacteria","microorganisms",0.052,"bacteria","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"factory","factory","pollution",0.017,"pollution","female",23,4,5.5,5,7,5
+"p931664","human",FALSE,"laptop","laptop","computer",0.316,"laptop","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"mouse","mouse","rat",0.211,"rat","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",23,4,5.5,5,7,5
+"p931664","human",FALSE,"house","house","home",0.018,"house","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"dirt","dirt","gravel",0.052,"gravel","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"teacher","OTHER","teacher",0.564,"teacher","female",23,4,5.5,5,7,5
+"p931664","human",FALSE,"thief","burglar","robber",0.586,"burglar","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"city","OTHER","buildings",0.276,"buildings","female",23,4,5.5,5,7,5
+"p931664","human",FALSE,"rabbit","bunny","rabbit",0.807,"bunny","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"woman","woman","lady",0.241,"lady","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"touchpad","ipad","tablet",0.569,"tablet","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"socket","OTHER","socket",0.091,"socket","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"knife","knife","dagger",0.074,"dagger","female",23,4,5.5,5,7,5
+"p931664","human",FALSE,"boot","boot","shoe",0.086,"boot","female",23,4,5.5,5,7,5
+"p931664","human",FALSE,"cook","chef","cook",0.164,"chef","female",23,4,5.5,5,7,5
+"p931664","human",FALSE,"alligator","crocodile","alligator",0.291,"crocodile","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"snake","snake","serpent",0.055,"serpent","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"wedge","plaster","pizza slice",0.017,"pizza slice","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"king","OTHER","king",0.204,"king","female",23,4,5.5,5,7,5
+"p931664","human",TRUE,"road","ladder","highway",0,"highway","female",23,4,5.5,5,7,5
+"p936626","robot",FALSE,"teacher","OTHER","teacher",0.564,"OTHER","female",28,3.5,6,5,4,3.5
+"p936626","robot",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"factory","factory","pollution",0.017,"factory","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"laptop","computer","laptop",0.667,"computer","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"recycling","wheely bin","recycling bin",0.055,"wheely bin","female",28,3.5,6,5,4,3.5
+"p936626","robot",TRUE,"road","road","highway",0,"highway","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"marijuana","marijuana","leaf",0.404,"marijuana","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"knife","knife","dagger",0.074,"knife","female",28,3.5,6,5,4,3.5
+"p936626","robot",TRUE,"king","OTHER","king",0.204,"king","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"thief","burglar","robber",0.586,"burglar","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"drugs","OTHER","medicine",0.207,"OTHER","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"church","church","cathedral",0,"church","female",28,3.5,6,5,4,3.5
+"p936626","robot",TRUE,"cup","coffee","cup",0.379,"cup","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"house","house","home",0.018,"house","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"woman","lady","woman",0.586,"lady","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"baby","crawling","sprog",0,"crawl","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"mouse","rat","mouse",0.754,"rat","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"city","OTHER","buildings",0.276,"OTHER","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"snake","snake","serpent",0.055,"snake","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"dirt","dirt","gravel",0.052,"dirt","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"alligator","crocodile","alligator",0.291,"crocodile","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"boot","boot","shoe",0.086,"boot","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"cattle","dairy farm","cattle",0.138,"cows","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"rabbit","bunny","rabbit",0.807,"bunny","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"wedge","OTHER","pizza slice",0.017,"mortar","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"sphere","OTHER","sphere",0.328,"OTHER","female",28,3.5,6,5,4,3.5
+"p936626","robot",FALSE,"socket","OTHER","socket",0.091,"OTHER","female",28,3.5,6,5,4,3.5
+"p936626","robot",TRUE,"cook","OTHER","cook",0.164,"cook","female",28,3.5,6,5,4,3.5
+"p978371","robot",TRUE,"cup","cup","mug",0.121,"mug","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"microbes","microorganisms","germs",0.207,"germs","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"artist","painter","artist",0.569,"artist","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",FALSE,"couch","couch","sofa",0.2,"couch","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"money","money","coins",0.404,"coins","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",FALSE,"snake","snake","serpent",0.055,"snake","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",FALSE,"boot","boot","shoe",0.086,"boot","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",FALSE,"teacher","teacher","lecturer",0.055,"teacher","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"road","road","highway",0,"highway","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"priest","OTHER","priest",0.491,"priest","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"mouse","rat","mouse",0.754,"mouse","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"marijuana","leaf","weed",0.077,"weed","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",FALSE,"church","church","cathedral",0,"church","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"soldier","OTHER","soldier",0.328,"soldier","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"wedge","OTHER","concrete",0.017,"concrete","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",FALSE,"ship","boat","ship",0.448,"boat","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"people","crowd","people",0.473,"people","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",FALSE,"knife","knife","dagger",0.074,"knife","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",FALSE,"baby","baby","sprog",0,"baby","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",FALSE,"recycling","bin","rubbish bin",0.527,"bin","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"factory","OTHER","factory",0.862,"factory","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"dirt","OTHER","sand",0,"sand","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"drugs","pills","medicine",0.207,"medicine","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"woman","lady","woman",0.586,"woman","male",26,5.5,7,5.5,6.5,5
+"p978371","robot",TRUE,"touchpad","ipad","touchscreen",0.086,"touchscreen","male",26,5.5,7,5.5,6.5,5
+"p980973","robot.trust",TRUE,"thief","thief","robber",0.586,"robber","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"artist","OTHER","artist",0.569,"artist","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"baby","OTHER","sprog",0,"baby","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"road","train tracks","highway",0,"road","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"drugs","medicine","drugs",0.121,"medicine","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"laptop","computer","laptop",0.667,"laptop","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"touchpad","tablet","touchscreen",0.086,"touchscreen","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"money","coins","money",0.544,"coins","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"dog","dog","wolf",0,"dog","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"socket","OTHER","socket",0.091,"OTHER","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"people","OTHER","crowd",0.291,"crowd","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"factory","factory","pollution",0.017,"factory","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"city","city","buildings",0.276,"city","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"knife","knife","dagger",0.074,"knife","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"dirt","OTHER","sand",0,"sand","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"cattle","OTHER","cows",0.621,"cows","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"sphere","OTHER","ball",0.103,"ball","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"robot","robot","android",0,"robot","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"priest","priest","pastor",0.018,"priest","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"microbes","bacteria","microorganisms",0.052,"bacteria","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"woman","woman","lady",0.241,"lady","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"wedge","OTHER","pizza slice",0.017,"pizza","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"king","OTHER","king",0.204,"king","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"marijuana","OTHER","leaf",0.404,"leaf","female",21,5,4,6,2.5,4
+"p980973","robot.trust",FALSE,"cook","chef","cook",0.164,"chef","female",21,5,4,6,2.5,4
+"p980973","robot.trust",TRUE,"recycling","wheely bin","recycling bin",0.055,"recycling bin","female",21,5,4,6,2.5,4
+"p984191","human",FALSE,"baby","toddler","sprog",0,"infant","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"cup","cup","mug",0.121,"mug","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"snake","OTHER","snake",0.891,"OTHER","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"factory","OTHER","factory",0.862,"factory","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"house","house","home",0.018,"house","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"people","people","crowd",0.291,"group of people","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"knife","OTHER","knife",0.741,"OTHER","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"moth","OTHER","butterfly",0.982,"butterfly","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"artist","OTHER","artist",0.569,"artist","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"teacher","OTHER","teacher",0.564,"teacher","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"wedge","OTHER","pizza slice",0.017,"pizza","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"money","coins","money",0.544,"money","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"drugs","OTHER","drugs",0.121,"drugs","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"road","train tracks","avenue",0,"OTHER","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"woman","female","lady",0.241,"female","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"marijuana","leaf","weed",0.077,"weed","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"USB","OTHER","usb stick",0.418,"memory stick","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"dog","dog","wolf",0,"dog","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"thief","burglar","robber",0.586,"robber","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"boot","boot","shoe",0.086,"boot","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"touchpad","ipad","tablet",0.569,"ipad","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"laptop","laptop","computer",0.316,"laptop","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"ship","boat","ship",0.448,"ship","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"couch","couch","sofa",0.2,"couch","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"city","cityscape","town",0,"city","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"priest","OTHER","pastor",0.018,"pastor","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"recycling","wheely bin","rubbish bin",0.527,"wheely bin","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"dirt","OTHER","sand",0,"dirt","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"alligator","crocodile","alligator",0.291,"crocodile","female",20,4,7,5.5,5,6
+"p984191","human",TRUE,"king","OTHER","king",0.204,"king","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"sphere","OTHER","sphere",0.328,"OTHER","female",20,4,7,5.5,5,6
+"p984191","human",FALSE,"microbes","virus","germs",0.207,"virus","female",20,4,7,5.5,5,6
+"p985648","robot",TRUE,"boot","boot","shoe",0.086,"shoe","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"touchpad","tablet","touchscreen",0.086,"touchscreen","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"road","road","avenue",0,"avenue","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"baby","baby","sprog",0,"baby","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"woman","lady","woman",0.586,"lady","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"dirt","OTHER","sand",0,"soil","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"priest","OTHER","pastor",0.018,"priest","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"wedge","OTHER","concrete",0.017,"concrete","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"cook","OTHER","chef",0.564,"chef","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"cup","cup","mug",0.121,"cup","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"king","OTHER","king",0.204,"king","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"house","house","home",0.018,"house","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"church","church","cathedral",0,"church","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"microbes","bugs","germs",0.207,"germs","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"drugs","pills","medicine",0.207,"pills","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"marijuana","marijuana","weed",0.077,"weed","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"rabbit","bunny","rabbit",0.807,"rabbit","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"city","buildings","town",0,"buildings","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"cattle","cows","cattle",0.138,"OTHER","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"factory","factory","pollution",0.017,"factory","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"artist","artist","painter",0.31,"painter","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"teacher","OTHER","lecturer",0.055,"OTHER","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",FALSE,"ship","ship","boat",0.517,"ship","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"dog","dog","wolf",0,"wolf","female",29,4.5,5.5,4.5,3,6.5
+"p985648","robot",TRUE,"USB","OTHER","memory stick",0.055,"memory stick","female",29,4.5,5.5,4.5,3,6.5
+"p378271","robot.trust",FALSE,"church","OTHER","cathedral",0,"cathedral","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",FALSE,"baby","baby","sprog",0,"baby","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"soldier","soldier","gunman",0.086,"gunman","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",FALSE,"boot","boot","work boot",0.017,"boot","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",FALSE,"mouse","mouse","rat",0.211,"mouse","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"recycling","bin","rubbish bin",0.527,"rubbish bin","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"cook","chef","cook",0.164,"chef","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"wedge","grout","pizza slice",0.017,"pizza slice","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"thief","burglar","thief",0.121,"thief","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"drugs","medicine","drugs",0.121,"drugs","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"laptop","laptop","computer",0.316,"computer","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",FALSE,"road","road","avenue",0,"road","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"king","OTHER","king",0.204,"king","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"alligator","alligator","crocodile",0.709,"crocodile","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",FALSE,"microbes","bacteria","germs",0.207,"germs","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"USB","OTHER","usb stick",0.418,"usb stick","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",FALSE,"dirt","soil","gravel",0.052,"gravel","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"cup","cup","mug",0.121,"mug","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"ship","boat","ship",0.448,"ship","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"sphere","OTHER","sphere",0.328,"sphere","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",FALSE,"people","people","crowd",0.291,"people","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"teacher","OTHER","teacher",0.564,"teacher","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",FALSE,"touchpad","ipad","touchscreen",0.086,"touchscreen","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",FALSE,"snake","snake","serpent",0.055,"snake","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"robot","robot","android",0,"android","male",27,4.5,5.5,5,3.5,4
+"p378271","robot.trust",TRUE,"city","cityscape","buildings",0.276,"buildings","male",27,4.5,5.5,5,3.5,4
+"p987737","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"cook","OTHER","chef",0.564,"chef","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"woman","woman","lady",0.241,"woman","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"people","people","crowd",0.291,"people","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"socket","socket","face",0.164,"face","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"cup","coffee","cup",0.379,"cup","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"boot","shoe","work boot",0.017,"shoe","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"USB","flash drive","usb stick",0.418,"usb stick","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"laptop","computer","laptop",0.667,"computer","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"knife","knife","dagger",0.074,"knife","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"marijuana","marijuana","leaf",0.404,"weed","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"touchpad","tablet","touchscreen",0.086,"tablet","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"microbes","germs","microorganisms",0.052,"bacteria","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"cattle","OTHER","cows",0.621,"cows","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"artist","OTHER","artist",0.569,"artist","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"city","city","buildings",0.276,"buildings","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"dirt","OTHER","sand",0,"dirt","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"dog","dog","wolf",0,"wolf","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"money","money","coins",0.404,"money","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"drugs","drugs","medicine",0.207,"medicine","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"baby","baby","sprog",0,"baby","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"factory","factory","pollution",0.017,"factory","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"sphere","OTHER","ball",0.103,"ball","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"thief","robber","thief",0.121,"robber","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"road","road","highway",0,"road","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"robot","robot","android",0,"robot","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"wedge","OTHER","pizza slice",0.017,"pizza slice","male",22,4,5.5,5.5,4,5
+"p987737","human",TRUE,"priest","OTHER","pastor",0.018,"pastor","male",22,4,5.5,5.5,4,5
+"p987737","human",FALSE,"king","OTHER","king",0.204,"OTHER","male",22,4,5.5,5.5,4,5
+"p109928","robot.trust",FALSE,"king","OTHER","electric chair",0.019,"electric chair","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"knife","knife","dagger",0.074,"dagger","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"microbes","bacteria","germs",0.207,"germs","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"marijuana","marijuana","weed",0.077,"weed","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"road","road","avenue",0,"road","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",FALSE,"dirt","OTHER","gravel",0.052,"OTHER","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"cattle","OTHER","cows",0.621,"cows","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"thief","thief","robber",0.586,"robber","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"drugs","medicine","drugs",0.121,"medicine","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"sphere","OTHER","ball",0.103,"ball","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"wedge","OTHER","concrete",0.017,"concrete","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"recycling","rubbish bin","recycling bin",0.055,"recycling bin","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"city","skyscrapers","town",0,"town","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",FALSE,"baby","toddler","kid",0.017,"toddler","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"socket","OTHER","face",0.164,"face","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"dog","dog","wolf",0,"wolf","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"money","money","coins",0.404,"coins","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",FALSE,"mouse","mouse","rat",0.211,"mouse","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",FALSE,"boot","boot","shoe",0.086,"boot","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",FALSE,"house","house","home",0.018,"house","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"soldier","OTHER","soldier",0.328,"soldier","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"couch","couch","sofa",0.2,"couch","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"factory","factory","pollution",0.017,"pollution","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"touchpad","touchscreen","tablet",0.569,"tablet","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",FALSE,"rabbit","rabbit","bunny",0.14,"rabbit","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",FALSE,"teacher","teacher","lecturer",0.055,"lecturer","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"woman","OTHER","woman",0.586,"woman","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"cook","woman","cook",0.164,"cook","male",25,6.5,6,4.5,5,4.5
+"p109928","robot.trust",TRUE,"artist","artist","painter",0.31,"painter","male",25,6.5,6,4.5,5,4.5
