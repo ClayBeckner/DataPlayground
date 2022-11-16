@@ -1,4 +1,4 @@
-"subject","peerCondition","alignedVoc","item","preWord","peerWord","peerWordProb","postWord","gender","age","agree","open","conscientious","extravert","stability"
+"subject","peerCondition","alignedVoc","item","preWord","peerWord","peerWordProb","postWord","gender","age","agree","open","conscientious","extravert","stable"
 "p10085","human",TRUE,"soldier","OTHER","soldier",0.328,"soldier","female",45,4,4.5,5,4,5
 "p10085","human",TRUE,"dirt","OTHER","gravel",0.052,"gravel","female",45,4,4.5,5,4,5
 "p10085","human",TRUE,"knife","knife","dagger",0.074,"dagger","female",45,4,4.5,5,4,5
