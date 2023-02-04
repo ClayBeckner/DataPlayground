@@ -1,0 +1,11 @@
+Strategy,LangXTransmission,Freq
+(1)X|X,SUCCESS,409
+(1)X|X,FAILURE,13
+(2)X|X+Dutch,SUCCESS,227
+(2)X|X+Dutch,FAILURE,16
+(3)X|Dutch,SUCCESS,147
+(3)X|Dutch,FAILURE,51
+"(4)X+Dutch|X+Dutch""",SUCCESS,445
+"(4)X+Dutch|X+Dutch""",FAILURE,117
+"(5)X+Dutch|Dutch""",SUCCESS,126
+"(5)X+Dutch|Dutch""",FAILURE,227
