@@ -1,0 +1,77 @@
+"pseudonym","cowGuess1","cowProx","oculusGuess","bigBenGuess","seenBen","order","peanutGuess","appleGuess","GangnamRating","background","guessConf","population","iteration","gangnamNum"
+"kangaroo",250,"4:6mths",50,250,"Yes","OculusFirst",98,800,"1- PLEASE, NO, NOT THIS SONG.","UK","1-particularlyBad","ET215","D",1
+"Warwick2",250,"2:2+Years",400,1000,"Yes","OculusFirst",84,500,"2- It's bearable, but not exactly enjoyable.","UK","2-notVeryConfident","ET215","D",2
+"Warwick3",100,"4:6mths",50,150,"Yes","BigBenFirst",30,200,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","D",1
+"anagosu",150,"1:never",20,45,"Yes","OculusFirst",180,1500,"4- I like it, in the right context.","Non-UK","2-notVeryConfident","ET215","D",4
+"Clover the human",254,"2:2+Years",64,180,"Yes","OculusFirst",58,1100,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","D",1
+"Warwick6",250,"2:2+Years",30,90,"Yes","OculusFirst",87,1200,"1- PLEASE, NO, NOT THIS SONG.","UK","4-good","ET215","D",1
+"Jimbob",250,"2:2+Years",30,120,"Yes","OculusFirst",97,240,"4- I like it, in the right context.","UK","2-notVeryConfident","ET215","D",4
+"Lorenzo",90,"2:2+Years",22,100,"Yes","OculusFirst",46,850,"4- I like it, in the right context.","Non-UK","3-average","ET215","D",4
+"Warwick9",225,"2:2+Years",40,95,"Yes","OculusFirst",41,900,"4- I like it, in the right context.","UK","1-particularlyBad","ET215","D",4
+"UwU",186.5,"2:2+Years",17.5,50,"Yes","BigBenFirst",288,960,"2- It's bearable, but not exactly enjoyable.","UK","2-notVeryConfident","ET215","D",2
+":D",225,"4:6mths",20,80,"Yes","OculusFirst",60,200,"4- I like it, in the right context.","Non-UK","1-particularlyBad","ET215","D",4
+"Dr Blay Ceckner",475,"2:2+Years",18,50,"No","OculusFirst",85,1600,"4- I like it, in the right context.","UK","2-notVeryConfident","ET215","D",4
+"cat",222.3,"2:2+Years",50,175,"Yes","BigBenFirst",137,857,"3-It's very average","UK","2-notVeryConfident","ET215","D",3
+"Dandelion",500,"3:<2yrs",20,47,"Yes","OculusFirst",84,2700,"3-It's very average","Non-UK","2-notVeryConfident","ET215","D",3
+"Warwick15",210,"4:6mths",10,22,"Yes","OculusFirst",60,1600,"4- I like it, in the right context.","Non-UK","3-average","ET215","D",4
+"dd",500,"4:6mths",10,50,"Yes","OculusFirst",66,500,"3-It's very average","Non-UK","2-notVeryConfident","ET215","D",3
+"Warwick17",400,"4:6mths",20,65,"Yes","BigBenFirst",77,850,"1- PLEASE, NO, NOT THIS SONG.","UK","3-average","ET215","D",1
+"warwickX1",400,"4:6mths",20,35,"Yes","BigBenFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","Non-UK","2-notVeryConfident","ET215","A",1
+"warwickX10",500,"4:6mths",14,80,"Yes","OculusFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","UK","2-notVeryConfident","ET215","A",2
+"warwickX11",225,"4:6mths",26,55,"Yes","OculusFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","UK","2-notVeryConfident","ET215","A",2
+"warwickX12",400,"2:2+Years",20,50,"Yes","BigBenFirst",NA,NA,"4- I like it, in the right context.","Non-UK","2-notVeryConfident","ET215","A",4
+"warwickX13",350,"5:current",50,70,"Yes","BigBenFirst",NA,NA,"4- I like it, in the right context.","UK","3-average","ET215","A",4
+"warwickX14",220,"4:6mths",16,40,"Yes","OculusFirst",NA,NA,"3-It's very average","UK","2-notVeryConfident","ET215","A",3
+"warwickX15",400,"3:<2yrs",20,50,"Yes","OculusFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","A",1
+"warwickX16",310,"4:6mths",22,84,"Yes","OculusFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","UK","3-average","ET215","A",2
+"warwickX17",500,"4:6mths",10,70,"Yes","OculusFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","UK","2-notVeryConfident","ET215","A",2
+"warwickX18",120,"2:2+Years",25,80,"Yes","BigBenFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","Non-UK","2-notVeryConfident","ET215","A",2
+"warwickX19",400,"1:never",10,100,"No","BigBenFirst",NA,NA,"5- IT'S TOTALLY AWESOME.","Non-UK","3-average","ET215","A",5
+"warwickX2",220,"4:6mths",177,90,"Yes","BigBenFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","3-average","ET215","A",1
+"warwickX20",200,"2:2+Years",25,250,"Yes","OculusFirst",NA,NA,"4- I like it, in the right context.","UK","3-average","ET215","A",4
+"warwickX21",230,"3:<2yrs",30,150,"Yes","BigBenFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","UK","3-average","ET215","A",2
+"warwickX22",10,"1:never",75,80,"No","BigBenFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","UK","2-notVeryConfident","ET215","A",2
+"warwickX3",150,"2:2+Years",18,100,"Yes","OculusFirst",NA,NA,"3-It's very average","Non-UK","3-average","ET215","A",3
+"warwickX4",225,"4:6mths",12,70,"Yes","OculusFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","A",1
+"warwickX5",300,"4:6mths",16,40,"Yes","OculusFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","A",1
+"warwickX6",180,"2:2+Years",60,100,"Yes","BigBenFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","Non-UK","2-notVeryConfident","ET215","A",2
+"warwickX7",100,"1:never",12,125,"Yes","OculusFirst",NA,NA,"3-It's very average","Non-UK","2-notVeryConfident","ET215","A",3
+"warwickX9",225,"2:2+Years",40,100,"Yes","BigBenFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","UK","2-notVeryConfident","ET215","A",2
+"warwickY1",150,"1:never",12,45,"Yes","OculusFirst",NA,NA,"4- I like it, in the right context.","Non-UK","3-average","ET215","B",4
+"warwickY10",700,"1:never",15,200,"Yes","OculusFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","Non-UK","2-notVeryConfident","ET215","B",1
+"warwickY11",300,"4:6mths",22,60,"I don't remember","OculusFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","4-good","ET215","B",1
+"warwickY12",450,"2:2+Years",12,120,"No","BigBenFirst",NA,NA,"4- I like it, in the right context.","Non-UK","3-average","ET215","B",4
+"warwickY13",300,"4:6mths",45,90,"Yes","OculusFirst",NA,NA,"4- I like it, in the right context.","UK","4-good","ET215","B",4
+"warwickY14",196,"2:2+Years",15,25,"No","OculusFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","B",1
+"warwickY15",700,"5:current",20,90,"Yes","OculusFirst",NA,NA,"5- IT'S TOTALLY AWESOME.","UK","2-notVeryConfident","ET215","B",5
+"warwickY16",200,"2:2+Years",30,130,"Yes","BigBenFirst",NA,NA,"3-It's very average","UK","3-average","ET215","B",3
+"warwickY17",600,"3:<2yrs",50,120,"Yes","BigBenFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","Non-UK","3-average","ET215","B",2
+"warwickY18",500,"1:never",20,100,"Yes","OculusFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","B",1
+"warwickY2",150,"4:6mths",15,26,"Yes","BigBenFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","B",1
+"warwickY3",250,"2:2+Years",50,100,"Yes","BigBenFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","3-average","ET215","B",1
+"warwickY4",400,"2:2+Years",30,100,"Yes","OculusFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","UK","2-notVeryConfident","ET215","B",2
+"warwickY5",300,"2:2+Years",12,100,"Yes","BigBenFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","B",1
+"warwickY6",700,"4:6mths",50,100,"Yes","OculusFirst",NA,NA,"2- It's bearable, but not exactly enjoyable.","UK","2-notVeryConfident","ET215","B",2
+"warwickY8",200,"3:<2yrs",15,400,"Yes","OculusFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","B",1
+"warwickY9",1000,"1:never",30,300,"No","BigBenFirst",NA,NA,"1- PLEASE, NO, NOT THIS SONG.","Non-UK","2-notVeryConfident","ET215","B",1
+"WarwickZ1",220,"4:6mths",75,250,"Yes","BigBenFirst",82,80,"1- PLEASE, NO, NOT THIS SONG.","UK","2-notVeryConfident","ET215","C",1
+"WarwickZ10",170,"2:2+Years",70,450,"Yes","BigBenFirst",73,35,"1- PLEASE, NO, NOT THIS SONG.","UK","1-particularlyBad","ET215","C",1
+"WarwickZ11",380,"3:<2yrs",14,70,"No","OculusFirst",38,600,"2- It's bearable, but not exactly enjoyable.","Non-UK","2-notVeryConfident","ET215","C",2
+"WarwickZ12",100,"2:2+Years",10,14,"Yes","BigBenFirst",88,2000,"4- I like it, in the right context.","Non-UK","3-average","ET215","C",4
+"WarwickZ13",300,"3:<2yrs",15,100,"Yes","BigBenFirst",154,500,"4- I like it, in the right context.","UK","3-average","ET215","C",4
+"WarwickZ14",225,"3:<2yrs",75,500,"Yes","BigBenFirst",120,90,"1- PLEASE, NO, NOT THIS SONG.","UK","1-particularlyBad","ET215","C",1
+"WarwickZ15",450,"4:6mths",22,24,"Yes","OculusFirst",175,2500,"1- PLEASE, NO, NOT THIS SONG.","UK","3-average","ET215","C",1
+"WarwickZ16",200,"4:6mths",15,70,"No","OculusFirst",130,1000,"4- I like it, in the right context.","Non-UK","2-notVeryConfident","ET215","C",4
+"WarwickZ17",300,"4:6mths",50,80,"Yes","BigBenFirst",36,2500,"4- I like it, in the right context.","UK","2-notVeryConfident","ET215","C",4
+"WarwickZ18",125,"3:<2yrs",60,400,"Yes","OculusFirst",55,900,"2- It's bearable, but not exactly enjoyable.","Non-UK","2-notVeryConfident","ET215","C",2
+"WarwickZ19",350,"2:2+Years",15,35,"I don't remember","BigBenFirst",100,400,"1- PLEASE, NO, NOT THIS SONG.","Non-UK","1-particularlyBad","ET215","C",1
+"WarwickZ2",300,"3:<2yrs",40,250,"No","BigBenFirst",145,450,"2- It's bearable, but not exactly enjoyable.","UK","3-average","ET215","C",2
+"WarwickZ20",500,"2:2+Years",38,160,"No","BigBenFirst",103,500,"4- I like it, in the right context.","Non-UK","4-good","ET215","C",4
+"WarwickZ21",1350,"2:2+Years",43,90,"Yes","OculusFirst",123,760,"4- I like it, in the right context.","Non-UK","1-particularlyBad","ET215","C",4
+"WarwickZ3",300,"3:<2yrs",60,100,"Yes","BigBenFirst",114,500,"4- I like it, in the right context.","UK","3-average","ET215","C",4
+"WarwickZ4",145,"2:2+Years",40,110,"Yes","BigBenFirst",1411,1860,"1- PLEASE, NO, NOT THIS SONG.","UK","3-average","ET215","C",1
+"WarwickZ5",200,"4:6mths",500,1250,"Yes","BigBenFirst",85,750,"2- It's bearable, but not exactly enjoyable.","UK","3-average","ET215","C",2
+"WarwickZ6",600,"2:2+Years",500,150,"I don't remember","BigBenFirst",55,700,"4- I like it, in the right context.","UK","2-notVeryConfident","ET215","C",4
+"WarwickZ7",400,"4:6mths",50,350,"Yes","BigBenFirst",116,1000,"2- It's bearable, but not exactly enjoyable.","UK","3-average","ET215","C",2
+"WarwickZ8",115,"2:2+Years",60,100,"Yes","BigBenFirst",69,40,"1- PLEASE, NO, NOT THIS SONG.","Non-UK","2-notVeryConfident","ET215","C",1
+"WarwickZ9",250,"1:never",16,120,"Yes","BigBenFirst",150,700,"4- I like it, in the right context.","Non-UK","2-notVeryConfident","ET215","C",4
