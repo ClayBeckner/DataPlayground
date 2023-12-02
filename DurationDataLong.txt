@@ -1,0 +1,86 @@
+"pseudonym","DurationLearning","EstType","Trial","value"
+"kangaroo","TrialFeedback","underestimator","1",8.85
+"Warwick2","TrialFeedback","overestimator","1",10.19
+"Warwick3","TrialFeedback","underestimator","1",9.17
+"anagosu","TrialFeedback","underestimator","1",9.95
+"Clover the human","TrialFeedback","underestimator","1",9.99
+"Warwick6","TrialFeedback","underestimator","1",9.34
+"Jimbob","TrialFeedback","overestimator","1",11.37
+"Lorenzo","TrialFeedback","overestimator","1",12.13
+"Warwick9","NoFeedback","underestimator","1",8.82
+"UwU","NoFeedback","overestimator","1",10.6
+":D","TrialFeedback","underestimator","1",8.22
+"Dr Blay Ceckner","TrialFeedback","underestimator","1",8.82
+"cat","TrialFeedback","underestimator","1",8.03
+"Dandelion","TrialFeedback","overestimator","1",10.71
+"Warwick15","TrialFeedback","underestimator","1",9.39
+"dd","NoFeedback","underestimator","1",5.79
+"Warwick17","TrialFeedback","underestimator","1",8.28
+"kangaroo","TrialFeedback","underestimator","2",8.95
+"Warwick2","TrialFeedback","overestimator","2",10.17
+"Warwick3","TrialFeedback","underestimator","2",10.75
+"anagosu","TrialFeedback","underestimator","2",9.9
+"Clover the human","TrialFeedback","underestimator","2",10.11
+"Warwick6","TrialFeedback","underestimator","2",10.45
+"Jimbob","TrialFeedback","overestimator","2",10.81
+"Lorenzo","TrialFeedback","overestimator","2",10.63
+"Warwick9","NoFeedback","underestimator","2",10.58
+"UwU","NoFeedback","overestimator","2",11.08
+":D","TrialFeedback","underestimator","2",9.04
+"Dr Blay Ceckner","TrialFeedback","underestimator","2",10.29
+"cat","TrialFeedback","underestimator","2",9.26
+"Dandelion","TrialFeedback","overestimator","2",10.55
+"Warwick15","TrialFeedback","underestimator","2",10.4
+"dd","NoFeedback","underestimator","2",7.66
+"Warwick17","TrialFeedback","underestimator","2",9.01
+"kangaroo","TrialFeedback","underestimator","3",11.1
+"Warwick2","TrialFeedback","overestimator","3",9.84
+"Warwick3","TrialFeedback","underestimator","3",11.52
+"anagosu","TrialFeedback","underestimator","3",10.52
+"Clover the human","TrialFeedback","underestimator","3",10.06
+"Warwick6","TrialFeedback","underestimator","3",9.59
+"Jimbob","TrialFeedback","overestimator","3",11.21
+"Lorenzo","TrialFeedback","overestimator","3",10.28
+"Warwick9","NoFeedback","underestimator","3",11.53
+"UwU","NoFeedback","overestimator","3",11.53
+":D","TrialFeedback","underestimator","3",10.05
+"Dr Blay Ceckner","TrialFeedback","underestimator","3",9.5
+"cat","TrialFeedback","underestimator","3",9.38
+"Dandelion","TrialFeedback","overestimator","3",10.67
+"Warwick15","TrialFeedback","underestimator","3",10.18
+"dd","NoFeedback","underestimator","3",7.69
+"Warwick17","TrialFeedback","underestimator","3",9.3
+"kangaroo","TrialFeedback","underestimator","4",10.18
+"Warwick2","TrialFeedback","overestimator","4",9.64
+"Warwick3","TrialFeedback","underestimator","4",9.65
+"anagosu","TrialFeedback","underestimator","4",9.93
+"Clover the human","TrialFeedback","underestimator","4",9.98
+"Warwick6","TrialFeedback","underestimator","4",10.03
+"Jimbob","TrialFeedback","overestimator","4",10.99
+"Lorenzo","TrialFeedback","overestimator","4",9.46
+"Warwick9","NoFeedback","underestimator","4",12.05
+"UwU","NoFeedback","overestimator","4",11.01
+":D","TrialFeedback","underestimator","4",10
+"Dr Blay Ceckner","TrialFeedback","underestimator","4",10.26
+"cat","TrialFeedback","underestimator","4",10.62
+"Dandelion","TrialFeedback","overestimator","4",10.47
+"Warwick15","TrialFeedback","underestimator","4",10.01
+"dd","NoFeedback","underestimator","4",8.1
+"Warwick17","TrialFeedback","underestimator","4",8.46
+"kangaroo","TrialFeedback","underestimator","5",9.75
+"Warwick2","TrialFeedback","overestimator","5",12.26
+"Warwick3","TrialFeedback","underestimator","5",9.57
+"anagosu","TrialFeedback","underestimator","5",9.46
+"Clover the human","TrialFeedback","underestimator","5",9.98
+"Warwick6","TrialFeedback","underestimator","5",9.9
+"Jimbob","TrialFeedback","overestimator","5",9.95
+"Lorenzo","TrialFeedback","overestimator","5",10.76
+"Warwick9","NoFeedback","underestimator","5",9.45
+"UwU","NoFeedback","overestimator","5",11.21
+":D","TrialFeedback","underestimator","5",10.21
+"Dr Blay Ceckner","TrialFeedback","underestimator","5",9.93
+"cat","TrialFeedback","underestimator","5",10.76
+"Dandelion","TrialFeedback","overestimator","5",10.55
+"Warwick15","TrialFeedback","underestimator","5",9.74
+"dd","NoFeedback","underestimator","5",9.53
+"Warwick17","TrialFeedback","underestimator","5",9.18
