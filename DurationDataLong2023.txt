@@ -1,86 +1,86 @@
-"pseudonym","DurationLearning","EstType","Trial","value"
-":D","TrialFeedback","underestimator",1,8.22
-":D","TrialFeedback","underestimator",2,9.04
-":D","TrialFeedback","underestimator",3,10.05
-":D","TrialFeedback","underestimator",4,10
-":D","TrialFeedback","underestimator",5,10.21
-"anagosu","TrialFeedback","underestimator",1,9.95
-"anagosu","TrialFeedback","underestimator",2,9.9
-"anagosu","TrialFeedback","underestimator",3,10.52
-"anagosu","TrialFeedback","underestimator",4,9.93
-"anagosu","TrialFeedback","underestimator",5,9.46
-"cat","TrialFeedback","underestimator",1,8.03
-"cat","TrialFeedback","underestimator",2,9.26
-"cat","TrialFeedback","underestimator",3,9.38
-"cat","TrialFeedback","underestimator",4,10.62
-"cat","TrialFeedback","underestimator",5,10.76
-"Clover the human","TrialFeedback","underestimator",1,9.99
-"Clover the human","TrialFeedback","underestimator",2,10.11
-"Clover the human","TrialFeedback","underestimator",3,10.06
-"Clover the human","TrialFeedback","underestimator",4,9.98
-"Clover the human","TrialFeedback","underestimator",5,9.98
-"Dandelion","TrialFeedback","overestimator",1,10.71
-"Dandelion","TrialFeedback","overestimator",2,10.55
-"Dandelion","TrialFeedback","overestimator",3,10.67
-"Dandelion","TrialFeedback","overestimator",4,10.47
-"Dandelion","TrialFeedback","overestimator",5,10.55
-"dd","NoFeedback","underestimator",1,5.79
-"dd","NoFeedback","underestimator",2,7.66
-"dd","NoFeedback","underestimator",3,7.69
-"dd","NoFeedback","underestimator",4,8.1
-"dd","NoFeedback","underestimator",5,9.53
-"Dr Blay Ceckner","TrialFeedback","underestimator",1,8.82
-"Dr Blay Ceckner","TrialFeedback","underestimator",2,10.29
-"Dr Blay Ceckner","TrialFeedback","underestimator",3,9.5
-"Dr Blay Ceckner","TrialFeedback","underestimator",4,10.26
-"Dr Blay Ceckner","TrialFeedback","underestimator",5,9.93
-"Jimbob","TrialFeedback","overestimator",1,11.37
-"Jimbob","TrialFeedback","overestimator",2,10.81
-"Jimbob","TrialFeedback","overestimator",3,11.21
-"Jimbob","TrialFeedback","overestimator",4,10.99
-"Jimbob","TrialFeedback","overestimator",5,9.95
-"kangaroo","TrialFeedback","underestimator",1,8.85
-"kangaroo","TrialFeedback","underestimator",2,8.95
-"kangaroo","TrialFeedback","underestimator",3,11.1
-"kangaroo","TrialFeedback","underestimator",4,10.18
-"kangaroo","TrialFeedback","underestimator",5,9.75
-"Lorenzo","TrialFeedback","overestimator",1,12.13
-"Lorenzo","TrialFeedback","overestimator",2,10.63
-"Lorenzo","TrialFeedback","overestimator",3,10.28
-"Lorenzo","TrialFeedback","overestimator",4,9.46
-"Lorenzo","TrialFeedback","overestimator",5,10.76
-"UwU","NoFeedback","overestimator",1,10.6
-"UwU","NoFeedback","overestimator",2,11.08
-"UwU","NoFeedback","overestimator",3,11.53
-"UwU","NoFeedback","overestimator",4,11.01
-"UwU","NoFeedback","overestimator",5,11.21
-"Warwick15","TrialFeedback","underestimator",1,9.39
-"Warwick15","TrialFeedback","underestimator",2,10.4
-"Warwick15","TrialFeedback","underestimator",3,10.18
-"Warwick15","TrialFeedback","underestimator",4,10.01
-"Warwick15","TrialFeedback","underestimator",5,9.74
-"Warwick17","TrialFeedback","underestimator",1,8.28
-"Warwick17","TrialFeedback","underestimator",2,9.01
-"Warwick17","TrialFeedback","underestimator",3,9.3
-"Warwick17","TrialFeedback","underestimator",4,8.46
-"Warwick17","TrialFeedback","underestimator",5,9.18
-"Warwick2","TrialFeedback","overestimator",1,10.19
-"Warwick2","TrialFeedback","overestimator",2,10.17
-"Warwick2","TrialFeedback","overestimator",3,9.84
-"Warwick2","TrialFeedback","overestimator",4,9.64
-"Warwick2","TrialFeedback","overestimator",5,12.26
-"Warwick3","TrialFeedback","underestimator",1,9.17
-"Warwick3","TrialFeedback","underestimator",2,10.75
-"Warwick3","TrialFeedback","underestimator",3,11.52
-"Warwick3","TrialFeedback","underestimator",4,9.65
-"Warwick3","TrialFeedback","underestimator",5,9.57
-"Warwick6","TrialFeedback","underestimator",1,9.34
-"Warwick6","TrialFeedback","underestimator",2,10.45
-"Warwick6","TrialFeedback","underestimator",3,9.59
-"Warwick6","TrialFeedback","underestimator",4,10.03
-"Warwick6","TrialFeedback","underestimator",5,9.9
-"Warwick9","NoFeedback","underestimator",1,8.82
-"Warwick9","NoFeedback","underestimator",2,10.58
-"Warwick9","NoFeedback","underestimator",3,11.53
-"Warwick9","NoFeedback","underestimator",4,12.05
-"Warwick9","NoFeedback","underestimator",5,9.45
+"pseudonym","DurationLearning","EstType","Trial","DurationEstimate","DurationError"
+":D","TrialFeedback","underestimator",1,8.22,-1.78
+":D","TrialFeedback","underestimator",2,9.04,-0.960000000000001
+":D","TrialFeedback","underestimator",3,10.05,0.0500000000000007
+":D","TrialFeedback","underestimator",4,10,0
+":D","TrialFeedback","underestimator",5,10.21,0.210000000000001
+"anagosu","TrialFeedback","underestimator",1,9.95,-0.0500000000000007
+"anagosu","TrialFeedback","underestimator",2,9.9,-0.0999999999999996
+"anagosu","TrialFeedback","underestimator",3,10.52,0.52
+"anagosu","TrialFeedback","underestimator",4,9.93,-0.0700000000000003
+"anagosu","TrialFeedback","underestimator",5,9.46,-0.539999999999999
+"cat","TrialFeedback","underestimator",1,8.03,-1.97
+"cat","TrialFeedback","underestimator",2,9.26,-0.74
+"cat","TrialFeedback","underestimator",3,9.38,-0.619999999999999
+"cat","TrialFeedback","underestimator",4,10.62,0.619999999999999
+"cat","TrialFeedback","underestimator",5,10.76,0.76
+"Clover the human","TrialFeedback","underestimator",1,9.99,-0.00999999999999979
+"Clover the human","TrialFeedback","underestimator",2,10.11,0.109999999999999
+"Clover the human","TrialFeedback","underestimator",3,10.06,0.0600000000000005
+"Clover the human","TrialFeedback","underestimator",4,9.98,-0.0199999999999996
+"Clover the human","TrialFeedback","underestimator",5,9.98,-0.0199999999999996
+"Dandelion","TrialFeedback","overestimator",1,10.71,0.710000000000001
+"Dandelion","TrialFeedback","overestimator",2,10.55,0.550000000000001
+"Dandelion","TrialFeedback","overestimator",3,10.67,0.67
+"Dandelion","TrialFeedback","overestimator",4,10.47,0.470000000000001
+"Dandelion","TrialFeedback","overestimator",5,10.55,0.550000000000001
+"dd","NoFeedback","underestimator",1,5.79,-4.21
+"dd","NoFeedback","underestimator",2,7.66,-2.34
+"dd","NoFeedback","underestimator",3,7.69,-2.31
+"dd","NoFeedback","underestimator",4,8.1,-1.9
+"dd","NoFeedback","underestimator",5,9.53,-0.470000000000001
+"Dr Blay Ceckner","TrialFeedback","underestimator",1,8.82,-1.18
+"Dr Blay Ceckner","TrialFeedback","underestimator",2,10.29,0.289999999999999
+"Dr Blay Ceckner","TrialFeedback","underestimator",3,9.5,-0.5
+"Dr Blay Ceckner","TrialFeedback","underestimator",4,10.26,0.26
+"Dr Blay Ceckner","TrialFeedback","underestimator",5,9.93,-0.0700000000000003
+"Jimbob","TrialFeedback","overestimator",1,11.37,1.37
+"Jimbob","TrialFeedback","overestimator",2,10.81,0.81
+"Jimbob","TrialFeedback","overestimator",3,11.21,1.21
+"Jimbob","TrialFeedback","overestimator",4,10.99,0.99
+"Jimbob","TrialFeedback","overestimator",5,9.95,-0.0500000000000007
+"kangaroo","TrialFeedback","underestimator",1,8.85,-1.15
+"kangaroo","TrialFeedback","underestimator",2,8.95,-1.05
+"kangaroo","TrialFeedback","underestimator",3,11.1,1.1
+"kangaroo","TrialFeedback","underestimator",4,10.18,0.18
+"kangaroo","TrialFeedback","underestimator",5,9.75,-0.25
+"Lorenzo","TrialFeedback","overestimator",1,12.13,2.13
+"Lorenzo","TrialFeedback","overestimator",2,10.63,0.630000000000001
+"Lorenzo","TrialFeedback","overestimator",3,10.28,0.279999999999999
+"Lorenzo","TrialFeedback","overestimator",4,9.46,-0.539999999999999
+"Lorenzo","TrialFeedback","overestimator",5,10.76,0.76
+"UwU","NoFeedback","overestimator",1,10.6,0.6
+"UwU","NoFeedback","overestimator",2,11.08,1.08
+"UwU","NoFeedback","overestimator",3,11.53,1.53
+"UwU","NoFeedback","overestimator",4,11.01,1.01
+"UwU","NoFeedback","overestimator",5,11.21,1.21
+"Warwick15","TrialFeedback","underestimator",1,9.39,-0.609999999999999
+"Warwick15","TrialFeedback","underestimator",2,10.4,0.4
+"Warwick15","TrialFeedback","underestimator",3,10.18,0.18
+"Warwick15","TrialFeedback","underestimator",4,10.01,0.00999999999999979
+"Warwick15","TrialFeedback","underestimator",5,9.74,-0.26
+"Warwick17","TrialFeedback","underestimator",1,8.28,-1.72
+"Warwick17","TrialFeedback","underestimator",2,9.01,-0.99
+"Warwick17","TrialFeedback","underestimator",3,9.3,-0.699999999999999
+"Warwick17","TrialFeedback","underestimator",4,8.46,-1.54
+"Warwick17","TrialFeedback","underestimator",5,9.18,-0.82
+"Warwick2","TrialFeedback","overestimator",1,10.19,0.19
+"Warwick2","TrialFeedback","overestimator",2,10.17,0.17
+"Warwick2","TrialFeedback","overestimator",3,9.84,-0.16
+"Warwick2","TrialFeedback","overestimator",4,9.64,-0.359999999999999
+"Warwick2","TrialFeedback","overestimator",5,12.26,2.26
+"Warwick3","TrialFeedback","underestimator",1,9.17,-0.83
+"Warwick3","TrialFeedback","underestimator",2,10.75,0.75
+"Warwick3","TrialFeedback","underestimator",3,11.52,1.52
+"Warwick3","TrialFeedback","underestimator",4,9.65,-0.35
+"Warwick3","TrialFeedback","underestimator",5,9.57,-0.43
+"Warwick6","TrialFeedback","underestimator",1,9.34,-0.66
+"Warwick6","TrialFeedback","underestimator",2,10.45,0.449999999999999
+"Warwick6","TrialFeedback","underestimator",3,9.59,-0.41
+"Warwick6","TrialFeedback","underestimator",4,10.03,0.0299999999999994
+"Warwick6","TrialFeedback","underestimator",5,9.9,-0.0999999999999996
+"Warwick9","NoFeedback","underestimator",1,8.82,-1.18
+"Warwick9","NoFeedback","underestimator",2,10.58,0.58
+"Warwick9","NoFeedback","underestimator",3,11.53,1.53
+"Warwick9","NoFeedback","underestimator",4,12.05,2.05
+"Warwick9","NoFeedback","underestimator",5,9.45,-0.550000000000001
