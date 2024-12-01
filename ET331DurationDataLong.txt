@@ -1,0 +1,111 @@
+"pseudonym","DurationLearning","EstType","Trial","DurationEstimate","DurationError"
+":D","TrialFeedback","underestimator",1,9.04,-0.960000000000001
+":D","TrialFeedback","underestimator",2,10.18,0.18
+":D","TrialFeedback","underestimator",3,9.23,-0.77
+":D","TrialFeedback","underestimator",4,8.71,-1.29
+":D","TrialFeedback","underestimator",5,9.65,-0.35
+"Genavieve","NoFeedback","overestimator",1,10.78,0.779999999999999
+"Genavieve","NoFeedback","overestimator",2,9.63,-0.369999999999999
+"Genavieve","NoFeedback","overestimator",3,10.18,0.18
+"Genavieve","NoFeedback","overestimator",4,11.22,1.22
+"Genavieve","NoFeedback","overestimator",5,10.07,0.0700000000000003
+"GreenTree","TrialFeedback","underestimator",1,9.49,-0.51
+"GreenTree","TrialFeedback","underestimator",2,11.12,1.12
+"GreenTree","TrialFeedback","underestimator",3,10.85,0.85
+"GreenTree","TrialFeedback","underestimator",4,9.73,-0.27
+"GreenTree","TrialFeedback","underestimator",5,9.07,-0.93
+"Guy","TrialFeedback","underestimator",1,9.61,-0.390000000000001
+"Guy","TrialFeedback","underestimator",2,12.99,2.99
+"Guy","TrialFeedback","underestimator",3,9.27,-0.73
+"Guy","TrialFeedback","underestimator",4,9.72,-0.279999999999999
+"Guy","TrialFeedback","underestimator",5,10.46,0.460000000000001
+"Jack","TrialFeedback","overestimator",1,11.01,1.01
+"Jack","TrialFeedback","overestimator",2,10.45,0.449999999999999
+"Jack","TrialFeedback","overestimator",3,9.7,-0.300000000000001
+"Jack","TrialFeedback","overestimator",4,10.4,0.4
+"Jack","TrialFeedback","overestimator",5,10.59,0.59
+"John Smith","TrialFeedback","overestimator",1,10.53,0.529999999999999
+"John Smith","TrialFeedback","overestimator",2,9.08,-0.92
+"John Smith","TrialFeedback","overestimator",3,9.71,-0.289999999999999
+"John Smith","TrialFeedback","overestimator",4,9.69,-0.31
+"John Smith","TrialFeedback","overestimator",5,9.99,-0.00999999999999979
+"Krungleflorpler","TrialFeedback","underestimator",1,9.8,-0.199999999999999
+"Krungleflorpler","TrialFeedback","underestimator",2,9.41,-0.59
+"Krungleflorpler","TrialFeedback","underestimator",3,9.91,-0.0899999999999999
+"Krungleflorpler","TrialFeedback","underestimator",4,9.51,-0.49
+"Krungleflorpler","TrialFeedback","underestimator",5,10.23,0.23
+"Kyle","TrialFeedback","overestimator",1,13.46,3.46
+"Kyle","TrialFeedback","overestimator",2,11.23,1.23
+"Kyle","TrialFeedback","overestimator",3,10.98,0.98
+"Kyle","TrialFeedback","overestimator",4,9.96,-0.0399999999999991
+"Kyle","TrialFeedback","overestimator",5,9.64,-0.359999999999999
+"Lulu","TrialFeedback","overestimator",1,13.21,3.21
+"Lulu","TrialFeedback","overestimator",2,9.64,-0.359999999999999
+"Lulu","TrialFeedback","overestimator",3,11.61,1.61
+"Lulu","TrialFeedback","overestimator",4,12.34,2.34
+"Lulu","TrialFeedback","overestimator",5,9.84,-0.16
+"Molly ","NoFeedback","underestimator",1,9.93,-0.0700000000000003
+"Molly ","NoFeedback","underestimator",2,9.83,-0.17
+"Molly ","NoFeedback","underestimator",3,9.95,-0.0500000000000007
+"Molly ","NoFeedback","underestimator",4,9.94,-0.0600000000000005
+"Molly ","NoFeedback","underestimator",5,9.71,-0.289999999999999
+"Satie","TrialFeedback","overestimator",1,11.32,1.32
+"Satie","TrialFeedback","overestimator",2,10.41,0.41
+"Satie","TrialFeedback","overestimator",3,9.84,-0.16
+"Satie","TrialFeedback","overestimator",4,11.02,1.02
+"Satie","TrialFeedback","overestimator",5,10.1,0.0999999999999996
+"Suzie","TrialFeedback","underestimator",1,8.55,-1.45
+"Suzie","TrialFeedback","underestimator",2,8.81,-1.19
+"Suzie","TrialFeedback","underestimator",3,9.12,-0.880000000000001
+"Suzie","TrialFeedback","underestimator",4,11.55,1.55
+"Suzie","TrialFeedback","underestimator",5,9.8,-0.199999999999999
+"Warwick12","TrialFeedback","overestimator",1,11.16,1.16
+"Warwick12","TrialFeedback","overestimator",2,9.65,-0.35
+"Warwick12","TrialFeedback","overestimator",3,10.24,0.24
+"Warwick12","TrialFeedback","overestimator",4,11.1,1.1
+"Warwick12","TrialFeedback","overestimator",5,9.84,-0.16
+"Warwick16","TrialFeedback","underestimator",1,8.86,-1.14
+"Warwick16","TrialFeedback","underestimator",2,9.91,-0.0899999999999999
+"Warwick16","TrialFeedback","underestimator",3,9.81,-0.19
+"Warwick16","TrialFeedback","underestimator",4,10.26,0.26
+"Warwick16","TrialFeedback","underestimator",5,9.94,-0.0600000000000005
+"Warwick17","TrialFeedback","underestimator",1,6.39,-3.61
+"Warwick17","TrialFeedback","underestimator",2,9.24,-0.76
+"Warwick17","TrialFeedback","underestimator",3,8.65,-1.35
+"Warwick17","TrialFeedback","underestimator",4,10.36,0.359999999999999
+"Warwick17","TrialFeedback","underestimator",5,10.02,0.0199999999999996
+"Warwick20","TrialFeedback","underestimator",1,7.25,-2.75
+"Warwick20","TrialFeedback","underestimator",2,9.15,-0.85
+"Warwick20","TrialFeedback","underestimator",3,10.69,0.69
+"Warwick20","TrialFeedback","underestimator",4,11.15,1.15
+"Warwick20","TrialFeedback","underestimator",5,9.67,-0.33
+"Warwick9","TrialFeedback","overestimator",1,12.21,2.21
+"Warwick9","TrialFeedback","overestimator",2,9.54,-0.460000000000001
+"Warwick9","TrialFeedback","overestimator",3,10.1,0.0999999999999996
+"Warwick9","TrialFeedback","overestimator",4,11,1
+"Warwick9","TrialFeedback","overestimator",5,10.66,0.66
+"cherry","TrialFeedback","underestimator",1,8.66,-1.34
+"cherry","TrialFeedback","underestimator",2,8.94,-1.06
+"cherry","TrialFeedback","underestimator",3,8.91,-1.09
+"cherry","TrialFeedback","underestimator",4,10.79,0.789999999999999
+"cherry","TrialFeedback","underestimator",5,11,1
+"penelope","TrialFeedback","underestimator",1,9.75,-0.25
+"penelope","TrialFeedback","underestimator",2,9.78,-0.220000000000001
+"penelope","TrialFeedback","underestimator",3,9.51,-0.49
+"penelope","TrialFeedback","underestimator",4,9.71,-0.289999999999999
+"penelope","TrialFeedback","underestimator",5,10.1,0.0999999999999996
+"spark","TrialFeedback","overestimator",1,11.18,1.18
+"spark","TrialFeedback","overestimator",2,9.87,-0.130000000000001
+"spark","TrialFeedback","overestimator",3,10.78,0.779999999999999
+"spark","TrialFeedback","overestimator",4,12.26,2.26
+"spark","TrialFeedback","overestimator",5,9.65,-0.35
+"surveymaster","TrialFeedback","underestimator",1,6.8,-3.2
+"surveymaster","TrialFeedback","underestimator",2,9.44,-0.56
+"surveymaster","TrialFeedback","underestimator",3,8.53,-1.47
+"surveymaster","TrialFeedback","underestimator",4,9.28,-0.720000000000001
+"surveymaster","TrialFeedback","underestimator",5,10.97,0.970000000000001
+"żul","TrialFeedback","underestimator",1,6.3,-3.7
+"żul","TrialFeedback","underestimator",2,8.21,-1.79
+"żul","TrialFeedback","underestimator",3,11.2,1.2
+"żul","TrialFeedback","underestimator",4,9.59,-0.41
+"żul","TrialFeedback","underestimator",5,10.42,0.42
