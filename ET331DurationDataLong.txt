@@ -1,14 +1,9 @@
-"pseudonym","DurationLearning","EstType","Trial","DurationEstimate","DurationError"
+"pseudonym","DurationLearning","GuessingType","Trial","DurationGuess","DurationError"
 ":D","TrialFeedback","underestimator",1,9.04,-0.960000000000001
 ":D","TrialFeedback","underestimator",2,10.18,0.18
 ":D","TrialFeedback","underestimator",3,9.23,-0.77
 ":D","TrialFeedback","underestimator",4,8.71,-1.29
 ":D","TrialFeedback","underestimator",5,9.65,-0.35
-"Genavieve","NoFeedback","overestimator",1,10.78,0.779999999999999
-"Genavieve","NoFeedback","overestimator",2,9.63,-0.369999999999999
-"Genavieve","NoFeedback","overestimator",3,10.18,0.18
-"Genavieve","NoFeedback","overestimator",4,11.22,1.22
-"Genavieve","NoFeedback","overestimator",5,10.07,0.0700000000000003
 "GreenTree","TrialFeedback","underestimator",1,9.49,-0.51
 "GreenTree","TrialFeedback","underestimator",2,11.12,1.12
 "GreenTree","TrialFeedback","underestimator",3,10.85,0.85
@@ -44,11 +39,6 @@
 "Lulu","TrialFeedback","overestimator",3,11.61,1.61
 "Lulu","TrialFeedback","overestimator",4,12.34,2.34
 "Lulu","TrialFeedback","overestimator",5,9.84,-0.16
-"Molly ","NoFeedback","underestimator",1,9.93,-0.0700000000000003
-"Molly ","NoFeedback","underestimator",2,9.83,-0.17
-"Molly ","NoFeedback","underestimator",3,9.95,-0.0500000000000007
-"Molly ","NoFeedback","underestimator",4,9.94,-0.0600000000000005
-"Molly ","NoFeedback","underestimator",5,9.71,-0.289999999999999
 "Satie","TrialFeedback","overestimator",1,11.32,1.32
 "Satie","TrialFeedback","overestimator",2,10.41,0.41
 "Satie","TrialFeedback","overestimator",3,9.84,-0.16
