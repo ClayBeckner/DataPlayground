@@ -1,4 +1,4 @@
-Participant,Gender,Age,PrefHand,Table_Word,CatastQ,FearPainQ,Rest_HR,Condition,TRIAL,degrees,PainT,RemoveT,HR,ChngHR,PainQ,EmotQ,FunQ,DistractQ
+Participant,Gender,Age,PrefHand,Table_Word,CatastQ,FearPainQ,Rest_HR,Condition,TRIAL,degrees,PainThreshold,PainTolerance,HR,ChngHR,PainQ,EmotQ,FunQ,DistractQ
 REF001,Male,22.33333333,Right,SOLID,17,76,105.4,F__k,4,3.9,39.9,76,113.5,8.1,2,34,1,62
 REF001,Male,22.33333333,Right,SOLID,17,76,105.4,Fouch,3,4.1,24.6,51.7,111.2,5.8,2.5,11,3,36
 REF001,Male,22.33333333,Right,SOLID,17,76,105.4,Twiz,1,3.1,17.3,35.3,123.3,17.9,3,1,24,27
